@@ -1,4 +1,49 @@
 {
-  "cards": {},
-  "by_name": {}
+  "cards": {
+    "OR-001": {
+      "id": "OR-001",
+      "name": "Paperina - Maga di Primo Livello",
+      "set": "OR",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-001.jpg"
+    },
+    "OR-002": {
+      "id": "OR-002",
+      "name": "Paperina - Maga di Secondo Livello",
+      "set": "OR",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-002.jpg"
+    },
+    "OR-003": {
+      "id": "OR-003",
+      "name": "Topolino - Apprendista Stregone",
+      "set": "OR",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-003.jpg"
+    },
+    "OR-004": {
+      "id": "OR-004",
+      "name": "Topolino - Mago di Primo Livello",
+      "set": "OR",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-004.jpg"
+    },
+    "OR-005": {
+      "id": "OR-005",
+      "name": "Yuri - Mastro Cuoco",
+      "set": "OR",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-005.jpg"
+    },
+    "OR-006": {
+      "id": "OR-006",
+      "name": "Zaius - Drago Rosicchiaossa",
+      "set": "OR",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-006.jpg"
+    }
+  },
+
+  "by_name": {
+    "Paperina - Maga di Primo Livello": ["OR-001"],
+    "Paperina - Maga di Secondo Livello": ["OR-002"],
+    "Topolino - Apprendista Stregone": ["OR-003"],
+    "Topolino - Mago di Primo Livello": ["OR-004"],
+    "Yuri - Mastro Cuoco": ["OR-005"],
+    "Zaius - Drago Rosicchiaossa": ["OR-006"]
+  }
 }
