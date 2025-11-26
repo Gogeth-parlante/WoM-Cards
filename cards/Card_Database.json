@@ -1,0 +1,5129 @@
+{
+  "cards": {
+    "OR-001": {
+      "id": "OR-001",
+      "name": "Paperina - Maga di Primo Livello",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-001.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-002": {
+      "id": "OR-002",
+      "name": "Paperina - Maga di Secondo Livello",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-002.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-003": {
+      "id": "OR-003",
+      "name": "Topolino - Apprendista Stregone",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-003.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-004": {
+      "id": "OR-004",
+      "name": "Topolino - Mago di Primo Livello",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-004.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-005": {
+      "id": "OR-005",
+      "name": "Yuri - Mastro Cuoco",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-005.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-006": {
+      "id": "OR-006",
+      "name": "Zaius - Drago Rosicchiaossa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-006.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-007": {
+      "id": "OR-007",
+      "name": "Bassotto Unus - Furfante di Strada",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-007.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-008": {
+      "id": "OR-008",
+      "name": "Bruma - Cuoco Brontolone",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-008.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-009": {
+      "id": "OR-009",
+      "name": "Garma - Strega Dispettosa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-009.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-010": {
+      "id": "OR-010",
+      "name": "Pippo - Stregone con Borsa Magica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-010.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-011": {
+      "id": "OR-011",
+      "name": "Pippo - Mago Recalcitrante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-011.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-012": {
+      "id": "OR-012",
+      "name": "Zoron - Drago Pigro",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-012.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-013": {
+      "id": "OR-013",
+      "name": "Gambadilegno - Ladro Stregone",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-013.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-014": {
+      "id": "OR-014",
+      "name": "Minni - Maga di Secondo Livello",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-014.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-015": {
+      "id": "OR-015",
+      "name": "Minni - Principessa di Moonland",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-015.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-016": {
+      "id": "OR-016",
+      "name": "Neraja - Strega Vendicativa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-016.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-017": {
+      "id": "OR-017",
+      "name": "Paperino - Mago di Primo Livello",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-017.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-018": {
+      "id": "OR-018",
+      "name": "Paperino - Mago di Secondo Livello",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-018.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-019": {
+      "id": "OR-019",
+      "name": "Zefren - Drago Fiammeggiante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-019.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-020": {
+      "id": "OR-020",
+      "name": "Amelia - Strega Ambiziosa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-020.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-021": {
+      "id": "OR-021",
+      "name": "Bassotto Tertius - Dal Manto Invisibile",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-021.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-022": {
+      "id": "OR-022",
+      "name": "Clarabella - Maga di Primo Livello",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-022.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-023": {
+      "id": "OR-023",
+      "name": "Clarabella - Maga di Secondo Livello",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-023.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-024": {
+      "id": "OR-024",
+      "name": "Gambadilegno - Furfante Astuto",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-024.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-025": {
+      "id": "OR-025",
+      "name": "Yomper - Mago Goloso",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-025.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-026": {
+      "id": "OR-026",
+      "name": "Bagliore del Lampo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-026.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-027": {
+      "id": "OR-027",
+      "name": "Barriera di Catrame",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-027.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-028": {
+      "id": "OR-028",
+      "name": "Boom Sonico",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-028.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-029": {
+      "id": "OR-029",
+      "name": "Cascata Eterea",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-029.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-030": {
+      "id": "OR-030",
+      "name": "Castel Shift",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-030.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-031": {
+      "id": "OR-031",
+      "name": "Doppio Fulmine a Spirale",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-031.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-032": {
+      "id": "OR-032",
+      "name": "Droide da Battaglia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-032.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-033": {
+      "id": "OR-033",
+      "name": "Evocazione di Pioggia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-033.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-034": {
+      "id": "OR-034",
+      "name": "Fulmine Celestiale",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-034.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-035": {
+      "id": "OR-035",
+      "name": "Guerriero dell'Arazzo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-035.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-036": {
+      "id": "OR-036",
+      "name": "Guerriero dell'Arazzo a Sei Braccia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-036.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-037": {
+      "id": "OR-037",
+      "name": "Inganno Mutevole",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-037.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-038": {
+      "id": "OR-038",
+      "name": "Lampo della VeritÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-038.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-039": {
+      "id": "OR-039",
+      "name": "Lampo Ipnotico",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-039.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-040": {
+      "id": "OR-040",
+      "name": "Luce Abbagliante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-040.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-041": {
+      "id": "OR-041",
+      "name": "Nebbia Improvvisa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-041.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-042": {
+      "id": "OR-042",
+      "name": "Nido Abominevole",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-042.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-043": {
+      "id": "OR-043",
+      "name": "Onda Travolgente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-043.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-044": {
+      "id": "OR-044",
+      "name": "Pozione Rigenerante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-044.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-045": {
+      "id": "OR-045",
+      "name": "Preveggenza",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-045.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-046": {
+      "id": "OR-046",
+      "name": "Scariche di Fulmini",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-046.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-047": {
+      "id": "OR-047",
+      "name": "Sifone Mistico Tipo Vortex",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-047.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-048": {
+      "id": "OR-048",
+      "name": "Simulatore di Vista di Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-048.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-049": {
+      "id": "OR-049",
+      "name": "Spada Incantata",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-049.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-050": {
+      "id": "OR-050",
+      "name": "SupervelocitÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-050.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-051": {
+      "id": "OR-051",
+      "name": "Tormenta di Ghiaccio",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-051.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-052": {
+      "id": "OR-052",
+      "name": "Tornado Mistico",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-052.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-053": {
+      "id": "OR-053",
+      "name": "Urto Sonico",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-053.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-054": {
+      "id": "OR-054",
+      "name": "Androidi Gemelli",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-054.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-055": {
+      "id": "OR-055",
+      "name": "Artigli Devastatori",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-055.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-056": {
+      "id": "OR-056",
+      "name": "Ascia Diabolica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-056.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-057": {
+      "id": "OR-057",
+      "name": "Attacco Ingannevole",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-057.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-058": {
+      "id": "OR-058",
+      "name": "Barriera di Pietre",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-058.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-059": {
+      "id": "OR-059",
+      "name": "Bestia del Malaugurio",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-059.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-060": {
+      "id": "OR-060",
+      "name": "Drago Meccanico",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-060.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-061": {
+      "id": "OR-061",
+      "name": "Gargoyle Forzuto",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-061.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-062": {
+      "id": "OR-062",
+      "name": "Gargoyle Forzuto in Catene",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-062.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-063": {
+      "id": "OR-063",
+      "name": "Gargoyle Meditativo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-063.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-064": {
+      "id": "OR-064",
+      "name": "Gargoyle Timido",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-064.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-065": {
+      "id": "OR-065",
+      "name": "Golem di Sabbia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-065.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-066": {
+      "id": "OR-066",
+      "name": "Guerrieri Meccanici a Doppia Carica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-066.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-067": {
+      "id": "OR-067",
+      "name": "Iena delle Steppe",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-067.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-068": {
+      "id": "OR-068",
+      "name": "Liquame Putrido",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-068.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-069": {
+      "id": "OR-069",
+      "name": "Magia Annullata",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-069.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-070": {
+      "id": "OR-070",
+      "name": "Muro a Levitazione",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-070.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-071": {
+      "id": "OR-071",
+      "name": "Mutazione Mannara",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-071.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-072": {
+      "id": "OR-072",
+      "name": "Onda Tellurica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-072.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-073": {
+      "id": "OR-073",
+      "name": "Ondata di Rocce",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-073.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-074": {
+      "id": "OR-074",
+      "name": "Orchetto-Faina",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-074.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-075": {
+      "id": "OR-075",
+      "name": "Orda di Orchetti-Faina",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-075.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-076": {
+      "id": "OR-076",
+      "name": "Palude Impenetrabile",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-076.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-077": {
+      "id": "OR-077",
+      "name": "Pietrificazione",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-077.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-078": {
+      "id": "OR-078",
+      "name": "Porta dell'Ignoto",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-078.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-079": {
+      "id": "OR-079",
+      "name": "Pulci delle Sabbie",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-079.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-080": {
+      "id": "OR-080",
+      "name": "Sabbie Mobili",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-080.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-081": {
+      "id": "OR-081",
+      "name": "Zanne Tritura-Ossa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-081.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-082": {
+      "id": "OR-082",
+      "name": "Ala Meccanica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-082.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-083": {
+      "id": "OR-083",
+      "name": "Alito del Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-083.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-084": {
+      "id": "OR-084",
+      "name": "Ampolla di Magma",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-084.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-085": {
+      "id": "OR-085",
+      "name": "Amuleto del Potere",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-085.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-086": {
+      "id": "OR-086",
+      "name": "Arco di Fulmini",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-086.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-087": {
+      "id": "OR-087",
+      "name": "Artigli d'Ombra",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-087.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-088": {
+      "id": "OR-088",
+      "name": "Artiglio Meccanico",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-088.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-089": {
+      "id": "OR-089",
+      "name": "Bagliore Accecante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-089.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-090": {
+      "id": "OR-090",
+      "name": "Boom sonico avvolgente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-090.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-091": {
+      "id": "OR-091",
+      "name": "Catena del Dominatore",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-091.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-092": {
+      "id": "OR-092",
+      "name": "Fafnir",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-092.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-093": {
+      "id": "OR-093",
+      "name": "Gabbia Oscura",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-093.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-094": {
+      "id": "OR-094",
+      "name": "Gargoyle Spia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-094.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-095": {
+      "id": "OR-095",
+      "name": "Ingordigia Irrefrenabile",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-095.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-096": {
+      "id": "OR-096",
+      "name": "Ipnosi del Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-096.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-097": {
+      "id": "OR-097",
+      "name": "Lupo di Fuoco",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-097.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-098": {
+      "id": "OR-098",
+      "name": "Muro Incandescente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-098.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-099": {
+      "id": "OR-099",
+      "name": "Nebbia di Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-099.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-100": {
+      "id": "OR-100",
+      "name": "OscuritÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-100.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-101": {
+      "id": "OR-101",
+      "name": "Preveggenza",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-101.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-102": {
+      "id": "OR-102",
+      "name": "Raffreddore di Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-102.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-103": {
+      "id": "OR-103",
+      "name": "Saggezza di Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-103.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-104": {
+      "id": "OR-104",
+      "name": "Salsiccie Stritolanti",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-104.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-105": {
+      "id": "OR-105",
+      "name": "Sifone Mistico Tipo Firetwister",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-105.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-106": {
+      "id": "OR-106",
+      "name": "Sifone Mistico Tipo Typhon",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-106.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-107": {
+      "id": "OR-107",
+      "name": "Soffietto Lanciafiamme",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-107.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-108": {
+      "id": "OR-108",
+      "name": "Tornado del Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-108.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-109": {
+      "id": "OR-109",
+      "name": "Vampa Bruciante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-109.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-110": {
+      "id": "OR-110",
+      "name": "Balzo Supersonico",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-110.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-111": {
+      "id": "OR-111",
+      "name": "Bordone Spezzato",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-111.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-112": {
+      "id": "OR-112",
+      "name": "Castel Shift",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-112.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-113": {
+      "id": "OR-113",
+      "name": "Cortina Fumogena",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-113.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-114": {
+      "id": "OR-114",
+      "name": "Corvo di Sventura",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-114.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-115": {
+      "id": "OR-115",
+      "name": "Destrezza Elfica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-115.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-116": {
+      "id": "OR-116",
+      "name": "Edera Urticante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-116.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-117": {
+      "id": "OR-117",
+      "name": "Fantoccio Mutaforma",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-117.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-118": {
+      "id": "OR-118",
+      "name": "Fiore dell'Oblio",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-118.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-119": {
+      "id": "OR-119",
+      "name": "Foresta Tenebrosa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-119.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-120": {
+      "id": "OR-120",
+      "name": "Guerriero Meccanico Magnetico",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-120.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-121": {
+      "id": "OR-121",
+      "name": "Incrocio di Bordoni",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-121.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-122": {
+      "id": "OR-122",
+      "name": "Lupo Grigio",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-122.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-123": {
+      "id": "OR-123",
+      "name": "Muro di Alghe",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-123.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-124": {
+      "id": "OR-124",
+      "name": "Onda d'Urto Spaccabarriere",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-124.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-125": {
+      "id": "OR-125",
+      "name": "Orchetto-Faina Berserk",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-125.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-126": {
+      "id": "OR-126",
+      "name": "Petali di Loto",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-126.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-127": {
+      "id": "OR-127",
+      "name": "Polline Starnutifero",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-127.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-128": {
+      "id": "OR-128",
+      "name": "Rospo Diabolico",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-128.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-129": {
+      "id": "OR-129",
+      "name": "Sbarre Avvolgenti",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-129.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-130": {
+      "id": "OR-130",
+      "name": "Sciame di Locuste",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-130.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-131": {
+      "id": "OR-131",
+      "name": "Scudo di Corteccia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-131.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-132": {
+      "id": "OR-132",
+      "name": "Semi Energetici",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-132.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-133": {
+      "id": "OR-133",
+      "name": "Sfera Occultante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-133.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-134": {
+      "id": "OR-134",
+      "name": "Spada di Arborea",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-134.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-135": {
+      "id": "OR-135",
+      "name": "Specchio Infranto",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-135.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-136": {
+      "id": "OR-136",
+      "name": "Tanfo Orrendo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-136.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-137": {
+      "id": "OR-137",
+      "name": "Viticci Avvolgenti",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-137.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-138": {
+      "id": "OR-138",
+      "name": "Viticcio Carnivoro",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-138.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-139": {
+      "id": "OR-139",
+      "name": "Caer Clock",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-139.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-140": {
+      "id": "OR-140",
+      "name": "Grandhaven",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-140.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-141": {
+      "id": "OR-141",
+      "name": "Rocca di Crow",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-141.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-142": {
+      "id": "OR-142",
+      "name": "Castello dei Druidi",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-142.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-143": {
+      "id": "OR-143",
+      "name": "Castello di Hanubis",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-143.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-144": {
+      "id": "OR-144",
+      "name": "Rocca del Golem Dormiente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-144.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-145": {
+      "id": "OR-145",
+      "name": "Biblioteca di Bukara",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-145.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-146": {
+      "id": "OR-146",
+      "name": "Caer Spider",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-146.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-147": {
+      "id": "OR-147",
+      "name": "Castello delle Zanne",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-147.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-148": {
+      "id": "OR-148",
+      "name": "Castello del Grande Albero",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-148.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-149": {
+      "id": "OR-149",
+      "name": "Castello di Ekrendorf",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-149.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-150": {
+      "id": "OR-150",
+      "name": "Miceland",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-150.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-151": {
+      "id": "OR-151",
+      "name": "Macchia Nera - Signore degli Inganni",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-151.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "OR-152": {
+      "id": "OR-152",
+      "name": "Kiki",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR/OR-152.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-001": {
+      "id": "T-001",
+      "name": "Ioshi - Mago Voluminoso",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-001.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-002": {
+      "id": "T-002",
+      "name": "Topolino - Mago di Quarto Livello",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-002.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-003": {
+      "id": "T-003",
+      "name": "Zaius - Drago Scavatore",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-003.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-004": {
+      "id": "T-004",
+      "name": "Garma - Megera Vanitosa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-004.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-005": {
+      "id": "T-005",
+      "name": "Gurabashi - Mago Forzuto",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-005.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-006": {
+      "id": "T-006",
+      "name": "Pippo - Mago di Terzo Livello",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-006.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-007": {
+      "id": "T-007",
+      "name": "Neraja - Strega Feroce",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-007.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-008": {
+      "id": "T-008",
+      "name": "Uchibiri - Mago Ingombrante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-008.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-009": {
+      "id": "T-009",
+      "name": "Zefren - Drago Inferocito",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-009.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-010": {
+      "id": "T-010",
+      "name": "Amelia - Strega Vanagloriosa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-010.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-011": {
+      "id": "T-011",
+      "name": "Generale Garth - Drago Stratega",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-011.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-012": {
+      "id": "T-012",
+      "name": "Paperino - Mago di Terzo Livello",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-012.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-013": {
+      "id": "T-013",
+      "name": "Ala Scudo Antifiamma",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-013.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-014": {
+      "id": "T-014",
+      "name": "Annulla Materia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-014.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-015": {
+      "id": "T-015",
+      "name": "Blocca Tempesta",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-015.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-016": {
+      "id": "T-016",
+      "name": "Cacciatore di Draghi",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-016.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-017": {
+      "id": "T-017",
+      "name": "Clone Berserk",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-017.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-018": {
+      "id": "T-018",
+      "name": "Dissolvenza",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-018.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-019": {
+      "id": "T-019",
+      "name": "Gabbia Mistica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-019.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-020": {
+      "id": "T-020",
+      "name": "Incanto Ciarliero",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-020.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-021": {
+      "id": "T-021",
+      "name": "Incanto Miniaturizzante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-021.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-022": {
+      "id": "T-022",
+      "name": "Incubi",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-022.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-023": {
+      "id": "T-023",
+      "name": "Ira Mannara",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-023.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-024": {
+      "id": "T-024",
+      "name": "Leggerezza",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-024.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-025": {
+      "id": "T-025",
+      "name": "Melodia Frastornante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-025.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-026": {
+      "id": "T-026",
+      "name": "Nebbia Avvolgente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-026.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-027": {
+      "id": "T-027",
+      "name": "Nembi Ciclonici",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-027.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-028": {
+      "id": "T-028",
+      "name": "Percezione Alterata",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-028.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-029": {
+      "id": "T-029",
+      "name": "Sbadiglio Incontenibile",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-029.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-030": {
+      "id": "T-030",
+      "name": "Schiuma Antifiamma",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-030.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-031": {
+      "id": "T-031",
+      "name": "Scudo di Onde",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-031.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-032": {
+      "id": "T-032",
+      "name": "Sdoppiamento",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-032.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-033": {
+      "id": "T-033",
+      "name": "Tifone AntigravitÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-033.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-034": {
+      "id": "T-034",
+      "name": "Tornado Irrefrenabile",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-034.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-035": {
+      "id": "T-035",
+      "name": "Trappola di Ghiaccio",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-035.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-036": {
+      "id": "T-036",
+      "name": "Trasmutazione",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-036.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-037": {
+      "id": "T-037",
+      "name": "Tristezza",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-037.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-038": {
+      "id": "T-038",
+      "name": "Avviso dal Futuro",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-038.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-039": {
+      "id": "T-039",
+      "name": "Barriera di Cristallo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-039.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-040": {
+      "id": "T-040",
+      "name": "Barriera di Siepi",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-040.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-041": {
+      "id": "T-041",
+      "name": "Bordone Scheggiato",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-041.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-042": {
+      "id": "T-042",
+      "name": "Buca Occultante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-042.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-043": {
+      "id": "T-043",
+      "name": "Cascata di Pozioni",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-043.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-044": {
+      "id": "T-044",
+      "name": "Colpo di Bordone",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-044.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-045": {
+      "id": "T-045",
+      "name": "Craniata Dirompente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-045.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-046": {
+      "id": "T-046",
+      "name": "Cristallizzazione",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-046.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-047": {
+      "id": "T-047",
+      "name": "Cupidigia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-047.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-048": {
+      "id": "T-048",
+      "name": "Disorientamento",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-048.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-049": {
+      "id": "T-049",
+      "name": "Droide Granchio",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-049.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-050": {
+      "id": "T-050",
+      "name": "Energia Rocciosa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-050.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-051": {
+      "id": "T-051",
+      "name": "Fusione Metallica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-051.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-052": {
+      "id": "T-052",
+      "name": "Gigantismo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-052.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-053": {
+      "id": "T-053",
+      "name": "Grata Mistica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-053.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-054": {
+      "id": "T-054",
+      "name": "Luce della VeritÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-054.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-055": {
+      "id": "T-055",
+      "name": "Mazza Rimbombante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-055.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-056": {
+      "id": "T-056",
+      "name": "Melassa Zuccherina",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-056.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-057": {
+      "id": "T-057",
+      "name": "Rifugio d' Emergenza",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-057.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-058": {
+      "id": "T-058",
+      "name": "Sasso Mordace",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-058.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-059": {
+      "id": "T-059",
+      "name": "Sifone Mistico Tipo Gormex",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-059.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-060": {
+      "id": "T-060",
+      "name": "Terrore Raggelante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-060.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-061": {
+      "id": "T-061",
+      "name": "Unione di Intenti",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-061.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-062": {
+      "id": "T-062",
+      "name": "Zampata di Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-062.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-063": {
+      "id": "T-063",
+      "name": "Annulla Magia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-063.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-064": {
+      "id": "T-064",
+      "name": "Attacco Triplo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-064.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-065": {
+      "id": "T-065",
+      "name": "Boom Sonico Rintronante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-065.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-066": {
+      "id": "T-066",
+      "name": "Bordone Mimetico",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-066.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-067": {
+      "id": "T-067",
+      "name": "Cassaforte della VeritÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-067.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-068": {
+      "id": "T-068",
+      "name": "Collera Annebbiante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-068.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-069": {
+      "id": "T-069",
+      "name": "Corolla Avvolgente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-069.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-070": {
+      "id": "T-070",
+      "name": "Destriero di Fuoco",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-070.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-071": {
+      "id": "T-071",
+      "name": "Fascino Ammaliante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-071.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-072": {
+      "id": "T-072",
+      "name": "Fiamma Avvolgente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-072.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-073": {
+      "id": "T-073",
+      "name": "Fiamme Carbonizzanti",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-073.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-074": {
+      "id": "T-074",
+      "name": "Fiuto Sopraffino",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-074.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-075": {
+      "id": "T-075",
+      "name": "Fulmine Inceneritore",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-075.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-076": {
+      "id": "T-076",
+      "name": "Fuoco del Tradimento",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-076.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-077": {
+      "id": "T-077",
+      "name": "Fuoco Freddo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-077.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-078": {
+      "id": "T-078",
+      "name": "Malanno Draghesco",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-078.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-079": {
+      "id": "T-079",
+      "name": "Mira Infallibile",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-079.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-080": {
+      "id": "T-080",
+      "name": "Onda Rilucente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-080.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-081": {
+      "id": "T-081",
+      "name": "Particelle Eteree",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-081.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-082": {
+      "id": "T-082",
+      "name": "Scia Carbonizzante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-082.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-083": {
+      "id": "T-083",
+      "name": "Scintille Appiccafuoco",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-083.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-084": {
+      "id": "T-084",
+      "name": "Scudo Anti Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-084.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-085": {
+      "id": "T-085",
+      "name": "Sifone Mistico a Balestra",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-085.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-086": {
+      "id": "T-086",
+      "name": "Vista Mannara",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-086.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-087": {
+      "id": "T-087",
+      "name": "Zizzania",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-087.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-088": {
+      "id": "T-088",
+      "name": "Amuletofonino Veggente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-088.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-089": {
+      "id": "T-089",
+      "name": "Avvizzimento Istantaneo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-089.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-090": {
+      "id": "T-090",
+      "name": "Azzannata Rabbiosa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-090.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-091": {
+      "id": "T-091",
+      "name": "Barlume di Veggenza",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-091.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-092": {
+      "id": "T-092",
+      "name": "Bile di Troll",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-092.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-093": {
+      "id": "T-093",
+      "name": "Bordone Invisibile",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-093.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-094": {
+      "id": "T-094",
+      "name": "Calderone Abominevole",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-094.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-095": {
+      "id": "T-095",
+      "name": "Coltre di InvisibilitÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-095.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-096": {
+      "id": "T-096",
+      "name": "Doppia VelocitÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-096.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-097": {
+      "id": "T-097",
+      "name": "Droide Scout",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-097.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-098": {
+      "id": "T-098",
+      "name": "Fumo Nauseante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-098.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-099": {
+      "id": "T-099",
+      "name": "Fungo Aureo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-099.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-100": {
+      "id": "T-100",
+      "name": "Incantesimo Riflettente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-100.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-101": {
+      "id": "T-101",
+      "name": "Intrico Aggrovigliante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-101.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-102": {
+      "id": "T-102",
+      "name": "Lingua Velenosa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-102.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-103": {
+      "id": "T-103",
+      "name": "Mantide di Palude",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-103.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-104": {
+      "id": "T-104",
+      "name": "Olezzo Obnubilante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-104.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-105": {
+      "id": "T-105",
+      "name": "Pergamena del Potere",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-105.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-106": {
+      "id": "T-106",
+      "name": "Rapa Diabolica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-106.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-107": {
+      "id": "T-107",
+      "name": "Scambio di Diamagic",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-107.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-108": {
+      "id": "T-108",
+      "name": "Semi della Conoscenza",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-108.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-109": {
+      "id": "T-109",
+      "name": "Tela dell' IrrealtÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-109.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-110": {
+      "id": "T-110",
+      "name": "Tentacoli Vegetali",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-110.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-111": {
+      "id": "T-111",
+      "name": "Viticcio Esploratore",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-111.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-112": {
+      "id": "T-112",
+      "name": "Rocca di Durlan",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-112.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-113": {
+      "id": "T-113",
+      "name": "Caer Fist",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-113.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-114": {
+      "id": "T-114",
+      "name": "Caer Meridian",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-114.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-115": {
+      "id": "T-115",
+      "name": "Grawlburg",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-115.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-116": {
+      "id": "T-116",
+      "name": "Aiuto Inatteso",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-116.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-117": {
+      "id": "T-117",
+      "name": "Pluto Mannaro",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-117.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-118": {
+      "id": "T-118",
+      "name": "Amuletofonino",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-118.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-119": {
+      "id": "T-119",
+      "name": "Boom Sonico Echeggiante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-119.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-120": {
+      "id": "T-120",
+      "name": "Pentolone Magico",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-120.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-121": {
+      "id": "T-121",
+      "name": "La Grande Corona",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-121.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-122": {
+      "id": "T-122",
+      "name": "Clarabella - Maga Musicista",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-122.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-123": {
+      "id": "T-123",
+      "name": "Roknar",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-123.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-124": {
+      "id": "T-124",
+      "name": "Pegas",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-124.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-125": {
+      "id": "T-125",
+      "name": "Brama di Potere",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-125.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-126": {
+      "id": "T-126",
+      "name": "Risveglio dei Draghi Antichi",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-126.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-127": {
+      "id": "T-127",
+      "name": "Viticci Stritolanti",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-127.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-128": {
+      "id": "T-128",
+      "name": "Arena dei Desideri",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-128.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-129": {
+      "id": "T-129",
+      "name": "Garubashi - Mago Colossale",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-129.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-130": {
+      "id": "T-130",
+      "name": "Bassotto Secundus - Mago Carrarmato",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-130.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-131": {
+      "id": "T-131",
+      "name": "Yomper - Mago Pasticcione",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-131.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-132": {
+      "id": "T-132",
+      "name": "Minni - Maga Esperta",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-132.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-133": {
+      "id": "T-133",
+      "name": "Svelare gli Inganni",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-133.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-134": {
+      "id": "T-134",
+      "name": "Boom Sonico Sotterraneo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-134.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-135": {
+      "id": "T-135",
+      "name": "Essiccare",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-135.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-136": {
+      "id": "T-136",
+      "name": "Bilancia dell'Equilibrio",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-136.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-137": {
+      "id": "T-137",
+      "name": "Labirinto del Pendolo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-137.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-138": {
+      "id": "T-138",
+      "name": "Labirinto dei Rovi",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-138.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-139": {
+      "id": "T-139",
+      "name": "Stanza Girevole",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-139.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-140": {
+      "id": "T-140",
+      "name": "Rocca del Fungo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-140.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-141": {
+      "id": "T-141",
+      "name": "Nereus - Mago Sapiente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-141.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-142": {
+      "id": "T-142",
+      "name": "Pugno Magico",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-142.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-143": {
+      "id": "T-143",
+      "name": "Pozzo del Ghouler",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-143.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-144": {
+      "id": "T-144",
+      "name": "Topolino - Mago Aggressivo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-144.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-145": {
+      "id": "T-145",
+      "name": "Dolci Parole",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-145.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-146": {
+      "id": "T-146",
+      "name": "Inganno Sottile",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-146.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-147": {
+      "id": "T-147",
+      "name": "Dicerie Velenose",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-147.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-148": {
+      "id": "T-148",
+      "name": "Sfera del Caos",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-148.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-149": {
+      "id": "T-149",
+      "name": "Labirinto della Lunga Gora",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-149.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-150": {
+      "id": "T-150",
+      "name": "Casa del Sonno",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-150.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "T-151": {
+      "id": "T-151",
+      "name": "Bastione del Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T/T-151.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-001": {
+      "id": "EO-001",
+      "name": "Smart Flash â_x0080__x0093_ Mago Fumineo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-001.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-002": {
+      "id": "EO-002",
+      "name": "Zaius â_x0080__x0093_ Drago Impetuoso",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-002.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-003": {
+      "id": "EO-003",
+      "name": "Bruma â_x0080__x0093_ Cuoco Pigro",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-003.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-004": {
+      "id": "EO-004",
+      "name": "Fire Flash â_x0080__x0093_ Mago Fulminante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-004.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-005": {
+      "id": "EO-005",
+      "name": "Pippo â_x0080__x0093_ Mago Ingegnere",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-005.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-006": {
+      "id": "EO-006",
+      "name": "Zoron â_x0080__x0093_ Drago Sonnolento",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-006.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-007": {
+      "id": "EO-007",
+      "name": "Bassotto Unus â_x0080__x0093_ Ladro Sciocco",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-007.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-008": {
+      "id": "EO-008",
+      "name": "Macchia Nera â_x0080__x0093_ Guardiano Ombra",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-008.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-009": {
+      "id": "EO-009",
+      "name": "Minni â_x0080__x0093_ Maga Diabolica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-009.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-010": {
+      "id": "EO-010",
+      "name": "Topolino â_x0080__x0093_ Stregone Supremo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-010.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-011": {
+      "id": "EO-011",
+      "name": "Red Flash â_x0080__x0093_ Mago Velocista",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-011.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-012": {
+      "id": "EO-012",
+      "name": "Zefren â_x0080__x0093_ Drago Strategia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-012.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-013": {
+      "id": "EO-013",
+      "name": "Bassotto Tertius â_x0080__x0093_ Brigante in Miniatura",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-013.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-014": {
+      "id": "EO-014",
+      "name": "Gambadilegno - Mago Tormentato",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-014.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-015": {
+      "id": "EO-015",
+      "name": "Yuri â_x0080__x0093_ Cuoco Esperto",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-015.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-016": {
+      "id": "EO-016",
+      "name": "Alleanza Mistica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-016.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-017": {
+      "id": "EO-017",
+      "name": "Arco di Fulmini",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-017.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-018": {
+      "id": "EO-018",
+      "name": "Barriera di Nuvole",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-018.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-019": {
+      "id": "EO-019",
+      "name": "Barriera Istantanea",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-019.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-020": {
+      "id": "EO-020",
+      "name": "Destriero di Fuoco",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-020.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-021": {
+      "id": "EO-021",
+      "name": "Disorientamenteo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-021.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-022": {
+      "id": "EO-022",
+      "name": "Dono Ingannevole",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-022.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-023": {
+      "id": "EO-023",
+      "name": "Evocazione di Pioggia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-023.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-024": {
+      "id": "EO-024",
+      "name": "Fato Ineluttabile",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-024.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-025": {
+      "id": "EO-025",
+      "name": "Frittelle Nutrienti",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-025.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-026": {
+      "id": "EO-026",
+      "name": "Guerriero Ignifugo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-026.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-027": {
+      "id": "EO-027",
+      "name": "Kiki Dispettosa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-027.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-028": {
+      "id": "EO-028",
+      "name": "Lampo Ipnotico",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-028.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-029": {
+      "id": "EO-029",
+      "name": "Mago Innamorato",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-029.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-030": {
+      "id": "EO-030",
+      "name": "Pesca Esagerata",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-030.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-031": {
+      "id": "EO-031",
+      "name": "Pioggia Dirompente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-031.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-032": {
+      "id": "EO-032",
+      "name": "Polvere Cometa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-032.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-033": {
+      "id": "EO-033",
+      "name": "Risorse Inaspettate",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-033.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-034": {
+      "id": "EO-034",
+      "name": "Schiuma Antifiamma",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-034.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-035": {
+      "id": "EO-035",
+      "name": "Sifone Mistico Tipo Trappola",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-035.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-036": {
+      "id": "EO-036",
+      "name": "Soffio di Ghiaccio",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-036.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-037": {
+      "id": "EO-037",
+      "name": "Spreco di Forze",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-037.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-038": {
+      "id": "EO-038",
+      "name": "Telepatia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-038.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-039": {
+      "id": "EO-039",
+      "name": "Agguato degli Orchetti-Faina",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-039.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-040": {
+      "id": "EO-040",
+      "name": "Bordone Scheggiato",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-040.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-041": {
+      "id": "EO-041",
+      "name": "Catena di Luce",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-041.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-042": {
+      "id": "EO-042",
+      "name": "Ciotola Parlante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-042.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-043": {
+      "id": "EO-043",
+      "name": "Craniata Dirompente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-043.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-044": {
+      "id": "EO-044",
+      "name": "Gargoyle Dominante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-044.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-045": {
+      "id": "EO-045",
+      "name": "Grata di Metallo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-045.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-046": {
+      "id": "EO-046",
+      "name": "Guerriero Meccanico Magnetico",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-046.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-047": {
+      "id": "EO-047",
+      "name": "Luce Illuminante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-047.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-048": {
+      "id": "EO-048",
+      "name": "Muro di Levitazione",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-048.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-049": {
+      "id": "EO-049",
+      "name": "Orchetto-Faina Disgustato",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-049.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-050": {
+      "id": "EO-050",
+      "name": "Orda di Piovra Metalliche",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-050.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-051": {
+      "id": "EO-051",
+      "name": "Pegas Affamato",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-051.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-052": {
+      "id": "EO-052",
+      "name": "Protettore Generoso",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-052.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-053": {
+      "id": "EO-053",
+      "name": "Sabotare gli Ingredienti",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-053.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-054": {
+      "id": "EO-054",
+      "name": "Saetta Ipersonica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-054.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-055": {
+      "id": "EO-055",
+      "name": "Scarpe da Ginnastica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-055.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-056": {
+      "id": "EO-056",
+      "name": "SemplicitÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-056.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-057": {
+      "id": "EO-057",
+      "name": "Sifone Mistico Tipo Lampo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-057.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-058": {
+      "id": "EO-058",
+      "name": "SupervelocitÃ  Ipnotica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-058.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-059": {
+      "id": "EO-059",
+      "name": "Vento di Sabbie",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-059.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-060": {
+      "id": "EO-060",
+      "name": "Artiglio d'Ombra",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-060.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-061": {
+      "id": "EO-061",
+      "name": "Attacco Ingannevole",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-061.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-062": {
+      "id": "EO-062",
+      "name": "Banchetto degli Orchetti-Faina",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-062.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-063": {
+      "id": "EO-063",
+      "name": "Bordone Spezzato",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-063.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-064": {
+      "id": "EO-064",
+      "name": "Cupidigia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-064.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-065": {
+      "id": "EO-065",
+      "name": "Dominio dell'OscuritÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-065.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-066": {
+      "id": "EO-066",
+      "name": "Fantasma Guerriero",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-066.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-067": {
+      "id": "EO-067",
+      "name": "Fumo Insetticida",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-067.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-068": {
+      "id": "EO-068",
+      "name": "Furia di Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-068.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-069": {
+      "id": "EO-069",
+      "name": "Grande Inganno",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-069.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-070": {
+      "id": "EO-070",
+      "name": "Infierire sui Deboli",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-070.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-071": {
+      "id": "EO-071",
+      "name": "Palude Impenetrabile",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-071.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-072": {
+      "id": "EO-072",
+      "name": "Piccolo Trucco",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-072.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-073": {
+      "id": "EO-073",
+      "name": "Pluto Aggressivo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-073.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-074": {
+      "id": "EO-074",
+      "name": "Proiettili di Aglio",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-074.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-075": {
+      "id": "EO-075",
+      "name": "Re Ugrun",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-075.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-076": {
+      "id": "EO-076",
+      "name": "Scettro Oscuro",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-076.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-077": {
+      "id": "EO-077",
+      "name": "Sconforto",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-077.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-078": {
+      "id": "EO-078",
+      "name": "Sforzo Funesto",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-078.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-079": {
+      "id": "EO-079",
+      "name": "Sifone Mistico Tipo Nightmare",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-079.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-080": {
+      "id": "EO-080",
+      "name": "Trasmutazione",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-080.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-081": {
+      "id": "EO-081",
+      "name": "Urlo Terrorizzante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-081.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-082": {
+      "id": "EO-082",
+      "name": "Vedere nel Buio",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-082.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-083": {
+      "id": "EO-083",
+      "name": "Affetto Soffocante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-083.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-084": {
+      "id": "EO-084",
+      "name": "Alito del Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-084.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-085": {
+      "id": "EO-085",
+      "name": "Arpa di Fiamma",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-085.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-086": {
+      "id": "EO-086",
+      "name": "Cotta di Maglia Antimagma",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-086.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-087": {
+      "id": "EO-087",
+      "name": "Doppio Attacco Fulminante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-087.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-088": {
+      "id": "EO-088",
+      "name": "Drago Furioso",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-088.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-089": {
+      "id": "EO-089",
+      "name": "Evanescenza",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-089.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-090": {
+      "id": "EO-090",
+      "name": "Fanfir Raffreddato",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-090.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-091": {
+      "id": "EO-091",
+      "name": "Fenris",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-091.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-092": {
+      "id": "EO-092",
+      "name": "Fiamme Arroventate",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-092.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-093": {
+      "id": "EO-093",
+      "name": "Fulmine Inceneritore Potenziato",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-093.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-094": {
+      "id": "EO-094",
+      "name": "Gigantismo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-094.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-095": {
+      "id": "EO-095",
+      "name": "Guanto di Gameras",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-095.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-096": {
+      "id": "EO-096",
+      "name": "Ingordigia Irrefrenabile",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-096.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-097": {
+      "id": "EO-097",
+      "name": "Luce Abbagliante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-097.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-098": {
+      "id": "EO-098",
+      "name": "Mazza Rimbombante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-098.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-099": {
+      "id": "EO-099",
+      "name": "Nullifica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-099.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-100": {
+      "id": "EO-100",
+      "name": "Prezzo dell'AviditÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-100.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-101": {
+      "id": "EO-101",
+      "name": "Sbriciola Pietra",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-101.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-102": {
+      "id": "EO-102",
+      "name": "Scariche di Fulmini",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-102.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-103": {
+      "id": "EO-103",
+      "name": "Scudo Riflettente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-103.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-104": {
+      "id": "EO-104",
+      "name": "Sfera della Conoscenza",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-104.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-105": {
+      "id": "EO-105",
+      "name": "Tempesta di Fuoco",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-105.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-106": {
+      "id": "EO-106",
+      "name": "Una Nuova Speranza",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-106.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-107": {
+      "id": "EO-107",
+      "name": "Acqua della Fonte di Oberon",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-107.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-108": {
+      "id": "EO-108",
+      "name": "Aiuto di Ormen",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-108.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-109": {
+      "id": "EO-109",
+      "name": "Artigli di Edera Velenosa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-109.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-110": {
+      "id": "EO-110",
+      "name": "Barriera di Siepi",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-110.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-111": {
+      "id": "EO-111",
+      "name": "Bolla Impenetrabile",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-111.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-112": {
+      "id": "EO-112",
+      "name": "Buca Occultante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-112.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-113": {
+      "id": "EO-113",
+      "name": "Consiglio Malevolo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-113.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-114": {
+      "id": "EO-114",
+      "name": "Crescita Gigante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-114.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-115": {
+      "id": "EO-115",
+      "name": "Esercito di Orchetti-Faina",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-115.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-116": {
+      "id": "EO-116",
+      "name": "Furto",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-116.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-117": {
+      "id": "EO-117",
+      "name": "Gabbia Avvolgente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-117.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-118": {
+      "id": "EO-118",
+      "name": "Gargoyle Prepotente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-118.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-119": {
+      "id": "EO-119",
+      "name": "Mappa Ufficiale dei Castelli",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-119.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-120": {
+      "id": "EO-120",
+      "name": "Penna Magica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-120.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-121": {
+      "id": "EO-121",
+      "name": "Saggezza di Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-121.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-122": {
+      "id": "EO-122",
+      "name": "Saggezza di Ormen",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-122.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-123": {
+      "id": "EO-123",
+      "name": "Sfera della TranqullitÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-123.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-124": {
+      "id": "EO-124",
+      "name": "Sfera di Cristallo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-124.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-125": {
+      "id": "EO-125",
+      "name": "Sgusciare",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-125.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-126": {
+      "id": "EO-126",
+      "name": "Sintonia con la Foresta",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-126.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-127": {
+      "id": "EO-127",
+      "name": "Sintonia con la Natura",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-127.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-128": {
+      "id": "EO-128",
+      "name": "Spaventapasseri Abominevole",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-128.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-129": {
+      "id": "EO-129",
+      "name": "Teletrasporto Mistico",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-129.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-130": {
+      "id": "EO-130",
+      "name": "Viticcio Esploratore",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-130.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-131": {
+      "id": "EO-131",
+      "name": "Camera della Porta Nera",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-131.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-132": {
+      "id": "EO-132",
+      "name": "Fonte Rigenerante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-132.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-133": {
+      "id": "EO-133",
+      "name": "Rocca del Falcone",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-133.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-134": {
+      "id": "EO-134",
+      "name": "Sala dei Gargoyle",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-134.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-135": {
+      "id": "EO-135",
+      "name": "Bibloteca di Bukara",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-135.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-136": {
+      "id": "EO-136",
+      "name": "Castello dei Druidi",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-136.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-137": {
+      "id": "EO-137",
+      "name": "Torre di Dimeticati",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-137.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-138": {
+      "id": "EO-138",
+      "name": "Castello di Arborea",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-138.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-139": {
+      "id": "EO-139",
+      "name": "Chiostro di Ekrendorf",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-139.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-140": {
+      "id": "EO-140",
+      "name": "Grande Alveare",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-140.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-141": {
+      "id": "EO-141",
+      "name": "Matteus Z",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-141.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-142": {
+      "id": "EO-142",
+      "name": "Alexander R",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-142.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-143": {
+      "id": "EO-143",
+      "name": "Manu-Ellen M",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-143.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-144": {
+      "id": "EO-144",
+      "name": "Ioshi â_x0080__x0093_ Mago Forzuto",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-144.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-145": {
+      "id": "EO-145",
+      "name": "Madre dei Diamagic",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-145.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-146": {
+      "id": "EO-146",
+      "name": "Prezzo del Potere",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-146.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-147": {
+      "id": "EO-147",
+      "name": "Gargoyle Spia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-147.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-148": {
+      "id": "EO-148",
+      "name": "Dragavar",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-148.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-149": {
+      "id": "EO-149",
+      "name": "Ormen â_x0080__x0093_ Drago Saggio",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-149.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-150": {
+      "id": "EO-150",
+      "name": "Accelera Magia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-150.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-151": {
+      "id": "EO-151",
+      "name": "Catacombe di Gameras",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-151.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-152": {
+      "id": "EO-152",
+      "name": "Hypnor - Drago Orribile",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-152.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-153": {
+      "id": "EO-153",
+      "name": "Dreadking - Supremo Dominatore",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-153.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-154": {
+      "id": "EO-154",
+      "name": "Neraja - Grande Strega",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-154.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-155": {
+      "id": "EO-155",
+      "name": "Pyranar - Drago Anfibio",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-155.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-156": {
+      "id": "EO-156",
+      "name": "SupervelocitÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-156.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-157": {
+      "id": "EO-157",
+      "name": "Castello Illusiorio",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-157.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-158": {
+      "id": "EO-158",
+      "name": "Diatriba Magica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-158.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-159": {
+      "id": "EO-159",
+      "name": "Gargoyle Forzuto in Catene",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-159.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-160": {
+      "id": "EO-160",
+      "name": "Assorbi Diamagic",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-160.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-161": {
+      "id": "EO-161",
+      "name": "Duplicazione Multipla",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-161.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-162": {
+      "id": "EO-162",
+      "name": "Salsicce Stritolanti",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-162.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-163": {
+      "id": "EO-163",
+      "name": "Castello di Ekrendorf",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-163.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-164": {
+      "id": "EO-164",
+      "name": "Iceburg",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-164.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "EO-165": {
+      "id": "EO-165",
+      "name": "Caer Spider",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO/EO-165.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "TD-000": {
+      "id": "TD-000",
+      "name": "Sostituzione Astuta",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD/TD-000.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "TD-015": {
+      "id": "TD-015",
+      "name": "Gioco Di Inganni",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD/TD-015.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "TD-016": {
+      "id": "TD-016",
+      "name": "Grande Banchetto",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD/TD-016.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "TD-017": {
+      "id": "TD-017",
+      "name": "Turbante dell'InvisibilitÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD/TD-017.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "TD-021": {
+      "id": "TD-021",
+      "name": "Fungo Aureo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD/TD-021.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "TD-031": {
+      "id": "TD-031",
+      "name": "Castello dei Robot Warlock",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD/TD-031.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "TD-024": {
+      "id": "TD-024",
+      "name": "Muro di Spine",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD/TD-024.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "TD-018": {
+      "id": "TD-018",
+      "name": "Telecomando",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD/TD-018.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "TD-027": {
+      "id": "TD-027",
+      "name": "Drago di Ferro",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD/TD-027.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "PDA-000": {
+      "id": "PDA-000",
+      "name": "Il Giorno senza Sole",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA/PDA-000.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "PDA-013": {
+      "id": "PDA-013",
+      "name": "La Grande Corona",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA/PDA-013.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "PDA-014": {
+      "id": "PDA-014",
+      "name": "Minaccia Oscura",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA/PDA-014.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "PDA-015": {
+      "id": "PDA-015",
+      "name": "Prezzo del Potere",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA/PDA-015.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "PDA-016": {
+      "id": "PDA-016",
+      "name": "Solitudine",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA/PDA-016.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "PDA-017": {
+      "id": "PDA-017",
+      "name": "Archivi Ricurvi",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA/PDA-017.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "PDA-018": {
+      "id": "PDA-018",
+      "name": "Castello dello Stregone Nero",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA/PDA-018.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "PDA-019": {
+      "id": "PDA-019",
+      "name": "Ingresso Nebbioso",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA/PDA-019.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "PDA-020": {
+      "id": "PDA-020",
+      "name": "Mura Rinforzate",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA/PDA-020.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "PDA-021": {
+      "id": "PDA-021",
+      "name": "Zanne Affilate",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA/PDA-021.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "PDA-022": {
+      "id": "PDA-022",
+      "name": "Roknar",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA/PDA-022.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "PDA-023": {
+      "id": "PDA-023",
+      "name": "Valle delle Ossa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA/PDA-023.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "TP-000": {
+      "id": "TP-000",
+      "name": "Chiostro di Ekrendorf",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TP/TP-000.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-000": {
+      "id": "RDA-000",
+      "name": "Livello Superiore",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-000.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-013": {
+      "id": "RDA-013",
+      "name": "Onda Travolgente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-013.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-014": {
+      "id": "RDA-014",
+      "name": "Ricami dell'Arazzo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-014.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-015": {
+      "id": "RDA-015",
+      "name": "Schiacciare",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-015.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-016": {
+      "id": "RDA-016",
+      "name": "Supremo Inganno",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-016.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-017": {
+      "id": "RDA-017",
+      "name": "Taglia Gigante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-017.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-018": {
+      "id": "RDA-018",
+      "name": "Tornado Mistico",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-018.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-019": {
+      "id": "RDA-019",
+      "name": "Ali del Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-019.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-020": {
+      "id": "RDA-020",
+      "name": "Bordone di Bruma",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-020.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-021": {
+      "id": "RDA-021",
+      "name": "Carica Inarrestabile",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-021.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-022": {
+      "id": "RDA-022",
+      "name": "Fascino Ammaliante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-022.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-023": {
+      "id": "RDA-023",
+      "name": "Furto di Diamagic",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-023.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-024": {
+      "id": "RDA-024",
+      "name": "Gargoyle Meditativo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-024.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-025": {
+      "id": "RDA-025",
+      "name": "Generale degli Orchetti-Faina",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-025.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-026": {
+      "id": "RDA-026",
+      "name": "Orchetto-Faina Lanciere",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-026.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-027": {
+      "id": "RDA-027",
+      "name": "Sprint",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-027.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-028": {
+      "id": "RDA-028",
+      "name": "Assorbi Diamagic",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-028.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-029": {
+      "id": "RDA-029",
+      "name": "Bellezza Perduta",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-029.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-030": {
+      "id": "RDA-030",
+      "name": "Blocca Tempesta",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-030.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-031": {
+      "id": "RDA-031",
+      "name": "Bordone di Garma",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-031.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-032": {
+      "id": "RDA-032",
+      "name": "Cassaforte della Menzogna",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-032.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-033": {
+      "id": "RDA-033",
+      "name": "Ode di Lay Sauria",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-033.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-034": {
+      "id": "RDA-034",
+      "name": "Orchetti-Faina Rivali",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-034.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-035": {
+      "id": "RDA-035",
+      "name": "Rabbia Distruttiva",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-035.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-036": {
+      "id": "RDA-036",
+      "name": "Ruggito del Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-036.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-037": {
+      "id": "RDA-037",
+      "name": "AgilitÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-037.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-038": {
+      "id": "RDA-038",
+      "name": "Bagliore del Lampo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-038.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-039": {
+      "id": "RDA-039",
+      "name": "Colpo della Fiammata Catatonica",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-039.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-040": {
+      "id": "RDA-040",
+      "name": "Drago Giocoliere",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-040.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-041": {
+      "id": "RDA-041",
+      "name": "Fafnir Bussola",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-041.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-042": {
+      "id": "RDA-042",
+      "name": "Furto in Miniatura",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-042.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-043": {
+      "id": "RDA-043",
+      "name": "Gargoyle Draconici",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-043.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-044": {
+      "id": "RDA-044",
+      "name": "Inganno Sottile",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-044.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-045": {
+      "id": "RDA-045",
+      "name": "Rap del Drago Rock",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-045.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-046": {
+      "id": "RDA-046",
+      "name": "Sforzo Funesto",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-046.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-047": {
+      "id": "RDA-047",
+      "name": "Tempesta di Fulmini",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-047.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-048": {
+      "id": "RDA-048",
+      "name": "Zanne di Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-048.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-049": {
+      "id": "RDA-049",
+      "name": "Zizzania",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-049.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-050": {
+      "id": "RDA-050",
+      "name": "Barriera di Foglie",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-050.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-051": {
+      "id": "RDA-051",
+      "name": "Clarabella Furiosa",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-051.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-052": {
+      "id": "RDA-052",
+      "name": "Gennarino",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-052.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-053": {
+      "id": "RDA-053",
+      "name": "Levitazione",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-053.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-054": {
+      "id": "RDA-054",
+      "name": "Orda di Orchetti-Faina",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-054.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-055": {
+      "id": "RDA-055",
+      "name": "Pentolone Magico Bollente",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-055.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-056": {
+      "id": "RDA-056",
+      "name": "Salvare il Regno",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-056.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-057": {
+      "id": "RDA-057",
+      "name": "Turbante dell'InvisibilitÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-057.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-058": {
+      "id": "RDA-058",
+      "name": "Viticcio Carnivoro",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-058.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-059": {
+      "id": "RDA-059",
+      "name": "Scogli delle Sirene",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-059.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-060": {
+      "id": "RDA-060",
+      "name": "Labirinto del Pendolo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-060.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-061": {
+      "id": "RDA-061",
+      "name": "Monti Invalicabili",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-061.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-062": {
+      "id": "RDA-062",
+      "name": "Piana di Magma",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-062.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-063": {
+      "id": "RDA-063",
+      "name": "Foresta degli Alberi Morti",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-063.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-064": {
+      "id": "RDA-064",
+      "name": "Guglie della Torre",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-064.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-065": {
+      "id": "RDA-065",
+      "name": "Sala delle Mangrovie",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-065.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-066": {
+      "id": "RDA-066",
+      "name": "Aiuto Contro la SiccitÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-066.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-067": {
+      "id": "RDA-067",
+      "name": "Campioni Leggendari",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-067.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-068": {
+      "id": "RDA-068",
+      "name": "Imbroglio",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-068.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-069": {
+      "id": "RDA-069",
+      "name": "Lasciami il Diamagic",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-069.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-070": {
+      "id": "RDA-070",
+      "name": "Maghi con le Scaglie",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-070.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-071": {
+      "id": "RDA-071",
+      "name": "Non Sbafartela Tutta!",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-071.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-072": {
+      "id": "RDA-072",
+      "name": "Non Serve la Magia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-072.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-073": {
+      "id": "RDA-073",
+      "name": "Proteggere Moonland",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-073.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-074": {
+      "id": "RDA-074",
+      "name": "Risveglio",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-074.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-075": {
+      "id": "RDA-075",
+      "name": "Spaventiamoli!",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-075.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-076": {
+      "id": "RDA-076",
+      "name": "SupervelocitÃ ",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-076.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-077": {
+      "id": "RDA-077",
+      "name": "Tela Animata",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-077.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-078": {
+      "id": "RDA-078",
+      "name": "Zaius - Guida Saggia",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-078.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-079": {
+      "id": "RDA-079",
+      "name": "Pippo - Mago Recalcitante",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-079.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-080": {
+      "id": "RDA-080",
+      "name": "Generale Garth - Drago Coraggioso",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-080.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-081": {
+      "id": "RDA-081",
+      "name": "Turbo il Messaggero",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-081.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-082": {
+      "id": "RDA-082",
+      "name": "Ira di Drago",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-082.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-083": {
+      "id": "RDA-083",
+      "name": "Entrare nel Sonno",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-083.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-084": {
+      "id": "RDA-084",
+      "name": "L'Anno del Fuoco",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-084.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-085": {
+      "id": "RDA-085",
+      "name": "Orchetto-Faina Berserk",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-085.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-086": {
+      "id": "RDA-086",
+      "name": "Dente dell'Orso",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-086.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "RDA-087": {
+      "id": "RDA-087",
+      "name": "Dente del Lupo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/RDA/RDA-087.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "ES-235": {
+      "id": "ES-235",
+      "name": "Avviso dal Futuro",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/ES/ES-235.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "ES-236": {
+      "id": "ES-236",
+      "name": "Mira Infallibile",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/ES/ES-236.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "ES-237": {
+      "id": "ES-237",
+      "name": "Fuoco Freddo",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/ES/ES-237.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "ES-238": {
+      "id": "ES-238",
+      "name": "Doppio Fulmine a Spirale",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/ES/ES-238.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    },
+    "ES-239": {
+      "id": "ES-239",
+      "name": "Barriera di Catrame",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/ES/ES-239.jpg",
+      "back": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg"
+    }
+  },
+  "by_name": {
+    "Paperina - Maga di Primo Livello": [
+      "OR-001"
+    ],
+    "Paperina - Maga di Secondo Livello": [
+      "OR-002"
+    ],
+    "Topolino - Apprendista Stregone": [
+      "OR-003"
+    ],
+    "Topolino - Mago di Primo Livello": [
+      "OR-004"
+    ],
+    "Yuri - Mastro Cuoco": [
+      "OR-005"
+    ],
+    "Zaius - Drago Rosicchiaossa": [
+      "OR-006"
+    ],
+    "Bassotto Unus - Furfante di Strada": [
+      "OR-007"
+    ],
+    "Bruma - Cuoco Brontolone": [
+      "OR-008"
+    ],
+    "Garma - Strega Dispettosa": [
+      "OR-009"
+    ],
+    "Pippo - Stregone con Borsa Magica": [
+      "OR-010"
+    ],
+    "Pippo - Mago Recalcitrante": [
+      "OR-011"
+    ],
+    "Zoron - Drago Pigro": [
+      "OR-012"
+    ],
+    "Gambadilegno - Ladro Stregone": [
+      "OR-013"
+    ],
+    "Minni - Maga di Secondo Livello": [
+      "OR-014"
+    ],
+    "Minni - Principessa di Moonland": [
+      "OR-015"
+    ],
+    "Neraja - Strega Vendicativa": [
+      "OR-016"
+    ],
+    "Paperino - Mago di Primo Livello": [
+      "OR-017"
+    ],
+    "Paperino - Mago di Secondo Livello": [
+      "OR-018"
+    ],
+    "Zefren - Drago Fiammeggiante": [
+      "OR-019"
+    ],
+    "Amelia - Strega Ambiziosa": [
+      "OR-020"
+    ],
+    "Bassotto Tertius - Dal Manto Invisibile": [
+      "OR-021"
+    ],
+    "Clarabella - Maga di Primo Livello": [
+      "OR-022"
+    ],
+    "Clarabella - Maga di Secondo Livello": [
+      "OR-023"
+    ],
+    "Gambadilegno - Furfante Astuto": [
+      "OR-024"
+    ],
+    "Yomper - Mago Goloso": [
+      "OR-025"
+    ],
+    "Bagliore del Lampo": [
+      "OR-026",
+      "RDA-038"
+    ],
+    "Barriera di Catrame": [
+      "OR-027",
+      "ES-239"
+    ],
+    "Boom Sonico": [
+      "OR-028"
+    ],
+    "Cascata Eterea": [
+      "OR-029"
+    ],
+    "Castel Shift": [
+      "OR-030",
+      "OR-112"
+    ],
+    "Doppio Fulmine a Spirale": [
+      "OR-031",
+      "ES-238"
+    ],
+    "Droide da Battaglia": [
+      "OR-032"
+    ],
+    "Evocazione di Pioggia": [
+      "OR-033",
+      "EO-023"
+    ],
+    "Fulmine Celestiale": [
+      "OR-034"
+    ],
+    "Guerriero dell'Arazzo": [
+      "OR-035",
+      "RDA-000"
+    ],
+    "Guerriero dell'Arazzo a Sei Braccia": [
+      "OR-036"
+    ],
+    "Inganno Mutevole": [
+      "OR-037"
+    ],
+    "Lampo della VeritÃ ": [
+      "OR-038"
+    ],
+    "Lampo Ipnotico": [
+      "OR-039",
+      "EO-028"
+    ],
+    "Luce Abbagliante": [
+      "OR-040",
+      "EO-097"
+    ],
+    "Nebbia Improvvisa": [
+      "OR-041"
+    ],
+    "Nido Abominevole": [
+      "OR-042"
+    ],
+    "Onda Travolgente": [
+      "OR-043",
+      "RDA-013"
+    ],
+    "Pozione Rigenerante": [
+      "OR-044"
+    ],
+    "Preveggenza": [
+      "OR-045",
+      "OR-101"
+    ],
+    "Scariche di Fulmini": [
+      "OR-046",
+      "EO-102"
+    ],
+    "Sifone Mistico Tipo Vortex": [
+      "OR-047"
+    ],
+    "Simulatore di Vista di Drago": [
+      "OR-048"
+    ],
+    "Spada Incantata": [
+      "OR-049"
+    ],
+    "SupervelocitÃ ": [
+      "OR-050",
+      "EO-156",
+      "RDA-076"
+    ],
+    "Tormenta di Ghiaccio": [
+      "OR-051"
+    ],
+    "Tornado Mistico": [
+      "OR-052",
+      "RDA-018"
+    ],
+    "Urto Sonico": [
+      "OR-053"
+    ],
+    "Androidi Gemelli": [
+      "OR-054"
+    ],
+    "Artigli Devastatori": [
+      "OR-055"
+    ],
+    "Ascia Diabolica": [
+      "OR-056"
+    ],
+    "Attacco Ingannevole": [
+      "OR-057",
+      "EO-061"
+    ],
+    "Barriera di Pietre": [
+      "OR-058"
+    ],
+    "Bestia del Malaugurio": [
+      "OR-059"
+    ],
+    "Drago Meccanico": [
+      "OR-060"
+    ],
+    "Gargoyle Forzuto": [
+      "OR-061"
+    ],
+    "Gargoyle Forzuto in Catene": [
+      "OR-062",
+      "EO-159"
+    ],
+    "Gargoyle Meditativo": [
+      "OR-063",
+      "RDA-024"
+    ],
+    "Gargoyle Timido": [
+      "OR-064"
+    ],
+    "Golem di Sabbia": [
+      "OR-065"
+    ],
+    "Guerrieri Meccanici a Doppia Carica": [
+      "OR-066"
+    ],
+    "Iena delle Steppe": [
+      "OR-067"
+    ],
+    "Liquame Putrido": [
+      "OR-068"
+    ],
+    "Magia Annullata": [
+      "OR-069"
+    ],
+    "Muro a Levitazione": [
+      "OR-070"
+    ],
+    "Mutazione Mannara": [
+      "OR-071"
+    ],
+    "Onda Tellurica": [
+      "OR-072"
+    ],
+    "Ondata di Rocce": [
+      "OR-073"
+    ],
+    "Orchetto-Faina": [
+      "OR-074"
+    ],
+    "Orda di Orchetti-Faina": [
+      "OR-075",
+      "RDA-054"
+    ],
+    "Palude Impenetrabile": [
+      "OR-076",
+      "EO-071"
+    ],
+    "Pietrificazione": [
+      "OR-077"
+    ],
+    "Porta dell'Ignoto": [
+      "OR-078"
+    ],
+    "Pulci delle Sabbie": [
+      "OR-079"
+    ],
+    "Sabbie Mobili": [
+      "OR-080"
+    ],
+    "Zanne Tritura-Ossa": [
+      "OR-081"
+    ],
+    "Ala Meccanica": [
+      "OR-082"
+    ],
+    "Alito del Drago": [
+      "OR-083",
+      "EO-084"
+    ],
+    "Ampolla di Magma": [
+      "OR-084"
+    ],
+    "Amuleto del Potere": [
+      "OR-085"
+    ],
+    "Arco di Fulmini": [
+      "OR-086",
+      "EO-017"
+    ],
+    "Artigli d'Ombra": [
+      "OR-087"
+    ],
+    "Artiglio Meccanico": [
+      "OR-088"
+    ],
+    "Bagliore Accecante": [
+      "OR-089"
+    ],
+    "Boom sonico avvolgente": [
+      "OR-090"
+    ],
+    "Catena del Dominatore": [
+      "OR-091"
+    ],
+    "Fafnir": [
+      "OR-092"
+    ],
+    "Gabbia Oscura": [
+      "OR-093"
+    ],
+    "Gargoyle Spia": [
+      "OR-094",
+      "EO-147"
+    ],
+    "Ingordigia Irrefrenabile": [
+      "OR-095",
+      "EO-096"
+    ],
+    "Ipnosi del Drago": [
+      "OR-096"
+    ],
+    "Lupo di Fuoco": [
+      "OR-097"
+    ],
+    "Muro Incandescente": [
+      "OR-098"
+    ],
+    "Nebbia di Drago": [
+      "OR-099"
+    ],
+    "OscuritÃ ": [
+      "OR-100"
+    ],
+    "Raffreddore di Drago": [
+      "OR-102"
+    ],
+    "Saggezza di Drago": [
+      "OR-103",
+      "EO-121"
+    ],
+    "Salsiccie Stritolanti": [
+      "OR-104"
+    ],
+    "Sifone Mistico Tipo Firetwister": [
+      "OR-105"
+    ],
+    "Sifone Mistico Tipo Typhon": [
+      "OR-106"
+    ],
+    "Soffietto Lanciafiamme": [
+      "OR-107"
+    ],
+    "Tornado del Drago": [
+      "OR-108"
+    ],
+    "Vampa Bruciante": [
+      "OR-109"
+    ],
+    "Balzo Supersonico": [
+      "OR-110"
+    ],
+    "Bordone Spezzato": [
+      "OR-111",
+      "EO-063"
+    ],
+    "Cortina Fumogena": [
+      "OR-113"
+    ],
+    "Corvo di Sventura": [
+      "OR-114"
+    ],
+    "Destrezza Elfica": [
+      "OR-115"
+    ],
+    "Edera Urticante": [
+      "OR-116"
+    ],
+    "Fantoccio Mutaforma": [
+      "OR-117"
+    ],
+    "Fiore dell'Oblio": [
+      "OR-118"
+    ],
+    "Foresta Tenebrosa": [
+      "OR-119"
+    ],
+    "Guerriero Meccanico Magnetico": [
+      "OR-120",
+      "EO-046"
+    ],
+    "Incrocio di Bordoni": [
+      "OR-121"
+    ],
+    "Lupo Grigio": [
+      "OR-122"
+    ],
+    "Muro di Alghe": [
+      "OR-123"
+    ],
+    "Onda d'Urto Spaccabarriere": [
+      "OR-124"
+    ],
+    "Orchetto-Faina Berserk": [
+      "OR-125",
+      "RDA-085"
+    ],
+    "Petali di Loto": [
+      "OR-126"
+    ],
+    "Polline Starnutifero": [
+      "OR-127"
+    ],
+    "Rospo Diabolico": [
+      "OR-128"
+    ],
+    "Sbarre Avvolgenti": [
+      "OR-129"
+    ],
+    "Sciame di Locuste": [
+      "OR-130"
+    ],
+    "Scudo di Corteccia": [
+      "OR-131"
+    ],
+    "Semi Energetici": [
+      "OR-132"
+    ],
+    "Sfera Occultante": [
+      "OR-133"
+    ],
+    "Spada di Arborea": [
+      "OR-134"
+    ],
+    "Specchio Infranto": [
+      "OR-135"
+    ],
+    "Tanfo Orrendo": [
+      "OR-136"
+    ],
+    "Viticci Avvolgenti": [
+      "OR-137"
+    ],
+    "Viticcio Carnivoro": [
+      "OR-138",
+      "RDA-058"
+    ],
+    "Caer Clock": [
+      "OR-139"
+    ],
+    "Grandhaven": [
+      "OR-140"
+    ],
+    "Rocca di Crow": [
+      "OR-141"
+    ],
+    "Castello dei Druidi": [
+      "OR-142",
+      "EO-136"
+    ],
+    "Castello di Hanubis": [
+      "OR-143"
+    ],
+    "Rocca del Golem Dormiente": [
+      "OR-144"
+    ],
+    "Biblioteca di Bukara": [
+      "OR-145"
+    ],
+    "Caer Spider": [
+      "OR-146",
+      "EO-165"
+    ],
+    "Castello delle Zanne": [
+      "OR-147"
+    ],
+    "Castello del Grande Albero": [
+      "OR-148"
+    ],
+    "Castello di Ekrendorf": [
+      "OR-149",
+      "EO-163"
+    ],
+    "Miceland": [
+      "OR-150"
+    ],
+    "Macchia Nera - Signore degli Inganni": [
+      "OR-151"
+    ],
+    "Kiki": [
+      "OR-152"
+    ],
+    "Ioshi - Mago Voluminoso": [
+      "T-001"
+    ],
+    "Topolino - Mago di Quarto Livello": [
+      "T-002"
+    ],
+    "Zaius - Drago Scavatore": [
+      "T-003"
+    ],
+    "Garma - Megera Vanitosa": [
+      "T-004"
+    ],
+    "Gurabashi - Mago Forzuto": [
+      "T-005"
+    ],
+    "Pippo - Mago di Terzo Livello": [
+      "T-006"
+    ],
+    "Neraja - Strega Feroce": [
+      "T-007"
+    ],
+    "Uchibiri - Mago Ingombrante": [
+      "T-008"
+    ],
+    "Zefren - Drago Inferocito": [
+      "T-009"
+    ],
+    "Amelia - Strega Vanagloriosa": [
+      "T-010"
+    ],
+    "Generale Garth - Drago Stratega": [
+      "T-011"
+    ],
+    "Paperino - Mago di Terzo Livello": [
+      "T-012"
+    ],
+    "Ala Scudo Antifiamma": [
+      "T-013"
+    ],
+    "Annulla Materia": [
+      "T-014"
+    ],
+    "Blocca Tempesta": [
+      "T-015",
+      "RDA-030"
+    ],
+    "Cacciatore di Draghi": [
+      "T-016"
+    ],
+    "Clone Berserk": [
+      "T-017"
+    ],
+    "Dissolvenza": [
+      "T-018"
+    ],
+    "Gabbia Mistica": [
+      "T-019"
+    ],
+    "Incanto Ciarliero": [
+      "T-020"
+    ],
+    "Incanto Miniaturizzante": [
+      "T-021"
+    ],
+    "Incubi": [
+      "T-022"
+    ],
+    "Ira Mannara": [
+      "T-023"
+    ],
+    "Leggerezza": [
+      "T-024"
+    ],
+    "Melodia Frastornante": [
+      "T-025"
+    ],
+    "Nebbia Avvolgente": [
+      "T-026"
+    ],
+    "Nembi Ciclonici": [
+      "T-027"
+    ],
+    "Percezione Alterata": [
+      "T-028"
+    ],
+    "Sbadiglio Incontenibile": [
+      "T-029"
+    ],
+    "Schiuma Antifiamma": [
+      "T-030",
+      "EO-034"
+    ],
+    "Scudo di Onde": [
+      "T-031"
+    ],
+    "Sdoppiamento": [
+      "T-032"
+    ],
+    "Tifone AntigravitÃ ": [
+      "T-033"
+    ],
+    "Tornado Irrefrenabile": [
+      "T-034"
+    ],
+    "Trappola di Ghiaccio": [
+      "T-035"
+    ],
+    "Trasmutazione": [
+      "T-036",
+      "EO-080"
+    ],
+    "Tristezza": [
+      "T-037"
+    ],
+    "Avviso dal Futuro": [
+      "T-038",
+      "ES-235"
+    ],
+    "Barriera di Cristallo": [
+      "T-039"
+    ],
+    "Barriera di Siepi": [
+      "T-040",
+      "EO-110"
+    ],
+    "Bordone Scheggiato": [
+      "T-041",
+      "EO-040"
+    ],
+    "Buca Occultante": [
+      "T-042",
+      "EO-112"
+    ],
+    "Cascata di Pozioni": [
+      "T-043"
+    ],
+    "Colpo di Bordone": [
+      "T-044"
+    ],
+    "Craniata Dirompente": [
+      "T-045",
+      "EO-043"
+    ],
+    "Cristallizzazione": [
+      "T-046"
+    ],
+    "Cupidigia": [
+      "T-047",
+      "EO-064"
+    ],
+    "Disorientamento": [
+      "T-048"
+    ],
+    "Droide Granchio": [
+      "T-049"
+    ],
+    "Energia Rocciosa": [
+      "T-050"
+    ],
+    "Fusione Metallica": [
+      "T-051"
+    ],
+    "Gigantismo": [
+      "T-052",
+      "EO-094"
+    ],
+    "Grata Mistica": [
+      "T-053"
+    ],
+    "Luce della VeritÃ ": [
+      "T-054"
+    ],
+    "Mazza Rimbombante": [
+      "T-055",
+      "EO-098"
+    ],
+    "Melassa Zuccherina": [
+      "T-056"
+    ],
+    "Rifugio d' Emergenza": [
+      "T-057"
+    ],
+    "Sasso Mordace": [
+      "T-058"
+    ],
+    "Sifone Mistico Tipo Gormex": [
+      "T-059"
+    ],
+    "Terrore Raggelante": [
+      "T-060"
+    ],
+    "Unione di Intenti": [
+      "T-061"
+    ],
+    "Zampata di Drago": [
+      "T-062"
+    ],
+    "Annulla Magia": [
+      "T-063"
+    ],
+    "Attacco Triplo": [
+      "T-064"
+    ],
+    "Boom Sonico Rintronante": [
+      "T-065"
+    ],
+    "Bordone Mimetico": [
+      "T-066"
+    ],
+    "Cassaforte della VeritÃ ": [
+      "T-067"
+    ],
+    "Collera Annebbiante": [
+      "T-068"
+    ],
+    "Corolla Avvolgente": [
+      "T-069"
+    ],
+    "Destriero di Fuoco": [
+      "T-070",
+      "EO-020"
+    ],
+    "Fascino Ammaliante": [
+      "T-071",
+      "RDA-022"
+    ],
+    "Fiamma Avvolgente": [
+      "T-072"
+    ],
+    "Fiamme Carbonizzanti": [
+      "T-073"
+    ],
+    "Fiuto Sopraffino": [
+      "T-074"
+    ],
+    "Fulmine Inceneritore": [
+      "T-075"
+    ],
+    "Fuoco del Tradimento": [
+      "T-076"
+    ],
+    "Fuoco Freddo": [
+      "T-077",
+      "ES-237"
+    ],
+    "Malanno Draghesco": [
+      "T-078"
+    ],
+    "Mira Infallibile": [
+      "T-079",
+      "ES-236"
+    ],
+    "Onda Rilucente": [
+      "T-080"
+    ],
+    "Particelle Eteree": [
+      "T-081"
+    ],
+    "Scia Carbonizzante": [
+      "T-082"
+    ],
+    "Scintille Appiccafuoco": [
+      "T-083"
+    ],
+    "Scudo Anti Drago": [
+      "T-084"
+    ],
+    "Sifone Mistico a Balestra": [
+      "T-085"
+    ],
+    "Vista Mannara": [
+      "T-086"
+    ],
+    "Zizzania": [
+      "T-087",
+      "RDA-049"
+    ],
+    "Amuletofonino Veggente": [
+      "T-088"
+    ],
+    "Avvizzimento Istantaneo": [
+      "T-089"
+    ],
+    "Azzannata Rabbiosa": [
+      "T-090"
+    ],
+    "Barlume di Veggenza": [
+      "T-091"
+    ],
+    "Bile di Troll": [
+      "T-092"
+    ],
+    "Bordone Invisibile": [
+      "T-093"
+    ],
+    "Calderone Abominevole": [
+      "T-094"
+    ],
+    "Coltre di InvisibilitÃ ": [
+      "T-095"
+    ],
+    "Doppia VelocitÃ ": [
+      "T-096"
+    ],
+    "Droide Scout": [
+      "T-097"
+    ],
+    "Fumo Nauseante": [
+      "T-098"
+    ],
+    "Fungo Aureo": [
+      "T-099",
+      "TD-021"
+    ],
+    "Incantesimo Riflettente": [
+      "T-100"
+    ],
+    "Intrico Aggrovigliante": [
+      "T-101"
+    ],
+    "Lingua Velenosa": [
+      "T-102"
+    ],
+    "Mantide di Palude": [
+      "T-103"
+    ],
+    "Olezzo Obnubilante": [
+      "T-104"
+    ],
+    "Pergamena del Potere": [
+      "T-105"
+    ],
+    "Rapa Diabolica": [
+      "T-106"
+    ],
+    "Scambio di Diamagic": [
+      "T-107"
+    ],
+    "Semi della Conoscenza": [
+      "T-108"
+    ],
+    "Tela dell' IrrealtÃ ": [
+      "T-109"
+    ],
+    "Tentacoli Vegetali": [
+      "T-110"
+    ],
+    "Viticcio Esploratore": [
+      "T-111",
+      "EO-130"
+    ],
+    "Rocca di Durlan": [
+      "T-112"
+    ],
+    "Caer Fist": [
+      "T-113"
+    ],
+    "Caer Meridian": [
+      "T-114"
+    ],
+    "Grawlburg": [
+      "T-115"
+    ],
+    "Aiuto Inatteso": [
+      "T-116"
+    ],
+    "Pluto Mannaro": [
+      "T-117"
+    ],
+    "Amuletofonino": [
+      "T-118"
+    ],
+    "Boom Sonico Echeggiante": [
+      "T-119"
+    ],
+    "Pentolone Magico": [
+      "T-120"
+    ],
+    "La Grande Corona": [
+      "T-121",
+      "PDA-013"
+    ],
+    "Clarabella - Maga Musicista": [
+      "T-122"
+    ],
+    "Roknar": [
+      "T-123",
+      "PDA-022"
+    ],
+    "Pegas": [
+      "T-124"
+    ],
+    "Brama di Potere": [
+      "T-125"
+    ],
+    "Risveglio dei Draghi Antichi": [
+      "T-126"
+    ],
+    "Viticci Stritolanti": [
+      "T-127"
+    ],
+    "Arena dei Desideri": [
+      "T-128"
+    ],
+    "Garubashi - Mago Colossale": [
+      "T-129"
+    ],
+    "Bassotto Secundus - Mago Carrarmato": [
+      "T-130"
+    ],
+    "Yomper - Mago Pasticcione": [
+      "T-131"
+    ],
+    "Minni - Maga Esperta": [
+      "T-132"
+    ],
+    "Svelare gli Inganni": [
+      "T-133"
+    ],
+    "Boom Sonico Sotterraneo": [
+      "T-134"
+    ],
+    "Essiccare": [
+      "T-135"
+    ],
+    "Bilancia dell'Equilibrio": [
+      "T-136"
+    ],
+    "Labirinto del Pendolo": [
+      "T-137",
+      "RDA-060"
+    ],
+    "Labirinto dei Rovi": [
+      "T-138"
+    ],
+    "Stanza Girevole": [
+      "T-139"
+    ],
+    "Rocca del Fungo": [
+      "T-140"
+    ],
+    "Nereus - Mago Sapiente": [
+      "T-141"
+    ],
+    "Pugno Magico": [
+      "T-142"
+    ],
+    "Pozzo del Ghouler": [
+      "T-143"
+    ],
+    "Topolino - Mago Aggressivo": [
+      "T-144"
+    ],
+    "Dolci Parole": [
+      "T-145"
+    ],
+    "Inganno Sottile": [
+      "T-146",
+      "RDA-044"
+    ],
+    "Dicerie Velenose": [
+      "T-147"
+    ],
+    "Sfera del Caos": [
+      "T-148"
+    ],
+    "Labirinto della Lunga Gora": [
+      "T-149"
+    ],
+    "Casa del Sonno": [
+      "T-150"
+    ],
+    "Bastione del Drago": [
+      "T-151"
+    ],
+    "Smart Flash â_x0080__x0093_ Mago Fumineo": [
+      "EO-001"
+    ],
+    "Zaius â_x0080__x0093_ Drago Impetuoso": [
+      "EO-002"
+    ],
+    "Bruma â_x0080__x0093_ Cuoco Pigro": [
+      "EO-003"
+    ],
+    "Fire Flash â_x0080__x0093_ Mago Fulminante": [
+      "EO-004"
+    ],
+    "Pippo â_x0080__x0093_ Mago Ingegnere": [
+      "EO-005"
+    ],
+    "Zoron â_x0080__x0093_ Drago Sonnolento": [
+      "EO-006"
+    ],
+    "Bassotto Unus â_x0080__x0093_ Ladro Sciocco": [
+      "EO-007"
+    ],
+    "Macchia Nera â_x0080__x0093_ Guardiano Ombra": [
+      "EO-008"
+    ],
+    "Minni â_x0080__x0093_ Maga Diabolica": [
+      "EO-009"
+    ],
+    "Topolino â_x0080__x0093_ Stregone Supremo": [
+      "EO-010"
+    ],
+    "Red Flash â_x0080__x0093_ Mago Velocista": [
+      "EO-011"
+    ],
+    "Zefren â_x0080__x0093_ Drago Strategia": [
+      "EO-012"
+    ],
+    "Bassotto Tertius â_x0080__x0093_ Brigante in Miniatura": [
+      "EO-013"
+    ],
+    "Gambadilegno - Mago Tormentato": [
+      "EO-014"
+    ],
+    "Yuri â_x0080__x0093_ Cuoco Esperto": [
+      "EO-015"
+    ],
+    "Alleanza Mistica": [
+      "EO-016"
+    ],
+    "Barriera di Nuvole": [
+      "EO-018"
+    ],
+    "Barriera Istantanea": [
+      "EO-019"
+    ],
+    "Disorientamenteo": [
+      "EO-021"
+    ],
+    "Dono Ingannevole": [
+      "EO-022"
+    ],
+    "Fato Ineluttabile": [
+      "EO-024"
+    ],
+    "Frittelle Nutrienti": [
+      "EO-025"
+    ],
+    "Guerriero Ignifugo": [
+      "EO-026"
+    ],
+    "Kiki Dispettosa": [
+      "EO-027"
+    ],
+    "Mago Innamorato": [
+      "EO-029"
+    ],
+    "Pesca Esagerata": [
+      "EO-030"
+    ],
+    "Pioggia Dirompente": [
+      "EO-031"
+    ],
+    "Polvere Cometa": [
+      "EO-032"
+    ],
+    "Risorse Inaspettate": [
+      "EO-033"
+    ],
+    "Sifone Mistico Tipo Trappola": [
+      "EO-035"
+    ],
+    "Soffio di Ghiaccio": [
+      "EO-036"
+    ],
+    "Spreco di Forze": [
+      "EO-037"
+    ],
+    "Telepatia": [
+      "EO-038"
+    ],
+    "Agguato degli Orchetti-Faina": [
+      "EO-039"
+    ],
+    "Catena di Luce": [
+      "EO-041"
+    ],
+    "Ciotola Parlante": [
+      "EO-042"
+    ],
+    "Gargoyle Dominante": [
+      "EO-044"
+    ],
+    "Grata di Metallo": [
+      "EO-045"
+    ],
+    "Luce Illuminante": [
+      "EO-047"
+    ],
+    "Muro di Levitazione": [
+      "EO-048"
+    ],
+    "Orchetto-Faina Disgustato": [
+      "EO-049"
+    ],
+    "Orda di Piovra Metalliche": [
+      "EO-050"
+    ],
+    "Pegas Affamato": [
+      "EO-051"
+    ],
+    "Protettore Generoso": [
+      "EO-052"
+    ],
+    "Sabotare gli Ingredienti": [
+      "EO-053"
+    ],
+    "Saetta Ipersonica": [
+      "EO-054"
+    ],
+    "Scarpe da Ginnastica": [
+      "EO-055"
+    ],
+    "SemplicitÃ ": [
+      "EO-056"
+    ],
+    "Sifone Mistico Tipo Lampo": [
+      "EO-057"
+    ],
+    "SupervelocitÃ  Ipnotica": [
+      "EO-058"
+    ],
+    "Vento di Sabbie": [
+      "EO-059"
+    ],
+    "Artiglio d'Ombra": [
+      "EO-060"
+    ],
+    "Banchetto degli Orchetti-Faina": [
+      "EO-062"
+    ],
+    "Dominio dell'OscuritÃ ": [
+      "EO-065"
+    ],
+    "Fantasma Guerriero": [
+      "EO-066"
+    ],
+    "Fumo Insetticida": [
+      "EO-067"
+    ],
+    "Furia di Drago": [
+      "EO-068"
+    ],
+    "Grande Inganno": [
+      "EO-069"
+    ],
+    "Infierire sui Deboli": [
+      "EO-070"
+    ],
+    "Piccolo Trucco": [
+      "EO-072"
+    ],
+    "Pluto Aggressivo": [
+      "EO-073"
+    ],
+    "Proiettili di Aglio": [
+      "EO-074"
+    ],
+    "Re Ugrun": [
+      "EO-075"
+    ],
+    "Scettro Oscuro": [
+      "EO-076"
+    ],
+    "Sconforto": [
+      "EO-077"
+    ],
+    "Sforzo Funesto": [
+      "EO-078",
+      "RDA-046"
+    ],
+    "Sifone Mistico Tipo Nightmare": [
+      "EO-079"
+    ],
+    "Urlo Terrorizzante": [
+      "EO-081"
+    ],
+    "Vedere nel Buio": [
+      "EO-082"
+    ],
+    "Affetto Soffocante": [
+      "EO-083"
+    ],
+    "Arpa di Fiamma": [
+      "EO-085"
+    ],
+    "Cotta di Maglia Antimagma": [
+      "EO-086"
+    ],
+    "Doppio Attacco Fulminante": [
+      "EO-087"
+    ],
+    "Drago Furioso": [
+      "EO-088"
+    ],
+    "Evanescenza": [
+      "EO-089"
+    ],
+    "Fanfir Raffreddato": [
+      "EO-090"
+    ],
+    "Fenris": [
+      "EO-091"
+    ],
+    "Fiamme Arroventate": [
+      "EO-092"
+    ],
+    "Fulmine Inceneritore Potenziato": [
+      "EO-093"
+    ],
+    "Guanto di Gameras": [
+      "EO-095"
+    ],
+    "Nullifica": [
+      "EO-099"
+    ],
+    "Prezzo dell'AviditÃ ": [
+      "EO-100"
+    ],
+    "Sbriciola Pietra": [
+      "EO-101"
+    ],
+    "Scudo Riflettente": [
+      "EO-103"
+    ],
+    "Sfera della Conoscenza": [
+      "EO-104"
+    ],
+    "Tempesta di Fuoco": [
+      "EO-105"
+    ],
+    "Una Nuova Speranza": [
+      "EO-106"
+    ],
+    "Acqua della Fonte di Oberon": [
+      "EO-107"
+    ],
+    "Aiuto di Ormen": [
+      "EO-108"
+    ],
+    "Artigli di Edera Velenosa": [
+      "EO-109"
+    ],
+    "Bolla Impenetrabile": [
+      "EO-111"
+    ],
+    "Consiglio Malevolo": [
+      "EO-113"
+    ],
+    "Crescita Gigante": [
+      "EO-114"
+    ],
+    "Esercito di Orchetti-Faina": [
+      "EO-115"
+    ],
+    "Furto": [
+      "EO-116"
+    ],
+    "Gabbia Avvolgente": [
+      "EO-117"
+    ],
+    "Gargoyle Prepotente": [
+      "EO-118"
+    ],
+    "Mappa Ufficiale dei Castelli": [
+      "EO-119"
+    ],
+    "Penna Magica": [
+      "EO-120"
+    ],
+    "Saggezza di Ormen": [
+      "EO-122"
+    ],
+    "Sfera della TranqullitÃ ": [
+      "EO-123"
+    ],
+    "Sfera di Cristallo": [
+      "EO-124"
+    ],
+    "Sgusciare": [
+      "EO-125"
+    ],
+    "Sintonia con la Foresta": [
+      "EO-126"
+    ],
+    "Sintonia con la Natura": [
+      "EO-127"
+    ],
+    "Spaventapasseri Abominevole": [
+      "EO-128"
+    ],
+    "Teletrasporto Mistico": [
+      "EO-129"
+    ],
+    "Camera della Porta Nera": [
+      "EO-131",
+      "TP-000"
+    ],
+    "Fonte Rigenerante": [
+      "EO-132"
+    ],
+    "Rocca del Falcone": [
+      "EO-133"
+    ],
+    "Sala dei Gargoyle": [
+      "EO-134",
+      "TP-000"
+    ],
+    "Bibloteca di Bukara": [
+      "EO-135"
+    ],
+    "Torre di Dimeticati": [
+      "EO-137"
+    ],
+    "Castello di Arborea": [
+      "EO-138"
+    ],
+    "Chiostro di Ekrendorf": [
+      "EO-139",
+      "TP-000"
+    ],
+    "Grande Alveare": [
+      "EO-140"
+    ],
+    "Matteus Z": [
+      "EO-141"
+    ],
+    "Alexander R": [
+      "EO-142"
+    ],
+    "Manu-Ellen M": [
+      "EO-143"
+    ],
+    "Ioshi â_x0080__x0093_ Mago Forzuto": [
+      "EO-144"
+    ],
+    "Madre dei Diamagic": [
+      "EO-145"
+    ],
+    "Prezzo del Potere": [
+      "EO-146",
+      "PDA-015"
+    ],
+    "Dragavar": [
+      "EO-148"
+    ],
+    "Ormen â_x0080__x0093_ Drago Saggio": [
+      "EO-149"
+    ],
+    "Accelera Magia": [
+      "EO-150"
+    ],
+    "Catacombe di Gameras": [
+      "EO-151"
+    ],
+    "Hypnor - Drago Orribile": [
+      "EO-152"
+    ],
+    "Dreadking - Supremo Dominatore": [
+      "EO-153"
+    ],
+    "Neraja - Grande Strega": [
+      "EO-154"
+    ],
+    "Pyranar - Drago Anfibio": [
+      "EO-155"
+    ],
+    "Castello Illusiorio": [
+      "EO-157"
+    ],
+    "Diatriba Magica": [
+      "EO-158"
+    ],
+    "Assorbi Diamagic": [
+      "EO-160",
+      "RDA-028"
+    ],
+    "Duplicazione Multipla": [
+      "EO-161"
+    ],
+    "Salsicce Stritolanti": [
+      "EO-162"
+    ],
+    "Iceburg": [
+      "EO-164"
+    ],
+    "Macchia Nera - Creatura d'Ombra": [
+      "TD-000"
+    ],
+    "Gioco Di Inganni": [
+      "TD-015"
+    ],
+    "Tarlo del dubbio": [
+      "TD-016"
+    ],
+    "Turbante dell'InvisibilitÃ ": [
+      "TD-017",
+      "RDA-057"
+    ],
+    "Regno dei Pipistrellorchi": [
+      "TD-031"
+    ],
+    "Paperina - Maga Radiosa": [
+      "TD-000"
+    ],
+    "Trasferire Diamagic": [
+      "TD-000"
+    ],
+    "Grande Banchetto": [
+      "TD-016"
+    ],
+    "Muro di Spine": [
+      "TD-024"
+    ],
+    "Castello di Gideon": [
+      "TD-031"
+    ],
+    "Paperino - Mago Indebitato": [
+      "TD-000"
+    ],
+    "Sostituzione Astuta": [
+      "TD-000"
+    ],
+    "Telecomando": [
+      "TD-018"
+    ],
+    "Drago di Ferro": [
+      "TD-027"
+    ],
+    "Castello dei Robot Warlock": [
+      "TD-031"
+    ],
+    "Topolino â_x0080__x0093_ Stregone Nero": [
+      "PDA-000",
+      "PDA-000",
+      "PDA-000"
+    ],
+    "Antiche Tenebre": [
+      "PDA-000"
+    ],
+    "Arti Oscure": [
+      "PDA-000"
+    ],
+    "Combattimento Magico": [
+      "PDA-000"
+    ],
+    "Editto dello Stregone Nero": [
+      "PDA-000"
+    ],
+    "Energia Magica": [
+      "PDA-000"
+    ],
+    "Forza di VolontÃ ": [
+      "PDA-000"
+    ],
+    "Frammenti della Corona": [
+      "PDA-000"
+    ],
+    "Guardiano Ombra": [
+      "PDA-000"
+    ],
+    "Il Giorno senza Sole": [
+      "PDA-000"
+    ],
+    "Minaccia Oscura": [
+      "PDA-014"
+    ],
+    "Solitudine": [
+      "PDA-016"
+    ],
+    "Archivi Ricurvi": [
+      "PDA-017"
+    ],
+    "Castello dello Stregone Nero": [
+      "PDA-018"
+    ],
+    "Ingresso Nebbioso": [
+      "PDA-019"
+    ],
+    "Mura Rinforzate": [
+      "PDA-020"
+    ],
+    "Zanne Affilate": [
+      "PDA-021"
+    ],
+    "Valle delle Ossa": [
+      "PDA-023"
+    ],
+    "Apprendista Giovane Mago della Pioggia": [
+      "TP-000"
+    ],
+    "Apprendista Giovane Mago della Sabbia": [
+      "TP-000"
+    ],
+    "Apprendista Giovane Mago del Fuoco": [
+      "TP-000"
+    ],
+    "Apprendista Giovane Mago della Foresta": [
+      "TP-000"
+    ],
+    "Torre dei Dimenticati": [
+      "TP-000"
+    ],
+    "Ermex â_x0080__x0093_ Sublime Tessitore": [
+      "RDA-000"
+    ],
+    "Paperina â_x0080__x0093_ Luna Diamante": [
+      "RDA-000"
+    ],
+    "Gambadilegno â_x0080__x0093_ Ladro di Diamagic": [
+      "RDA-000"
+    ],
+    "Garma â_x0080__x0093_ Strega Volante": [
+      "RDA-000"
+    ],
+    "Lady Sauria â_x0080__x0093_ Signora dei Draghi": [
+      "RDA-000"
+    ],
+    "Minni â_x0080__x0093_ Principessa d'Argento": [
+      "RDA-000"
+    ],
+    "Olmex â_x0080__x0093_ Tintore Stregato": [
+      "RDA-000"
+    ],
+    "Paperino â_x0080__x0093_ Mago Avventuriero": [
+      "RDA-000"
+    ],
+    "Tkubon â_x0080__x0093_ Stregone Alchimista": [
+      "RDA-000"
+    ],
+    "Diamagic dell'InvisibilitÃ ": [
+      "RDA-000"
+    ],
+    "Livello Superiore": [
+      "RDA-000"
+    ],
+    "Ricami dell'Arazzo": [
+      "RDA-014"
+    ],
+    "Schiacciare": [
+      "RDA-015"
+    ],
+    "Supremo Inganno": [
+      "RDA-016"
+    ],
+    "Taglia Gigante": [
+      "RDA-017"
+    ],
+    "Ali del Drago": [
+      "RDA-019"
+    ],
+    "Bordone di Bruma": [
+      "RDA-020"
+    ],
+    "Carica Inarrestabile": [
+      "RDA-021"
+    ],
+    "Furto di Diamagic": [
+      "RDA-023"
+    ],
+    "Generale degli Orchetti-Faina": [
+      "RDA-025"
+    ],
+    "Orchetto-Faina Lanciere": [
+      "RDA-026"
+    ],
+    "Sprint": [
+      "RDA-027"
+    ],
+    "Bellezza Perduta": [
+      "RDA-029"
+    ],
+    "Bordone di Garma": [
+      "RDA-031"
+    ],
+    "Cassaforte della Menzogna": [
+      "RDA-032"
+    ],
+    "Ode di Lay Sauria": [
+      "RDA-033"
+    ],
+    "Orchetti-Faina Rivali": [
+      "RDA-034"
+    ],
+    "Rabbia Distruttiva": [
+      "RDA-035"
+    ],
+    "Ruggito del Drago": [
+      "RDA-036"
+    ],
+    "AgilitÃ ": [
+      "RDA-037"
+    ],
+    "Colpo della Fiammata Catatonica": [
+      "RDA-039"
+    ],
+    "Drago Giocoliere": [
+      "RDA-040"
+    ],
+    "Fafnir Bussola": [
+      "RDA-041"
+    ],
+    "Furto in Miniatura": [
+      "RDA-042"
+    ],
+    "Gargoyle Draconici": [
+      "RDA-043"
+    ],
+    "Rap del Drago Rock": [
+      "RDA-045"
+    ],
+    "Tempesta di Fulmini": [
+      "RDA-047"
+    ],
+    "Zanne di Drago": [
+      "RDA-048"
+    ],
+    "Barriera di Foglie": [
+      "RDA-050"
+    ],
+    "Clarabella Furiosa": [
+      "RDA-051"
+    ],
+    "Gennarino": [
+      "RDA-052"
+    ],
+    "Levitazione": [
+      "RDA-053"
+    ],
+    "Pentolone Magico Bollente": [
+      "RDA-055"
+    ],
+    "Salvare il Regno": [
+      "RDA-056"
+    ],
+    "Scogli delle Sirene": [
+      "RDA-059"
+    ],
+    "Monti Invalicabili": [
+      "RDA-061"
+    ],
+    "Piana di Magma": [
+      "RDA-062"
+    ],
+    "Foresta degli Alberi Morti": [
+      "RDA-063"
+    ],
+    "Guglie della Torre": [
+      "RDA-064"
+    ],
+    "Sala delle Mangrovie": [
+      "RDA-065"
+    ],
+    "Aiuto Contro la SiccitÃ ": [
+      "RDA-066"
+    ],
+    "Campioni Leggendari": [
+      "RDA-067"
+    ],
+    "Imbroglio": [
+      "RDA-068"
+    ],
+    "Lasciami il Diamagic": [
+      "RDA-069"
+    ],
+    "Maghi con le Scaglie": [
+      "RDA-070"
+    ],
+    "Non Sbafartela Tutta!": [
+      "RDA-071"
+    ],
+    "Non Serve la Magia": [
+      "RDA-072"
+    ],
+    "Proteggere Moonland": [
+      "RDA-073"
+    ],
+    "Risveglio": [
+      "RDA-074"
+    ],
+    "Spaventiamoli!": [
+      "RDA-075"
+    ],
+    "Tela Animata": [
+      "RDA-077"
+    ],
+    "Zaius - Guida Saggia": [
+      "RDA-078"
+    ],
+    "Pippo - Mago Recalcitante": [
+      "RDA-079"
+    ],
+    "Generale Garth - Drago Coraggioso": [
+      "RDA-080"
+    ],
+    "Turbo il Messaggero": [
+      "RDA-081"
+    ],
+    "Ira di Drago": [
+      "RDA-082"
+    ],
+    "Entrare nel Sonno": [
+      "RDA-083"
+    ],
+    "L'Anno del Fuoco": [
+      "RDA-084"
+    ],
+    "Dente dell'Orso": [
+      "RDA-086"
+    ],
+    "Dente del Lupo": [
+      "RDA-087"
+    ]
+  }
+}
