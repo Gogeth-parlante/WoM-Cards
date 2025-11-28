@@ -1,5 +1,11 @@
 {
   "cards": {
+    "DEBUG-001": {
+      "name": "CARTA DI TEST",
+      "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-001.jpg",
+      "backURL": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/Back.jpg",
+      "type": "Magia"
+    },
     "OR-001": {
       "name": "Paperina - Maga di Primo Livello",
       "url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-001.jpg",
