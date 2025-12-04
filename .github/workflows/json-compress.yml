@@ -3,8 +3,8 @@ name: Build compressed JSON files
 on:
   push:
     paths:
-      - "cards/*.json"
-      - "!cards/*.gz"
+      - 'cards/*.json'
+      - '!cards/*.min.json'
 
 permissions:
   contents: write
@@ -15,40 +15,40 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       - name: Install jq
         run: sudo apt-get install -y jq
 
-      - name: Build compressed JSON variants
+      - name: Build compressed JSON files
         run: |
           mkdir -p cards
+
           for file in cards/*.json; do
-            # Ignora file gia gzip
-            if [[ "$file" == *.gz ]]; then
+            # Skip .min.json files
+            if [[ "$file" == *.min.json ]]; then
               continue
             fi
 
             base="${file%.json}"
-            minified="$base.compiled.json"
-            gzipped="$base.compiled.json.gz"
+            compiled="$base.compiled.json"
+            gz="$compiled.gz"
 
             echo "→ Processing $file"
-            echo "   Minified: $minified"
-            echo "   Gzipped : $gzipped"
+            echo "   Minified: $compiled"
+            echo "   Gzipped : $gz"
 
-            # Minify con jq
-            jq -c . "$file" > "$minified"
+            # Minify
+            jq -c . "$file" > "$compiled"
 
-            # Gzip massimo livello
-            gzip -9 -f "$minified"
-
-            # Sposta il risultato nella cartella
-            mv "$minified.gz" "$gzipped"
+            # Gzip (force overwrite)
+            gzip -c "$compiled" > "$gz"
           done
 
-      - name: Commit compressed JSON
+      - name: Commit compiled and gzipped JSON
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Auto-build JSON compressed variants"
-          file_pattern: cards/*.compiled.json.gz
+          commit_message: "Auto-build JSON compiled and gzipped"
+          file_pattern: cards/*.compiled.json cards/*.compiled.json.gz
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
