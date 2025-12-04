@@ -1,0 +1,54 @@
+name: Build compressed JSON files
+
+on:
+  push:
+    paths:
+      - "cards/*.json"
+      - "!cards/*.gz"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Build compressed JSON variants
+        run: |
+          mkdir -p cards
+          for file in cards/*.json; do
+            # Ignora file gia gzip
+            if [[ "$file" == *.gz ]]; then
+              continue
+            fi
+
+            base="${file%.json}"
+            minified="$base.compiled.json"
+            gzipped="$base.compiled.json.gz"
+
+            echo "→ Processing $file"
+            echo "   Minified: $minified"
+            echo "   Gzipped : $gzipped"
+
+            # Minify con jq
+            jq -c . "$file" > "$minified"
+
+            # Gzip massimo livello
+            gzip -9 -f "$minified"
+
+            # Sposta il risultato nella cartella
+            mv "$minified.gz" "$gzipped"
+          done
+
+      - name: Commit compressed JSON
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Auto-build JSON compressed variants"
+          file_pattern: cards/*.compiled.json.gz
