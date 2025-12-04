@@ -1,20 +1,23 @@
-name: Minify JSON files
+name: Build JSON variants
 
 on:
   push:
     paths:
       - 'cards/*.json'
       - '!cards/*.min.json'
+      - '!cards/*.compiled.json'
+      - '!cards/*.gz'
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  minify:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -25,17 +28,51 @@ jobs:
       - name: Minify JSON files
         run: |
           for file in cards/*.json; do
-            if [[ "$file" != *".min.json" ]]; then
+            if [[ "$file" != *".min.json" && "$file" != *".compiled.json" ]]; then
               min="${file%.json}.min.json"
-              echo "Minifying $file → $min"
+              echo "[MIN] $file → $min"
               jq -c . "$file" > "$min"
             fi
           done
 
-      - name: Commit minified JSON
+      - name: Precompile BY_NAME
+        run: |
+          for file in cards/*.min.json; do
+            compiled="${file%.min.json}.compiled.json"
+            echo "[COMPILE] $file → $compiled"
+
+            jq '
+              . as $root
+              | {
+                  cards: $root.cards,
+                  by_name:
+                    (reduce $root.cards[] as $c ({};
+                      .[
+                        ($c.name
+                          | ascii_downcase
+                          | gsub(" +";" ")
+                          | gsub("^ +| +$";"")
+                        )
+                      ] += [$c.id]
+                    ))
+                }
+            ' "$file" > "$compiled"
+          done
+
+      - name: Gzip compiled versions
+        run: |
+          for file in cards/*.compiled.json; do
+            echo "[GZIP] $file → $file.gz"
+            gzip -kf "$file"
+          done
+
+      - name: Commit JSON variants
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Auto-minify JSON"
-          file_pattern: cards/*.min.json
+          commit_message: "Auto-build JSON variants"
+          file_pattern: |
+            cards/*.min.json
+            cards/*.compiled.json
+            cards/*.gz
           commit_user_name: "github-actions[bot]"
           commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
