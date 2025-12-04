@@ -1,0 +1,34 @@
+name: Minify JSON files
+
+on:
+  push:
+    paths:
+      - 'cards/*.json'
+      - '!cards/*.min.json'
+
+jobs:
+  minify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Minify JSON files
+        run: |
+          for file in cards/*.json; do
+            if [[ "$file" != *".min.json" ]]; then
+              min="${file%.json}.min.json"
+              echo "Minifying $file → $min"
+              jq -c . "$file" > "$min"
+            fi
+          done
+
+      - name: Commit minified JSON
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Auto-minify JSON"
+          file_pattern: cards/*.min.json
