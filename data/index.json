@@ -1,77 +1,77 @@
 {
-  "paperina  maga di primo livello": [
+  "paperina maga di primo livello": [
     "OR-001"
   ],
-  "paperina  maga di secondo livello": [
+  "paperina maga di secondo livello": [
     "OR-002"
   ],
-  "topolino  apprendista stregone": [
+  "topolino apprendista stregone": [
     "OR-003"
   ],
-  "topolino  mago di primo livello": [
+  "topolino mago di primo livello": [
     "OR-004"
   ],
-  "yuri  mastro cuoco": [
+  "yuri mastro cuoco": [
     "OR-005"
   ],
-  "zaius  drago rosicchiaossa": [
+  "zaius drago rosicchiaossa": [
     "OR-006"
   ],
-  "bassotto unus  furfante di strada": [
+  "bassotto unus furfante di strada": [
     "OR-007"
   ],
-  "bruma  cuoco brontolone": [
+  "bruma cuoco brontolone": [
     "OR-008"
   ],
-  "garma  strega dispettosa": [
+  "garma strega dispettosa": [
     "OR-009"
   ],
-  "pippo  stregone con borsa magica": [
+  "pippo stregone con borsa magica": [
     "OR-010"
   ],
-  "pippo  mago recalcitrante": [
+  "pippo mago recalcitrante": [
     "OR-011"
   ],
-  "zoron  drago pigro": [
+  "zoron drago pigro": [
     "OR-012"
   ],
-  "gambadilegno  ladro stregone": [
+  "gambadilegno ladro stregone": [
     "OR-013"
   ],
-  "minni  maga di secondo livello": [
+  "minni maga di secondo livello": [
     "OR-014"
   ],
-  "minni  principessa di moonland": [
+  "minni principessa di moonland": [
     "OR-015"
   ],
-  "neraja  strega vendicativa": [
+  "neraja strega vendicativa": [
     "OR-016"
   ],
-  "paperino  mago di primo livello": [
+  "paperino mago di primo livello": [
     "OR-017"
   ],
-  "paperino  mago di secondo livello": [
+  "paperino mago di secondo livello": [
     "OR-018"
   ],
-  "zefren  drago fiammeggiante": [
+  "zefren drago fiammeggiante": [
     "OR-019"
   ],
-  "amelia  strega ambiziosa": [
+  "amelia strega ambiziosa": [
     "OR-020"
   ],
-  "bassotto tertius  dal manto invisibile": [
+  "bassotto tertius dal manto invisibile": [
     "OR-021"
   ],
-  "clarabella  maga di primo livello": [
+  "clarabella maga di primo livello": [
     "OR-022"
   ],
-  "clarabella  maga di secondo livello": [
+  "clarabella maga di secondo livello": [
     "OR-023"
   ],
-  "gambadilegno  furfante astuto": [
+  "gambadilegno furfante astuto": [
     "OR-024"
   ],
-  "yomper  mago goloso": [
+  "yomper mago goloso": [
     "OR-025"
   ],
   "bagliore del lampo": [
@@ -106,11 +106,11 @@
   "fulmine celestiale": [
     "OR-034"
   ],
-  "guerriero dellarazzo": [
+  "guerriero dell arazzo": [
     "OR-035",
     "R-011"
   ],
-  "guerriero dellarazzo a sei braccia": [
+  "guerriero dell arazzo a sei braccia": [
     "OR-036"
   ],
   "inganno mutevole": [
@@ -235,10 +235,10 @@
   "ondata di rocce": [
     "OR-073"
   ],
-  "orchettofaina": [
+  "orchetto faina": [
     "OR-074"
   ],
-  "orda di orchettifaina": [
+  "orda di orchetti faina": [
     "OR-075",
     "R-054"
   ],
@@ -249,7 +249,7 @@
   "pietrificazione": [
     "OR-077"
   ],
-  "porta dellignoto": [
+  "porta dell ignoto": [
     "OR-078"
   ],
   "pulci delle sabbie": [
@@ -258,7 +258,7 @@
   "sabbie mobili": [
     "OR-080"
   ],
-  "zanne trituraossa": [
+  "zanne tritura ossa": [
     "OR-081"
   ],
   "ala meccanica": [
@@ -278,7 +278,7 @@
     "OR-086",
     "EO-017"
   ],
-  "artigli dombra": [
+  "artigli d ombra": [
     "OR-087"
   ],
   "artiglio meccanico": [
@@ -369,7 +369,7 @@
   "fantoccio mutaforma": [
     "OR-117"
   ],
-  "fiore delloblio": [
+  "fiore dell oblio": [
     "OR-118"
   ],
   "foresta tenebrosa": [
@@ -388,10 +388,10 @@
   "muro di alghe": [
     "OR-123"
   ],
-  "onda durto spaccabarriere": [
+  "onda d urto spaccabarriere": [
     "OR-124"
   ],
-  "orchettofaina berserk": [
+  "orchetto faina berserk": [
     "OR-125",
     "R-085"
   ],
@@ -474,46 +474,46 @@
   "miceland": [
     "OR-150"
   ],
-  "macchia nera  signore degli inganni": [
+  "macchia nera signore degli inganni": [
     "OR-151"
   ],
   "kiki": [
     "OR-152"
   ],
-  "ioshi  mago voluminoso": [
+  "ioshi mago voluminoso": [
     "T-001"
   ],
-  "topolino  mago di quarto livello": [
+  "topolino mago di quarto livello": [
     "T-002"
   ],
-  "zaius  drago scavatore": [
+  "zaius drago scavatore": [
     "T-003"
   ],
-  "garma  megera vanitosa": [
+  "garma megera vanitosa": [
     "T-004"
   ],
-  "gurabashi  mago forzuto": [
+  "gurabashi mago forzuto": [
     "T-005"
   ],
-  "pippo  mago di terzo livello": [
+  "pippo mago di terzo livello": [
     "T-006"
   ],
-  "neraja  strega feroce": [
+  "neraja strega feroce": [
     "T-007"
   ],
-  "uchibiri  mago ingombrante": [
+  "uchibiri mago ingombrante": [
     "T-008"
   ],
-  "zefren  drago inferocito": [
+  "zefren drago inferocito": [
     "T-009"
   ],
-  "amelia  strega vanagloriosa": [
+  "amelia strega vanagloriosa": [
     "T-010"
   ],
-  "generale garth  drago stratega": [
+  "generale garth drago stratega": [
     "T-011"
   ],
-  "paperino  mago di terzo livello": [
+  "paperino mago di terzo livello": [
     "T-012"
   ],
   "ala scudo antifiamma": [
@@ -862,7 +862,7 @@
     "T-121",
     "PDA-013"
   ],
-  "clarabella  maga musicista": [
+  "clarabella maga musicista": [
     "T-122"
   ],
   "roknar": [
@@ -884,16 +884,16 @@
   "arena dei desideri": [
     "T-128"
   ],
-  "garubashi  mago colossale": [
+  "garubashi mago colossale": [
     "T-129"
   ],
-  "bassotto secundus  mago carrarmato": [
+  "bassotto secundus mago carrarmato": [
     "T-130"
   ],
-  "yomper  mago pasticcione": [
+  "yomper mago pasticcione": [
     "T-131"
   ],
-  "minni  maga esperta": [
+  "minni maga esperta": [
     "T-132"
   ],
   "svelare gli inganni": [
@@ -905,7 +905,7 @@
   "essiccare": [
     "T-135"
   ],
-  "bilancia dellequilibrio": [
+  "bilancia dell equilibrio": [
     "T-136"
   ],
   "labirinto del pendolo": [
@@ -921,7 +921,7 @@
   "rocca del fungo": [
     "T-140"
   ],
-  "nereus  mago sapiente": [
+  "nereus mago sapiente": [
     "T-141"
   ],
   "pugno magico": [
@@ -930,7 +930,7 @@
   "pozzo del ghouler": [
     "T-143"
   ],
-  "topolino  mago aggressivo": [
+  "topolino mago aggressivo": [
     "T-144"
   ],
   "dolci parole": [
@@ -955,49 +955,49 @@
   "bastione del drago": [
     "T-151"
   ],
-  "smart flash  mago fumineo": [
+  "smart flash mago fumineo": [
     "EO-001"
   ],
-  "zaius  drago impetuoso": [
+  "zaius drago impetuoso": [
     "EO-002"
   ],
-  "bruma  cuoco pigro": [
+  "bruma cuoco pigro": [
     "EO-003"
   ],
-  "fire flash  mago fulminante": [
+  "fire flash mago fulminante": [
     "EO-004"
   ],
-  "pippo  mago ingegnere": [
+  "pippo mago ingegnere": [
     "EO-005"
   ],
-  "zoron  drago sonnolento": [
+  "zoron drago sonnolento": [
     "EO-006"
   ],
-  "bassotto unus  ladro sciocco": [
+  "bassotto unus ladro sciocco": [
     "EO-007"
   ],
-  "macchia nera  guardiano ombra": [
+  "macchia nera guardiano ombra": [
     "EO-008"
   ],
-  "minni  maga diabolica": [
+  "minni maga diabolica": [
     "EO-009"
   ],
-  "topolino  stregone supremo": [
+  "topolino stregone supremo": [
     "EO-010"
   ],
-  "red flash  mago velocista": [
+  "red flash mago velocista": [
     "EO-011"
   ],
-  "zefren  drago strategia": [
+  "zefren drago strategia": [
     "EO-012"
   ],
-  "bassotto tertius  brigante in miniatura": [
+  "bassotto tertius brigante in miniatura": [
     "EO-013"
   ],
-  "gambadilegno  mago tormentato": [
+  "gambadilegno mago tormentato": [
     "EO-014"
   ],
-  "yuri  cuoco esperto": [
+  "yuri cuoco esperto": [
     "EO-015"
   ],
   "alleanza mistica": [
@@ -1054,7 +1054,7 @@
   "telepatia": [
     "EO-038"
   ],
-  "agguato degli orchettifaina": [
+  "agguato degli orchetti faina": [
     "EO-039"
   ],
   "catena di luce": [
@@ -1075,7 +1075,7 @@
   "muro di levitazione": [
     "EO-048"
   ],
-  "orchettofaina disgustato": [
+  "orchetto faina disgustato": [
     "EO-049"
   ],
   "orda di piovra metalliche": [
@@ -1108,13 +1108,13 @@
   "vento di sabbie": [
     "EO-059"
   ],
-  "artiglio dombra": [
+  "artiglio d ombra": [
     "EO-060"
   ],
-  "banchetto degli orchettifaina": [
+  "banchetto degli orchetti faina": [
     "EO-062"
   ],
-  "dominio delloscurita": [
+  "dominio dell oscurita": [
     "EO-065"
   ],
   "fantasma guerriero": [
@@ -1199,7 +1199,7 @@
   "nullifica": [
     "EO-099"
   ],
-  "prezzo dellavidita": [
+  "prezzo dell avidita": [
     "EO-100"
   ],
   "sbriciola la pietra": [
@@ -1235,7 +1235,7 @@
   "crescita gigante": [
     "EO-114"
   ],
-  "esercito di orchettifaina": [
+  "esercito di orchetti faina": [
     "EO-115"
   ],
   "furto": [
@@ -1313,10 +1313,10 @@
   "alexander r": [
     "EO-142"
   ],
-  "manuellen m": [
+  "manu ellen m": [
     "EO-143"
   ],
-  "ioshi  mago forzuto": [
+  "ioshi mago forzuto": [
     "EO-144"
   ],
   "madre dei diamagic": [
@@ -1329,7 +1329,7 @@
   "dragavar": [
     "EO-148"
   ],
-  "ormen  drago saggio": [
+  "ormen drago saggio": [
     "EO-149"
   ],
   "accelera magia": [
@@ -1338,16 +1338,16 @@
   "catacombe di gameras": [
     "EO-151"
   ],
-  "hypnor  drago orribile": [
+  "hypnor drago orribile": [
     "EO-152"
   ],
-  "dreadking  supremo dominatore": [
+  "dreadking supremo dominatore": [
     "EO-153"
   ],
-  "neraja  grande strega": [
+  "neraja grande strega": [
     "EO-154"
   ],
-  "pyranar  drago anfibio": [
+  "pyranar drago anfibio": [
     "EO-155"
   ],
   "castello illusiorio": [
@@ -1369,7 +1369,7 @@
   "iceburg": [
     "EO-164"
   ],
-  "macchia nera  creatura dombra": [
+  "macchia nera creatura d ombra": [
     "TD01-002"
   ],
   "gioco di inganni": [
@@ -1378,14 +1378,14 @@
   "tarlo del dubbio": [
     "TD01-016"
   ],
-  "turbante dellinvisibilita": [
+  "turbante dell invisibilita": [
     "TD01-017",
     "R-057"
   ],
   "regno dei pipistrellorchi": [
     "TD01-031"
   ],
-  "paperina  maga radiosa": [
+  "paperina maga radiosa": [
     "TD02-001"
   ],
   "trasferire diamagic": [
@@ -1400,7 +1400,7 @@
   "castello di gideon": [
     "TD02-031"
   ],
-  "paperino  mago indebitato": [
+  "paperino mago indebitato": [
     "TD03-002"
   ],
   "sostituzione astuta": [
@@ -1415,7 +1415,7 @@
   "castello dei robot warlock": [
     "TD03-031"
   ],
-  "topolino  stregone nero": [
+  "topolino stregone nero": [
     "PDA-001",
     "PDA-002",
     "PDA-003"
@@ -1486,40 +1486,40 @@
   "torre dei dimenticati": [
     "TP-007"
   ],
-  "ermex  sublime tessitore": [
+  "ermex sublime tessitore": [
     "R-001"
   ],
-  "paperina  maga combattiva": [
+  "paperina maga combattiva": [
     "R-002"
   ],
-  "gambadilegno  ladro di diamagic": [
+  "gambadilegno ladro di diamagic": [
     "R-003"
   ],
-  "garma  strega volante": [
+  "garma strega volante": [
     "R-004"
   ],
-  "lady sauria  signora dei draghi": [
+  "lady sauria signora dei draghi": [
     "R-005"
   ],
-  "minni  principessa dargento": [
+  "minni principessa d argento": [
     "R-006"
   ],
-  "olmex  tintore stregato": [
+  "olmex tintore stregato": [
     "R-007"
   ],
-  "paperino  mago avventuriero": [
+  "paperino mago avventuriero": [
     "R-008"
   ],
-  "tkubon  stregone alchimista": [
+  "tkubon stregone alchimista": [
     "R-009"
   ],
-  "diamagic dellinvisibilita": [
+  "diamagic dell invisibilita": [
     "R-010"
   ],
   "livello superiore": [
     "R-012"
   ],
-  "ricami dellarazzo": [
+  "ricami dell arazzo": [
     "R-014"
   ],
   "schiacciare": [
@@ -1543,10 +1543,10 @@
   "furto di diamagic": [
     "R-023"
   ],
-  "generale degli orchettifaina": [
+  "generale degli orchetti faina": [
     "R-025"
   ],
-  "orchettofaina lanciere": [
+  "orchetto faina lanciere": [
     "R-026"
   ],
   "sprint": [
@@ -1564,7 +1564,7 @@
   "ode di lay sauria": [
     "R-033"
   ],
-  "orchettifaina rivali": [
+  "orchetti faina rivali": [
     "R-034"
   ],
   "rabbia distruttiva": [
@@ -1669,13 +1669,13 @@
   "tela animata": [
     "R-077"
   ],
-  "zaius  guida saggia": [
+  "zaius guida saggia": [
     "R-078"
   ],
-  "pippo  mago recalcitante": [
+  "pippo mago recalcitante": [
     "R-079"
   ],
-  "generale garth  drago coraggioso": [
+  "generale garth drago coraggioso": [
     "R-080"
   ],
   "turbo il messaggero": [
@@ -1687,10 +1687,10 @@
   "entrare nel sonno": [
     "R-083"
   ],
-  "lanno del fuoco": [
+  "l anno del fuoco": [
     "R-084"
   ],
-  "dente dellorso": [
+  "dente dell orso": [
     "R-086"
   ],
   "dente del lupo": [

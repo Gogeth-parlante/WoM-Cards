@@ -1,24 +1,33 @@
 // tools/build_db.js
-// Generatore database WoM stile Scryfall
+// Generatore database WoM stile Scryfall (statico per GitHub Pages)
 
 const fs = require("fs");
 const path = require("path");
 
+// File di input (tuo JSON minificato fixato)
 const INPUT_FILE = path.join(__dirname, "..", "cards", "wom_cards_vB.fixed.min.json");
 
-const OUT_DB_FULL   = path.join(__dirname, "..", "data", "cards.json");
-const OUT_DB_INDEX  = path.join(__dirname, "..", "data", "index.json");
+// Output database
+const OUT_DB_FULL  = path.join(__dirname, "..", "data", "cards.json");
+const OUT_DB_INDEX = path.join(__dirname, "..", "data", "index.json");
 
-// Normalizza per ricerche (minuscole, rimuove accenti)
+
+// ------------------------------------------------------------
+// NORMALIZZATORE NOMI (stesso algoritmo dell'importer Lua)
+// ------------------------------------------------------------
 function normalize(str) {
     return str
         .toLowerCase()
-        .normalize("NFD").replace(/[\u0300-\u036f]/g, "") // rimuove accenti
-        .replace(/[^a-z0-9]+/g, " ")  // ogni simbolo non alfanumerico → spazio
+        .normalize("NFD").replace(/[\u0300-\u036f]/g, "")   // rimuove accenti
+        .replace(/[^a-z0-9]+/g, " ")                      // simboli strani → spazio
+        .replace(/\s+/g, " ")                             // spazi multipli → singolo
         .trim();
 }
 
 
+// ------------------------------------------------------------
+// MAIN
+// ------------------------------------------------------------
 function main() {
     console.log("📦 Generazione database WoM…");
 
@@ -30,33 +39,28 @@ function main() {
     const raw = fs.readFileSync(INPUT_FILE, "utf8");
     const json = JSON.parse(raw);
 
-    let cards = json.cards || json; // supporta entrambi i formati
+    // Supporta JSON con formato: { cards: [...] }
+    const cards = json.cards || json;
 
     console.log(`→ Trovate ${cards.length} carte`);
 
-    // Database finale
-    const db = {};
-    // Indice ricerche (name → lista ID)
-    const index = {};
+    const db = {};     // cards.json
+    const index = {};  // index.json (ricerca veloce)
 
     for (const card of cards) {
         const id = card.id;
+        const norm = normalize(card.name);
 
-        // Normalizzazione nome
-        const norm = normalizeName(card.name);
-
-        // Inserimento nel DB finale
         db[id] = {
             ...card,
             name_normalized: norm
         };
 
-        // Indice ricerca
         if (!index[norm]) index[norm] = [];
         index[norm].push(id);
     }
 
-    // Scrittura file
+    // Scrivi file
     fs.writeFileSync(OUT_DB_FULL, JSON.stringify(db, null, 2), "utf8");
     fs.writeFileSync(OUT_DB_INDEX, JSON.stringify(index, null, 2), "utf8");
 
