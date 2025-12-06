@@ -1,0 +1,10 @@
+{
+  "id": "PDA-014",
+  "name": "Minaccia Oscura",
+  "name_normalized": "minaccia oscura",
+  "type": "Magia",
+  "color": "Nero",
+  "expansion": "PDA",
+  "number": 14,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA-014.jpg"
+}

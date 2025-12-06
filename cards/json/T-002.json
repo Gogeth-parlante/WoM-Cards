@@ -1,0 +1,10 @@
+{
+  "id": "T-002",
+  "name": "Topolino - Mago di Quarto Livello",
+  "name_normalized": "topolino - mago di quarto livello",
+  "type": "Mago",
+  "color": "Blu",
+  "expansion": "T",
+  "number": 2,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-002.jpg"
+}

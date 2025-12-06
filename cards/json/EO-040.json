@@ -1,0 +1,10 @@
+{
+  "id": "EO-040",
+  "name": "Bordone Scheggiato",
+  "name_normalized": "bordone scheggiato",
+  "type": "Magia",
+  "color": "Giallo",
+  "expansion": "EO",
+  "number": 40,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-040.jpg"
+}

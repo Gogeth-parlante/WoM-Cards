@@ -1,0 +1,10 @@
+{
+  "id": "OR-142",
+  "name": "Castello dei Druidi",
+  "name_normalized": "castello dei druidi",
+  "type": "Castello",
+  "color": "Giallo",
+  "expansion": "OR",
+  "number": 142,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-142.jpg"
+}

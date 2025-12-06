@@ -1,0 +1,10 @@
+{
+  "id": "EO-038",
+  "name": "Telepatia",
+  "name_normalized": "telepatia",
+  "type": "Magia",
+  "color": "Blu",
+  "expansion": "EO",
+  "number": 38,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-038.jpg"
+}

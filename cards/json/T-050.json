@@ -1,0 +1,10 @@
+{
+  "id": "T-050",
+  "name": "Energia Rocciosa",
+  "name_normalized": "energia rocciosa",
+  "type": "Magia",
+  "color": "Giallo",
+  "expansion": "T",
+  "number": 50,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-050.jpg"
+}

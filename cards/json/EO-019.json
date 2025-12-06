@@ -1,0 +1,10 @@
+{
+  "id": "EO-019",
+  "name": "Barriera Istantanea",
+  "name_normalized": "barriera istantanea",
+  "type": "Magia",
+  "color": "Blu",
+  "expansion": "EO",
+  "number": 19,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-019.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "EO-100",
+  "name": "Prezzo dell'AviditÃ ",
+  "name_normalized": "prezzo dell'avidita",
+  "type": "Magia",
+  "color": "Rosso",
+  "expansion": "EO",
+  "number": 100,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-100.jpg"
+}

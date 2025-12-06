@@ -1,0 +1,10 @@
+{
+  "id": "ES-235",
+  "name": "Avviso dal Futuro",
+  "name_normalized": "avviso dal futuro",
+  "type": "Magia",
+  "color": "Blu",
+  "expansion": "ES",
+  "number": 235,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/ES-235.jpg"
+}

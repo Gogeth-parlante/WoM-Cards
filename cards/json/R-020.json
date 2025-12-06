@@ -1,0 +1,10 @@
+{
+  "id": "R-020",
+  "name": "Bordone di Bruma",
+  "name_normalized": "bordone di bruma",
+  "type": "Magia",
+  "color": "Giallo",
+  "expansion": "R",
+  "number": 20,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-020.jpg"
+}

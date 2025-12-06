@@ -1,0 +1,10 @@
+{
+  "id": "TP-005",
+  "name": "Camera della Porta Nera",
+  "name_normalized": "camera della porta nera",
+  "type": "Castello",
+  "color": "Blu",
+  "expansion": "TP",
+  "number": 5,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TP-005.jpg"
+}

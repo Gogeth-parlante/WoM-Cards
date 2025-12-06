@@ -1,0 +1,10 @@
+{
+  "id": "OR-033",
+  "name": "Evocazione di Pioggia",
+  "name_normalized": "evocazione di pioggia",
+  "type": "Magia",
+  "color": "Blu",
+  "expansion": "OR",
+  "number": 33,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-033.jpg"
+}

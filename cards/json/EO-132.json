@@ -1,0 +1,10 @@
+{
+  "id": "EO-132",
+  "name": "Fonte Rigenerante",
+  "name_normalized": "fonte rigenerante",
+  "type": "Castello",
+  "color": "Giallo",
+  "expansion": "EO",
+  "number": 132,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-132.jpg"
+}

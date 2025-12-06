@@ -1,0 +1,10 @@
+{
+  "id": "T-035",
+  "name": "Trappola di Ghiaccio",
+  "name_normalized": "trappola di ghiaccio",
+  "type": "Magia",
+  "color": "Blu",
+  "expansion": "T",
+  "number": 35,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-035.jpg"
+}

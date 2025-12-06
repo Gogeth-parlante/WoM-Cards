@@ -1,0 +1,10 @@
+{
+  "id": "OR-108",
+  "name": "Tornado del Drago",
+  "name_normalized": "tornado del drago",
+  "type": "Magia",
+  "color": "Rosso",
+  "expansion": "OR",
+  "number": 108,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-108.jpg"
+}

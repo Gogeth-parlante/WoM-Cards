@@ -1,0 +1,10 @@
+{
+  "id": "TD03-018",
+  "name": "Telecomando",
+  "name_normalized": "telecomando",
+  "type": "Magia",
+  "color": "Giallo",
+  "expansion": "TD03",
+  "number": 18,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD03-018.jpg"
+}

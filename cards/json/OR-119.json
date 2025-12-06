@@ -1,0 +1,10 @@
+{
+  "id": "OR-119",
+  "name": "Foresta Tenebrosa",
+  "name_normalized": "foresta tenebrosa",
+  "type": "Magia",
+  "color": "Verde",
+  "expansion": "OR",
+  "number": 119,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-119.jpg"
+}

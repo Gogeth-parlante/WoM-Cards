@@ -1,0 +1,10 @@
+{
+  "id": "OR-046",
+  "name": "Scariche di Fulmini",
+  "name_normalized": "scariche di fulmini",
+  "type": "Magia",
+  "color": "Blu",
+  "expansion": "OR",
+  "number": 46,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-046.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "T-006",
+  "name": "Pippo - Mago di Terzo Livello",
+  "name_normalized": "pippo - mago di terzo livello",
+  "type": "Mago",
+  "color": "Giallo",
+  "expansion": "T",
+  "number": 6,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-006.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "TP-004",
+  "name": "Apprendista Giovane Mago della Foresta",
+  "name_normalized": "apprendista giovane mago della foresta",
+  "type": "Mago",
+  "color": "Verde",
+  "expansion": "TP",
+  "number": 4,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TP-004.jpg"
+}

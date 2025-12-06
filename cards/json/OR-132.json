@@ -1,0 +1,10 @@
+{
+  "id": "OR-132",
+  "name": "Semi Energetici",
+  "name_normalized": "semi energetici",
+  "type": "Magia",
+  "color": "Verde",
+  "expansion": "OR",
+  "number": 132,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-132.jpg"
+}

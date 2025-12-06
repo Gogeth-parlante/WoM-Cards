@@ -1,0 +1,10 @@
+{
+  "id": "T-105",
+  "name": "Pergamena del Potere",
+  "name_normalized": "pergamena del potere",
+  "type": "Magia",
+  "color": "Verde",
+  "expansion": "T",
+  "number": 105,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-105.jpg"
+}

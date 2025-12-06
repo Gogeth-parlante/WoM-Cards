@@ -1,0 +1,10 @@
+{
+  "id": "EO-146",
+  "name": "Prezzo del Potere",
+  "name_normalized": "prezzo del potere",
+  "type": "Magia",
+  "color": "Nero",
+  "expansion": "EO",
+  "number": 146,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-146.jpg"
+}

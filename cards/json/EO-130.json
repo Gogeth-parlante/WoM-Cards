@@ -1,0 +1,10 @@
+{
+  "id": "EO-130",
+  "name": "Viticcio Esploratore",
+  "name_normalized": "viticcio esploratore",
+  "type": "Magia",
+  "color": "Verde",
+  "expansion": "EO",
+  "number": 130,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-130.jpg"
+}
