@@ -1,0 +1,25 @@
+{
+  "name": "wom-cards",
+  "version": "1.0.0",
+  "description": "WoM non-ufficial git-hub",
+  "main": "index.js",
+  "scripts": {
+    "build-db": "node tools/build_db.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gogeth-parlante/WoM-Cards.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gogeth-parlante/WoM-Cards/issues"
+  },
+  "homepage": "https://github.com/Gogeth-parlante/WoM-Cards#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  }
+}
