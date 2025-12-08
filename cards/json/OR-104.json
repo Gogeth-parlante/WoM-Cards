@@ -1,10 +1,10 @@
-{
-  "id": "OR-104",
-  "name": "Salsiccie Stritolanti",
-  "name_normalized": "salsiccie stritolanti",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "OR",
-  "number": 104,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-104.jpg"
+﻿{
+    "id":  "OR-104",
+    "name":  "Salsiccie Stritolanti",
+    "name_normalized":  "salsiccie stritolanti",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "OR",
+    "number":  104,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-104.jpg"
 }

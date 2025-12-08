@@ -1,0 +1,10 @@
+{
+  "id": "TP-001",
+  "name": "Apprendista Giovane Mago della Pioggia",
+  "name_normalized": "apprendista giovane mago della pioggia",
+  "type": "Mago",
+  "color": "Blu",
+  "expansion": "TP",
+  "number": 1,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TP-001.jpg"
+}

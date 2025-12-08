@@ -1,10 +1,10 @@
-{
-  "id": "EO-143",
-  "name": "Manu-Ellen M",
-  "name_normalized": "manu-ellen m",
-  "type": "Mago",
-  "color": "Rosso",
-  "expansion": "EO",
-  "number": 143,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-143.jpg"
+﻿{
+    "id":  "EO-143",
+    "name":  "Manu-Ellen M",
+    "name_normalized":  "manuellen m",
+    "type":  "Mago",
+    "color":  "Rosso",
+    "expansion":  "EO",
+    "number":  143,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-143.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "T-076",
-  "name": "Fuoco del Tradimento",
-  "name_normalized": "fuoco del tradimento",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "T",
-  "number": 76,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-076.jpg"
+﻿{
+    "id":  "T-076",
+    "name":  "Fuoco del Tradimento",
+    "name_normalized":  "fuoco del tradimento",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "T",
+    "number":  76,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-076.jpg"
 }

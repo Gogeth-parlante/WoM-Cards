@@ -1,10 +1,10 @@
-{
-  "id": "OR-067",
-  "name": "Iena delle Steppe",
-  "name_normalized": "iena delle steppe",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 67,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-067.jpg"
+﻿{
+    "id":  "OR-067",
+    "name":  "Iena delle Steppe",
+    "name_normalized":  "iena delle steppe",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  67,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-067.jpg"
 }

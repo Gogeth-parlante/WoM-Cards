@@ -1,10 +1,10 @@
-{
-  "id": "T-055",
-  "name": "Mazza Rimbombante",
-  "name_normalized": "mazza rimbombante",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "T",
-  "number": 55,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-055.jpg"
+﻿{
+    "id":  "T-055",
+    "name":  "Mazza Rimbombante",
+    "name_normalized":  "mazza rimbombante",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "T",
+    "number":  55,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-055.jpg"
 }

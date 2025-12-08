@@ -1,10 +1,10 @@
-{
-  "id": "EO-029",
-  "name": "Mago Innamorato",
-  "name_normalized": "mago innamorato",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "EO",
-  "number": 29,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-029.jpg"
+﻿{
+    "id":  "EO-029",
+    "name":  "Mago Innamorato",
+    "name_normalized":  "mago innamorato",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "EO",
+    "number":  29,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-029.jpg"
 }

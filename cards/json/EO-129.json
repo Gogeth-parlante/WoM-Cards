@@ -1,10 +1,10 @@
-{
-  "id": "EO-129",
-  "name": "Teletrasporto Mistico",
-  "name_normalized": "teletrasporto mistico",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "EO",
-  "number": 129,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-129.jpg"
+﻿{
+    "id":  "EO-129",
+    "name":  "Teletrasporto Mistico",
+    "name_normalized":  "teletrasporto mistico",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "EO",
+    "number":  129,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-129.jpg"
 }

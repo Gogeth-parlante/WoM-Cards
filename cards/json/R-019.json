@@ -1,10 +1,10 @@
-{
-  "id": "R-019",
-  "name": "Ali del Drago",
-  "name_normalized": "ali del drago",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "R",
-  "number": 19,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-019.jpg"
+﻿{
+    "id":  "R-019",
+    "name":  "Ali del Drago",
+    "name_normalized":  "ali del drago",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "R",
+    "number":  19,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-019.jpg"
 }

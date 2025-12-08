@@ -1,10 +1,10 @@
-{
-  "id": "EO-162",
-  "name": "Salsicce Stritolanti",
-  "name_normalized": "salsicce stritolanti",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "EO",
-  "number": 162,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-162.jpg"
+﻿{
+    "id":  "EO-162",
+    "name":  "Salsicce Stritolanti",
+    "name_normalized":  "salsicce stritolanti",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "EO",
+    "number":  162,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-162.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "EO-048",
-  "name": "Muro di Levitazione",
-  "name_normalized": "muro di levitazione",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "EO",
-  "number": 48,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-048.jpg"
+﻿{
+    "id":  "EO-048",
+    "name":  "Muro di Levitazione",
+    "name_normalized":  "muro di levitazione",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "EO",
+    "number":  48,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-048.jpg"
 }

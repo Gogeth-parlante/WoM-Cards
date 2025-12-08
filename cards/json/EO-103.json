@@ -1,10 +1,10 @@
-{
-  "id": "EO-103",
-  "name": "Scudo Riflettente",
-  "name_normalized": "scudo riflettente",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "EO",
-  "number": 103,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-103.jpg"
+﻿{
+    "id":  "EO-103",
+    "name":  "Scudo Riflettente",
+    "name_normalized":  "scudo riflettente",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "EO",
+    "number":  103,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-103.jpg"
 }

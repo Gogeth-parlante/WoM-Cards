@@ -1,10 +1,10 @@
-{
-  "id": "EO-152",
-  "name": "Hypnor - Drago Orribile",
-  "name_normalized": "hypnor - drago orribile",
-  "type": "Mago",
-  "color": "Blu",
-  "expansion": "EO",
-  "number": 152,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-152.jpg"
+﻿{
+    "id":  "EO-152",
+    "name":  "Hypnor - Drago Orribile",
+    "name_normalized":  "hypnor drago orribile",
+    "type":  "Mago",
+    "color":  "Blu",
+    "expansion":  "EO",
+    "number":  152,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-152.jpg"
 }

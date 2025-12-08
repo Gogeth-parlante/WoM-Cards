@@ -1,10 +1,10 @@
-{
-  "id": "OR-013",
-  "name": "Gambadilegno - Ladro Stregone",
-  "name_normalized": "gambadilegno - ladro stregone",
-  "type": "Mago",
-  "color": "Rosso",
-  "expansion": "OR",
-  "number": 13,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-013.jpg"
+﻿{
+    "id":  "OR-013",
+    "name":  "Gambadilegno - Ladro Stregone",
+    "name_normalized":  "gambadilegno ladro stregone",
+    "type":  "Mago",
+    "color":  "Rosso",
+    "expansion":  "OR",
+    "number":  13,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-013.jpg"
 }

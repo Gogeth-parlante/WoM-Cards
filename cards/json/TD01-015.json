@@ -1,10 +1,10 @@
-{
-  "id": "TD01-015",
-  "name": "Gioco Di Inganni",
-  "name_normalized": "gioco di inganni",
-  "type": "Magia",
-  "color": "Nero",
-  "expansion": "TD01",
-  "number": 15,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD01-015.jpg"
+﻿{
+    "id":  "TD01-015",
+    "name":  "Gioco Di Inganni",
+    "name_normalized":  "gioco di inganni",
+    "type":  "Magia",
+    "color":  "Nero",
+    "expansion":  "TD01",
+    "number":  15,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD01-015.jpg"
 }

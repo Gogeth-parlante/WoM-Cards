@@ -1,10 +1,10 @@
-{
-  "id": "OR-022",
-  "name": "Clarabella - Maga di Primo Livello",
-  "name_normalized": "clarabella - maga di primo livello",
-  "type": "Mago",
-  "color": "Verde",
-  "expansion": "OR",
-  "number": 22,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-022.jpg"
+﻿{
+    "id":  "OR-022",
+    "name":  "Clarabella - Maga di Primo Livello",
+    "name_normalized":  "clarabella maga di primo livello",
+    "type":  "Mago",
+    "color":  "Verde",
+    "expansion":  "OR",
+    "number":  22,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-022.jpg"
 }

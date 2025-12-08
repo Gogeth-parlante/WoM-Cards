@@ -1,10 +1,10 @@
-{
-  "id": "ES-238",
-  "name": "Doppio Fulmine a Spirale",
-  "name_normalized": "doppio fulmine a spirale",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "ES",
-  "number": 238,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/ES-238.jpg"
+﻿{
+    "id":  "ES-238",
+    "name":  "Doppio Fulmine a Spirale",
+    "name_normalized":  "doppio fulmine a spirale",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "ES",
+    "number":  238,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/ES-238.jpg"
 }

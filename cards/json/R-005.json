@@ -1,10 +1,10 @@
-{
-  "id": "R-005",
-  "name": "Lady Sauria - Signora dei Draghi",
-  "name_normalized": "lady sauria - signora dei draghi",
-  "type": "Mago",
-  "color": "Nero",
-  "expansion": "R",
-  "number": 5,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-005.jpg"
+﻿{
+    "id":  "R-005",
+    "name":  "Lady Sauria - Signora dei Draghi",
+    "name_normalized":  "lady sauria signora dei draghi",
+    "type":  "Mago",
+    "color":  "Nero",
+    "expansion":  "R",
+    "number":  5,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-005.jpg"
 }

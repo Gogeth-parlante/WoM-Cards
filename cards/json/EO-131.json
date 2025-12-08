@@ -1,10 +1,10 @@
-{
-  "id": "EO-131",
-  "name": "Camera della Porta Nera",
-  "name_normalized": "camera della porta nera",
-  "type": "Castello",
-  "color": "Blu",
-  "expansion": "EO",
-  "number": 131,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-131.jpg"
+﻿{
+    "id":  "EO-131",
+    "name":  "Camera della Porta Nera",
+    "name_normalized":  "camera della porta nera",
+    "type":  "Castello",
+    "color":  "Blu",
+    "expansion":  "EO",
+    "number":  131,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-131.jpg"
 }

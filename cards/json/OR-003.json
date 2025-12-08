@@ -1,10 +1,10 @@
-{
-  "id": "OR-003",
-  "name": "Topolino - Apprendista Stregone",
-  "name_normalized": "topolino - apprendista stregone",
-  "type": "Mago",
-  "color": "Blu",
-  "expansion": "OR",
-  "number": 3,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-003.jpg"
+﻿{
+    "id":  "OR-003",
+    "name":  "Topolino - Apprendista Stregone",
+    "name_normalized":  "topolino apprendista stregone",
+    "type":  "Mago",
+    "color":  "Blu",
+    "expansion":  "OR",
+    "number":  3,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-003.jpg"
 }

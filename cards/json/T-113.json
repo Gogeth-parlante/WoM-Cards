@@ -1,10 +1,10 @@
-{
-  "id": "T-113",
-  "name": "Caer Fist",
-  "name_normalized": "caer fist",
-  "type": "Castello",
-  "color": "Giallo",
-  "expansion": "T",
-  "number": 113,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-113.jpg"
+﻿{
+    "id":  "T-113",
+    "name":  "Caer Fist",
+    "name_normalized":  "caer fist",
+    "type":  "Castello",
+    "color":  "Giallo",
+    "expansion":  "T",
+    "number":  113,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-113.jpg"
 }

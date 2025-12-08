@@ -1,10 +1,10 @@
-{
-  "id": "R-014",
-  "name": "Ricami dell'Arazzo",
-  "name_normalized": "ricami dell'arazzo",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "R",
-  "number": 14,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-014.jpg"
+﻿{
+    "id":  "R-014",
+    "name":  "Ricami dell\u0027Arazzo",
+    "name_normalized":  "ricami dellarazzo",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "R",
+    "number":  14,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-014.jpg"
 }

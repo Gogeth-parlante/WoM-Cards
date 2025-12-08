@@ -1,10 +1,10 @@
-{
-  "id": "OR-060",
-  "name": "Drago Meccanico",
-  "name_normalized": "drago meccanico",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 60,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-060.jpg"
+﻿{
+    "id":  "OR-060",
+    "name":  "Drago Meccanico",
+    "name_normalized":  "drago meccanico",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  60,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-060.jpg"
 }

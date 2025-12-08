@@ -1,10 +1,10 @@
-{
-  "id": "EO-155",
-  "name": "Pyranar - Drago Anfibio",
-  "name_normalized": "pyranar - drago anfibio",
-  "type": "Mago",
-  "color": "Verde",
-  "expansion": "EO",
-  "number": 155,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-155.jpg"
+﻿{
+    "id":  "EO-155",
+    "name":  "Pyranar - Drago Anfibio",
+    "name_normalized":  "pyranar drago anfibio",
+    "type":  "Mago",
+    "color":  "Verde",
+    "expansion":  "EO",
+    "number":  155,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-155.jpg"
 }

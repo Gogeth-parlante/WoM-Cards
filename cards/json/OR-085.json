@@ -1,10 +1,10 @@
-{
-  "id": "OR-085",
-  "name": "Amuleto del Potere",
-  "name_normalized": "amuleto del potere",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "OR",
-  "number": 85,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-085.jpg"
+﻿{
+    "id":  "OR-085",
+    "name":  "Amuleto del Potere",
+    "name_normalized":  "amuleto del potere",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "OR",
+    "number":  85,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-085.jpg"
 }

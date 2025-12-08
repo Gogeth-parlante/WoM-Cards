@@ -1,10 +1,10 @@
-{
-  "id": "OR-050",
-  "name": "SupervelocitÃ ",
-  "name_normalized": "supervelocita",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "OR",
-  "number": 50,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-050.jpg"
+﻿{
+    "id":  "OR-050",
+    "name":  "Supervelocità",
+    "name_normalized":  "supervelocita",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "OR",
+    "number":  50,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-050.jpg"
 }

@@ -1,0 +1,10 @@
+{
+  "id": "PDA-018",
+  "name": "Castello dello Stregone Nero",
+  "name_normalized": "castello dello stregone nero",
+  "type": "Castello",
+  "color": "Nero",
+  "expansion": "PDA",
+  "number": 18,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA-018.jpg"
+}

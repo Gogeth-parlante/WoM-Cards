@@ -1,10 +1,10 @@
-{
-  "id": "OR-010",
-  "name": "Pippo - Stregone con Borsa Magica",
-  "name_normalized": "pippo - stregone con borsa magica",
-  "type": "Mago",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 10,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-010.jpg"
+﻿{
+    "id":  "OR-010",
+    "name":  "Pippo - Stregone con Borsa Magica",
+    "name_normalized":  "pippo stregone con borsa magica",
+    "type":  "Mago",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  10,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-010.jpg"
 }

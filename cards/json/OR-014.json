@@ -1,10 +1,10 @@
-{
-  "id": "OR-014",
-  "name": "Minni - Maga di Secondo Livello",
-  "name_normalized": "minni - maga di secondo livello",
-  "type": "Mago",
-  "color": "Rosso",
-  "expansion": "OR",
-  "number": 14,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-014.jpg"
+﻿{
+    "id":  "OR-014",
+    "name":  "Minni - Maga di Secondo Livello",
+    "name_normalized":  "minni maga di secondo livello",
+    "type":  "Mago",
+    "color":  "Rosso",
+    "expansion":  "OR",
+    "number":  14,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-014.jpg"
 }

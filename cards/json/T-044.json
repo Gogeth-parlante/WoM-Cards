@@ -1,10 +1,10 @@
-{
-  "id": "T-044",
-  "name": "Colpo di Bordone",
-  "name_normalized": "colpo di bordone",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "T",
-  "number": 44,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-044.jpg"
+﻿{
+    "id":  "T-044",
+    "name":  "Colpo di Bordone",
+    "name_normalized":  "colpo di bordone",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "T",
+    "number":  44,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-044.jpg"
 }

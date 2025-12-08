@@ -1,0 +1,10 @@
+{
+  "id": "EO-105",
+  "name": "Tempesta di Fuoco",
+  "name_normalized": "tempesta di fuoco",
+  "type": "Magia",
+  "color": "Rosso",
+  "expansion": "EO",
+  "number": 105,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-105.jpg"
+}

@@ -1,10 +1,10 @@
-{
-  "id": "EO-005",
-  "name": "Pippo - Mago Ingegnere",
-  "name_normalized": "pippo - mago ingegnere",
-  "type": "Mago",
-  "color": "Giallo",
-  "expansion": "EO",
-  "number": 5,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-005.jpg"
+﻿{
+    "id":  "EO-005",
+    "name":  "Pippo - Mago Ingegnere",
+    "name_normalized":  "pippo mago ingegnere",
+    "type":  "Mago",
+    "color":  "Giallo",
+    "expansion":  "EO",
+    "number":  5,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-005.jpg"
 }

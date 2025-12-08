@@ -1,10 +1,10 @@
-{
-  "id": "TD02-031",
-  "name": "Castello di Gideon",
-  "name_normalized": "castello di gideon",
-  "type": "Castello",
-  "color": "Nero",
-  "expansion": "TD02",
-  "number": 31,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD02-031.jpg"
+﻿{
+    "id":  "TD02-031",
+    "name":  "Castello di Gideon",
+    "name_normalized":  "castello di gideon",
+    "type":  "Castello",
+    "color":  "Nero",
+    "expansion":  "TD02",
+    "number":  31,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD02-031.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "EO-076",
-  "name": "Scettro Oscuro",
-  "name_normalized": "scettro oscuro",
-  "type": "Magia",
-  "color": "Nero",
-  "expansion": "EO",
-  "number": 76,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-076.jpg"
+﻿{
+    "id":  "EO-076",
+    "name":  "Scettro Oscuro",
+    "name_normalized":  "scettro oscuro",
+    "type":  "Magia",
+    "color":  "Nero",
+    "expansion":  "EO",
+    "number":  76,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-076.jpg"
 }

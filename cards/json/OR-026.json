@@ -1,10 +1,10 @@
-{
-  "id": "OR-026",
-  "name": "Bagliore del Lampo",
-  "name_normalized": "bagliore del lampo",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "OR",
-  "number": 26,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-026.jpg"
+﻿{
+    "id":  "OR-026",
+    "name":  "Bagliore del Lampo",
+    "name_normalized":  "bagliore del lampo",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "OR",
+    "number":  26,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-026.jpg"
 }

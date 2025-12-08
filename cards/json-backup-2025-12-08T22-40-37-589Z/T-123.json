@@ -1,0 +1,10 @@
+{
+  "id": "T-123",
+  "name": "Roknar",
+  "name_normalized": "roknar",
+  "type": "Magia",
+  "color": "Blu",
+  "expansion": "T",
+  "number": 123,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-123.jpg"
+}

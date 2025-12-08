@@ -1,10 +1,10 @@
-{
-  "id": "EO-024",
-  "name": "Fato Ineluttabile",
-  "name_normalized": "fato ineluttabile",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "EO",
-  "number": 24,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-024.jpg"
+﻿{
+    "id":  "EO-024",
+    "name":  "Fato Ineluttabile",
+    "name_normalized":  "fato ineluttabile",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "EO",
+    "number":  24,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-024.jpg"
 }

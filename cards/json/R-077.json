@@ -1,10 +1,10 @@
-{
-  "id": "R-077",
-  "name": "Tela Animata",
-  "name_normalized": "tela animata",
-  "type": "Codice",
-  "color": "-",
-  "expansion": "R",
-  "number": 77,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-077.jpg"
+﻿{
+    "id":  "R-077",
+    "name":  "Tela Animata",
+    "name_normalized":  "tela animata",
+    "type":  "Codice",
+    "color":  "-",
+    "expansion":  "R",
+    "number":  77,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-077.jpg"
 }

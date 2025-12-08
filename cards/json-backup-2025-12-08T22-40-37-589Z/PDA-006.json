@@ -1,0 +1,10 @@
+{
+  "id": "PDA-006",
+  "name": "Combattimento Magico",
+  "name_normalized": "combattimento magico",
+  "type": "Magia",
+  "color": "Nero",
+  "expansion": "PDA",
+  "number": 6,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA-006.jpg"
+}

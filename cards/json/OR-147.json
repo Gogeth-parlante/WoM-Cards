@@ -1,10 +1,10 @@
-{
-  "id": "OR-147",
-  "name": "Castello delle Zanne",
-  "name_normalized": "castello delle zanne",
-  "type": "Castello",
-  "color": "Rosso",
-  "expansion": "OR",
-  "number": 147,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-147.jpg"
+﻿{
+    "id":  "OR-147",
+    "name":  "Castello delle Zanne",
+    "name_normalized":  "castello delle zanne",
+    "type":  "Castello",
+    "color":  "Rosso",
+    "expansion":  "OR",
+    "number":  147,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-147.jpg"
 }

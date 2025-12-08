@@ -1,10 +1,10 @@
-{
-  "id": "EO-069",
-  "name": "Grande Inganno",
-  "name_normalized": "grande inganno",
-  "type": "Magia",
-  "color": "Nero",
-  "expansion": "EO",
-  "number": 69,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-069.jpg"
+﻿{
+    "id":  "EO-069",
+    "name":  "Grande Inganno",
+    "name_normalized":  "grande inganno",
+    "type":  "Magia",
+    "color":  "Nero",
+    "expansion":  "EO",
+    "number":  69,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-069.jpg"
 }

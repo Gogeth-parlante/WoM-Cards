@@ -1,10 +1,10 @@
-{
-  "id": "TD01-031",
-  "name": "Regno dei Pipistrellorchi",
-  "name_normalized": "regno dei pipistrellorchi",
-  "type": "Castello",
-  "color": "Nero",
-  "expansion": "TD01",
-  "number": 31,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD01-031.jpg"
+﻿{
+    "id":  "TD01-031",
+    "name":  "Regno dei Pipistrellorchi",
+    "name_normalized":  "regno dei pipistrellorchi",
+    "type":  "Castello",
+    "color":  "Nero",
+    "expansion":  "TD01",
+    "number":  31,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD01-031.jpg"
 }

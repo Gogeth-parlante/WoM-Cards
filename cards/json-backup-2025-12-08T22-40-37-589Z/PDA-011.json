@@ -1,0 +1,10 @@
+{
+  "id": "PDA-011",
+  "name": "Guardiano Ombra",
+  "name_normalized": "guardiano ombra",
+  "type": "Magia",
+  "color": "Nero",
+  "expansion": "PDA",
+  "number": 11,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA-011.jpg"
+}

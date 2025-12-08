@@ -1,10 +1,10 @@
-{
-  "id": "OR-002",
-  "name": "Paperina - Maga di Secondo Livello",
-  "name_normalized": "paperina - maga di secondo livello",
-  "type": "Mago",
-  "color": "Blu",
-  "expansion": "OR",
-  "number": 2,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-002.jpg"
+﻿{
+    "id":  "OR-002",
+    "name":  "Paperina - Maga di Secondo Livello",
+    "name_normalized":  "paperina maga di secondo livello",
+    "type":  "Mago",
+    "color":  "Blu",
+    "expansion":  "OR",
+    "number":  2,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-002.jpg"
 }

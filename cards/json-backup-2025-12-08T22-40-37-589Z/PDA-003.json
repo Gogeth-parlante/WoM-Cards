@@ -1,0 +1,10 @@
+{
+  "id": "PDA-003",
+  "name": "Topolino - Stregone Nero",
+  "name_normalized": "topolino - stregone nero",
+  "type": "Mago",
+  "color": "Nero",
+  "expansion": "PDA",
+  "number": 3,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA-003.jpg"
+}

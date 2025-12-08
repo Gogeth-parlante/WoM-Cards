@@ -1,10 +1,10 @@
-{
-  "id": "T-034",
-  "name": "Tornado Irrefrenabile",
-  "name_normalized": "tornado irrefrenabile",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "T",
-  "number": 34,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-034.jpg"
+﻿{
+    "id":  "T-034",
+    "name":  "Tornado Irrefrenabile",
+    "name_normalized":  "tornado irrefrenabile",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "T",
+    "number":  34,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-034.jpg"
 }

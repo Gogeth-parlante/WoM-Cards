@@ -1,10 +1,10 @@
-{
-  "id": "OR-069",
-  "name": "Magia Annullata",
-  "name_normalized": "magia annullata",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 69,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-069.jpg"
+﻿{
+    "id":  "OR-069",
+    "name":  "Magia Annullata",
+    "name_normalized":  "magia annullata",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  69,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-069.jpg"
 }

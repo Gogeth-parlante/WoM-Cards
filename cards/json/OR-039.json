@@ -1,10 +1,10 @@
-{
-  "id": "OR-039",
-  "name": "Lampo Ipnotico",
-  "name_normalized": "lampo ipnotico",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "OR",
-  "number": 39,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-039.jpg"
+﻿{
+    "id":  "OR-039",
+    "name":  "Lampo Ipnotico",
+    "name_normalized":  "lampo ipnotico",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "OR",
+    "number":  39,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-039.jpg"
 }

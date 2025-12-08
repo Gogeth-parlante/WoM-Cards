@@ -1,10 +1,10 @@
-{
-  "id": "EO-112",
-  "name": "Buca Occultante",
-  "name_normalized": "buca occultante",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "EO",
-  "number": 112,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-112.jpg"
+﻿{
+    "id":  "EO-112",
+    "name":  "Buca Occultante",
+    "name_normalized":  "buca occultante",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "EO",
+    "number":  112,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-112.jpg"
 }

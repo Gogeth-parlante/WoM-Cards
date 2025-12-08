@@ -1,10 +1,10 @@
-{
-  "id": "OR-056",
-  "name": "Ascia Diabolica",
-  "name_normalized": "ascia diabolica",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 56,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-056.jpg"
+﻿{
+    "id":  "OR-056",
+    "name":  "Ascia Diabolica",
+    "name_normalized":  "ascia diabolica",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  56,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-056.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "T-017",
-  "name": "Clone Berserk",
-  "name_normalized": "clone berserk",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "T",
-  "number": 17,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-017.jpg"
+﻿{
+    "id":  "T-017",
+    "name":  "Clone Berserk",
+    "name_normalized":  "clone berserk",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "T",
+    "number":  17,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-017.jpg"
 }

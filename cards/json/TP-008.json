@@ -1,10 +1,10 @@
-{
-  "id": "TP-008",
-  "name": "Chiostro di Ekrendorf",
-  "name_normalized": "chiostro di ekrendorf",
-  "type": "Castello",
-  "color": "Verde",
-  "expansion": "TP",
-  "number": 8,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TP-008.jpg"
+﻿{
+    "id":  "TP-008",
+    "name":  "Chiostro di Ekrendorf",
+    "name_normalized":  "chiostro di ekrendorf",
+    "type":  "Castello",
+    "color":  "Verde",
+    "expansion":  "TP",
+    "number":  8,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TP-008.jpg"
 }

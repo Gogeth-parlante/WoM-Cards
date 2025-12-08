@@ -1,10 +1,10 @@
-{
-  "id": "EO-157",
-  "name": "Castello Illusiorio",
-  "name_normalized": "castello illusiorio",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "EO",
-  "number": 157,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-157.jpg"
+﻿{
+    "id":  "EO-157",
+    "name":  "Castello Illusiorio",
+    "name_normalized":  "castello illusiorio",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "EO",
+    "number":  157,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-157.jpg"
 }

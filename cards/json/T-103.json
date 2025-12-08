@@ -1,10 +1,10 @@
-{
-  "id": "T-103",
-  "name": "Mantide di Palude",
-  "name_normalized": "mantide di palude",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "T",
-  "number": 103,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-103.jpg"
+﻿{
+    "id":  "T-103",
+    "name":  "Mantide di Palude",
+    "name_normalized":  "mantide di palude",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "T",
+    "number":  103,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-103.jpg"
 }

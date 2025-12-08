@@ -1,10 +1,10 @@
-{
-  "id": "EO-022",
-  "name": "Dono Ingannevole",
-  "name_normalized": "dono ingannevole",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "EO",
-  "number": 22,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-022.jpg"
+﻿{
+    "id":  "EO-022",
+    "name":  "Dono Ingannevole",
+    "name_normalized":  "dono ingannevole",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "EO",
+    "number":  22,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-022.jpg"
 }

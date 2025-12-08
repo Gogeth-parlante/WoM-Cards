@@ -1,10 +1,10 @@
-{
-  "id": "OR-072",
-  "name": "Onda Tellurica",
-  "name_normalized": "onda tellurica",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 72,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-072.jpg"
+﻿{
+    "id":  "OR-072",
+    "name":  "Onda Tellurica",
+    "name_normalized":  "onda tellurica",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  72,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-072.jpg"
 }

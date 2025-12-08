@@ -1,10 +1,10 @@
-{
-  "id": "T-133",
-  "name": "Svelare gli Inganni",
-  "name_normalized": "svelare gli inganni",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "T",
-  "number": 133,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-133.jpg"
+﻿{
+    "id":  "T-133",
+    "name":  "Svelare gli Inganni",
+    "name_normalized":  "svelare gli inganni",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "T",
+    "number":  133,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-133.jpg"
 }

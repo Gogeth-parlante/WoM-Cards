@@ -1,10 +1,10 @@
-{
-  "id": "T-096",
-  "name": "Doppia VelocitÃ ",
-  "name_normalized": "doppia velocita",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "T",
-  "number": 96,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-096.jpg"
+﻿{
+    "id":  "T-096",
+    "name":  "Doppia Velocità",
+    "name_normalized":  "doppia velocita",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "T",
+    "number":  96,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-096.jpg"
 }

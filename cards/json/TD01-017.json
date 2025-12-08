@@ -1,10 +1,10 @@
-{
-  "id": "TD01-017",
-  "name": "Turbante dell'InvisibilitÃ ",
-  "name_normalized": "turbante dell'invisibilita",
-  "type": "Magia",
-  "color": "Nero",
-  "expansion": "TD01",
-  "number": 17,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD01-017.jpg"
+﻿{
+    "id":  "TD01-017",
+    "name":  "Turbante dell\u0027Invisibilità",
+    "name_normalized":  "turbante dellinvisibilita",
+    "type":  "Magia",
+    "color":  "Nero",
+    "expansion":  "TD01",
+    "number":  17,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD01-017.jpg"
 }

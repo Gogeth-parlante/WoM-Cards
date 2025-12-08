@@ -1,10 +1,10 @@
-{
-  "id": "OR-141",
-  "name": "Rocca di Crow",
-  "name_normalized": "rocca di crow",
-  "type": "Castello",
-  "color": "Blu",
-  "expansion": "OR",
-  "number": 141,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-141.jpg"
+﻿{
+    "id":  "OR-141",
+    "name":  "Rocca di Crow",
+    "name_normalized":  "rocca di crow",
+    "type":  "Castello",
+    "color":  "Blu",
+    "expansion":  "OR",
+    "number":  141,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-141.jpg"
 }

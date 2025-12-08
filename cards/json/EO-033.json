@@ -1,10 +1,10 @@
-{
-  "id": "EO-033",
-  "name": "Risorse Inaspettate",
-  "name_normalized": "risorse inaspettate",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "EO",
-  "number": 33,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-033.jpg"
+﻿{
+    "id":  "EO-033",
+    "name":  "Risorse Inaspettate",
+    "name_normalized":  "risorse inaspettate",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "EO",
+    "number":  33,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-033.jpg"
 }

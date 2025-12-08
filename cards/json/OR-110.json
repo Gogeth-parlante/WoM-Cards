@@ -1,10 +1,10 @@
-{
-  "id": "OR-110",
-  "name": "Balzo Supersonico",
-  "name_normalized": "balzo supersonico",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "OR",
-  "number": 110,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-110.jpg"
+﻿{
+    "id":  "OR-110",
+    "name":  "Balzo Supersonico",
+    "name_normalized":  "balzo supersonico",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "OR",
+    "number":  110,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-110.jpg"
 }

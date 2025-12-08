@@ -1,0 +1,10 @@
+{
+  "id": "OR-120",
+  "name": "Guerriero Meccanico Magnetico",
+  "name_normalized": "guerriero meccanico magnetico",
+  "type": "Magia",
+  "color": "Verde",
+  "expansion": "OR",
+  "number": 120,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-120.jpg"
+}

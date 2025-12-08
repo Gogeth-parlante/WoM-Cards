@@ -1,10 +1,10 @@
-{
-  "id": "OR-045",
-  "name": "Preveggenza",
-  "name_normalized": "preveggenza",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "OR",
-  "number": 45,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-045.jpg"
+﻿{
+    "id":  "OR-045",
+    "name":  "Preveggenza",
+    "name_normalized":  "preveggenza",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "OR",
+    "number":  45,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-045.jpg"
 }

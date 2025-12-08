@@ -1,10 +1,10 @@
-{
-  "id": "PDA-005",
-  "name": "Arti Oscure",
-  "name_normalized": "arti oscure",
-  "type": "Magia",
-  "color": "Nero",
-  "expansion": "PDA",
-  "number": 5,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA-005.jpg"
+﻿{
+    "id":  "PDA-005",
+    "name":  "Arti Oscure",
+    "name_normalized":  "arti oscure",
+    "type":  "Magia",
+    "color":  "Nero",
+    "expansion":  "PDA",
+    "number":  5,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA-005.jpg"
 }

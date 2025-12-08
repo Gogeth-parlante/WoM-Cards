@@ -1,10 +1,10 @@
-{
-  "id": "OR-064",
-  "name": "Gargoyle Timido",
-  "name_normalized": "gargoyle timido",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 64,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-064.jpg"
+﻿{
+    "id":  "OR-064",
+    "name":  "Gargoyle Timido",
+    "name_normalized":  "gargoyle timido",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  64,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-064.jpg"
 }

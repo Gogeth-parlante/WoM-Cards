@@ -1,10 +1,10 @@
-{
-  "id": "OR-058",
-  "name": "Barriera di Pietre",
-  "name_normalized": "barriera di pietre",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 58,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-058.jpg"
+﻿{
+    "id":  "OR-058",
+    "name":  "Barriera di Pietre",
+    "name_normalized":  "barriera di pietre",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  58,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-058.jpg"
 }

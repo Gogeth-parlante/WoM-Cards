@@ -1,10 +1,10 @@
-{
-  "id": "EO-059",
-  "name": "Vento di Sabbie",
-  "name_normalized": "vento di sabbie",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "EO",
-  "number": 59,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-059.jpg"
+﻿{
+    "id":  "EO-059",
+    "name":  "Vento di Sabbie",
+    "name_normalized":  "vento di sabbie",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "EO",
+    "number":  59,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-059.jpg"
 }

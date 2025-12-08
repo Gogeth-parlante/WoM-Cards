@@ -1,10 +1,10 @@
-{
-  "id": "TD01-002",
-  "name": "Macchia Nera - Creatura d'Ombra",
-  "name_normalized": "macchia nera - creatura d'ombra",
-  "type": "Mago",
-  "color": "Nero",
-  "expansion": "TD01",
-  "number": 2,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD01-002.jpg"
+﻿{
+    "id":  "TD01-002",
+    "name":  "Macchia Nera - Creatura d\u0027Ombra",
+    "name_normalized":  "macchia nera creatura dombra",
+    "type":  "Mago",
+    "color":  "Nero",
+    "expansion":  "TD01",
+    "number":  2,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD01-002.jpg"
 }

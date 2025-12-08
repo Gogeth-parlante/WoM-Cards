@@ -1,10 +1,10 @@
-{
-  "id": "EO-138",
-  "name": "Castello di Arborea",
-  "name_normalized": "castello di arborea",
-  "type": "Castello",
-  "color": "Verde",
-  "expansion": "EO",
-  "number": 138,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-138.jpg"
+﻿{
+    "id":  "EO-138",
+    "name":  "Castello di Arborea",
+    "name_normalized":  "castello di arborea",
+    "type":  "Castello",
+    "color":  "Verde",
+    "expansion":  "EO",
+    "number":  138,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-138.jpg"
 }

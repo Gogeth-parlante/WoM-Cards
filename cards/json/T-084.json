@@ -1,10 +1,10 @@
-{
-  "id": "T-084",
-  "name": "Scudo Anti Drago",
-  "name_normalized": "scudo anti drago",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "T",
-  "number": 84,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-084.jpg"
+﻿{
+    "id":  "T-084",
+    "name":  "Scudo Anti Drago",
+    "name_normalized":  "scudo anti drago",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "T",
+    "number":  84,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-084.jpg"
 }

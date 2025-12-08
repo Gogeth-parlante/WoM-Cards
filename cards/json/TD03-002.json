@@ -1,10 +1,10 @@
-{
-  "id": "TD03-002",
-  "name": "Paperino - Mago Indebitato",
-  "name_normalized": "paperino - mago indebitato",
-  "type": "Mago",
-  "color": "Rosso",
-  "expansion": "TD03",
-  "number": 2,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD03-002.jpg"
+﻿{
+    "id":  "TD03-002",
+    "name":  "Paperino - Mago Indebitato",
+    "name_normalized":  "paperino mago indebitato",
+    "type":  "Mago",
+    "color":  "Rosso",
+    "expansion":  "TD03",
+    "number":  2,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD03-002.jpg"
 }

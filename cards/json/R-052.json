@@ -1,10 +1,10 @@
-{
-  "id": "R-052",
-  "name": "Gennarino",
-  "name_normalized": "gennarino",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "R",
-  "number": 52,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-052.jpg"
+﻿{
+    "id":  "R-052",
+    "name":  "Gennarino",
+    "name_normalized":  "gennarino",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "R",
+    "number":  52,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-052.jpg"
 }

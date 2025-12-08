@@ -1,10 +1,10 @@
-{
-  "id": "EO-045",
-  "name": "Grata di Metallo",
-  "name_normalized": "grata di metallo",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "EO",
-  "number": 45,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-045.jpg"
+﻿{
+    "id":  "EO-045",
+    "name":  "Grata di Metallo",
+    "name_normalized":  "grata di metallo",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "EO",
+    "number":  45,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-045.jpg"
 }

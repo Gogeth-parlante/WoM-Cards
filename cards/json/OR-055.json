@@ -1,10 +1,10 @@
-{
-  "id": "OR-055",
-  "name": "Artigli Devastatori",
-  "name_normalized": "artigli devastatori",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 55,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-055.jpg"
+﻿{
+    "id":  "OR-055",
+    "name":  "Artigli Devastatori",
+    "name_normalized":  "artigli devastatori",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  55,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-055.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "EO-106",
-  "name": "Una Nuova Speranza",
-  "name_normalized": "una nuova speranza",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "EO",
-  "number": 106,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-106.jpg"
+﻿{
+    "id":  "EO-106",
+    "name":  "Una Nuova Speranza",
+    "name_normalized":  "una nuova speranza",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "EO",
+    "number":  106,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-106.jpg"
 }

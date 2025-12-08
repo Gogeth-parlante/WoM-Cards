@@ -1,0 +1,10 @@
+{
+  "id": "EO-060",
+  "name": "Artiglio d'Ombra",
+  "name_normalized": "artiglio d'ombra",
+  "type": "Magia",
+  "color": "Nero",
+  "expansion": "EO",
+  "number": 60,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-060.jpg"
+}

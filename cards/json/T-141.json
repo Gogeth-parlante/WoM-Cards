@@ -1,10 +1,10 @@
-{
-  "id": "T-141",
-  "name": "Nereus - Mago Sapiente",
-  "name_normalized": "nereus - mago sapiente",
-  "type": "Mago",
-  "color": "Blu",
-  "expansion": "T",
-  "number": 141,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-141.jpg"
+﻿{
+    "id":  "T-141",
+    "name":  "Nereus - Mago Sapiente",
+    "name_normalized":  "nereus mago sapiente",
+    "type":  "Mago",
+    "color":  "Blu",
+    "expansion":  "T",
+    "number":  141,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-141.jpg"
 }

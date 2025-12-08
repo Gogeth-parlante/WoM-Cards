@@ -1,10 +1,10 @@
-{
-  "id": "T-080",
-  "name": "Onda Rilucente",
-  "name_normalized": "onda rilucente",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "T",
-  "number": 80,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-080.jpg"
+﻿{
+    "id":  "T-080",
+    "name":  "Onda Rilucente",
+    "name_normalized":  "onda rilucente",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "T",
+    "number":  80,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-080.jpg"
 }

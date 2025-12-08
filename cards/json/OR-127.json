@@ -1,10 +1,10 @@
-{
-  "id": "OR-127",
-  "name": "Polline Starnutifero",
-  "name_normalized": "polline starnutifero",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "OR",
-  "number": 127,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-127.jpg"
+﻿{
+    "id":  "OR-127",
+    "name":  "Polline Starnutifero",
+    "name_normalized":  "polline starnutifero",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "OR",
+    "number":  127,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-127.jpg"
 }

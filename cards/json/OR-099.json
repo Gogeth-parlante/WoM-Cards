@@ -1,10 +1,10 @@
-{
-  "id": "OR-099",
-  "name": "Nebbia di Drago",
-  "name_normalized": "nebbia di drago",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "OR",
-  "number": 99,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-099.jpg"
+﻿{
+    "id":  "OR-099",
+    "name":  "Nebbia di Drago",
+    "name_normalized":  "nebbia di drago",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "OR",
+    "number":  99,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-099.jpg"
 }

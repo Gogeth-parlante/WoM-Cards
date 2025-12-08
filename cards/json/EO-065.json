@@ -1,10 +1,10 @@
-{
-  "id": "EO-065",
-  "name": "Dominio dell'OscuritÃ ",
-  "name_normalized": "dominio dell'oscurita",
-  "type": "Magia",
-  "color": "Nero",
-  "expansion": "EO",
-  "number": 65,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-065.jpg"
+﻿{
+    "id":  "EO-065",
+    "name":  "Dominio dell\u0027Oscurità",
+    "name_normalized":  "dominio delloscurita",
+    "type":  "Magia",
+    "color":  "Nero",
+    "expansion":  "EO",
+    "number":  65,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-065.jpg"
 }

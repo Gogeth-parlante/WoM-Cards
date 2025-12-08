@@ -1,0 +1,10 @@
+{
+  "id": "OR-121",
+  "name": "Incrocio di Bordoni",
+  "name_normalized": "incrocio di bordoni",
+  "type": "Magia",
+  "color": "Verde",
+  "expansion": "OR",
+  "number": 121,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-121.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "OR-090",
+  "name": "Boom sonico avvolgente",
+  "name_normalized": "boom sonico avvolgente",
+  "type": "Magia",
+  "color": "Rosso",
+  "expansion": "OR",
+  "number": 90,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-090.jpg"
+}

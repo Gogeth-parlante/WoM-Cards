@@ -1,10 +1,10 @@
-{
-  "id": "T-137",
-  "name": "Labirinto del Pendolo",
-  "name_normalized": "labirinto del pendolo",
-  "type": "Castello",
-  "color": "Blu",
-  "expansion": "T",
-  "number": 137,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-137.jpg"
+﻿{
+    "id":  "T-137",
+    "name":  "Labirinto del Pendolo",
+    "name_normalized":  "labirinto del pendolo",
+    "type":  "Castello",
+    "color":  "Blu",
+    "expansion":  "T",
+    "number":  137,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-137.jpg"
 }

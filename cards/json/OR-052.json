@@ -1,10 +1,10 @@
-{
-  "id": "OR-052",
-  "name": "Tornado Mistico",
-  "name_normalized": "tornado mistico",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "OR",
-  "number": 52,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-052.jpg"
+﻿{
+    "id":  "OR-052",
+    "name":  "Tornado Mistico",
+    "name_normalized":  "tornado mistico",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "OR",
+    "number":  52,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-052.jpg"
 }

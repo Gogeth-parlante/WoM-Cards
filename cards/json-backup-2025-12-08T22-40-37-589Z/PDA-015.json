@@ -1,0 +1,10 @@
+{
+  "id": "PDA-015",
+  "name": "Prezzo del Potere",
+  "name_normalized": "prezzo del potere",
+  "type": "Magia",
+  "color": "Nero",
+  "expansion": "PDA",
+  "number": 15,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA-015.jpg"
+}

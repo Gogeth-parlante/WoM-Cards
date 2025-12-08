@@ -1,10 +1,10 @@
-{
-  "id": "T-100",
-  "name": "Incantesimo Riflettente",
-  "name_normalized": "incantesimo riflettente",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "T",
-  "number": 100,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-100.jpg"
+﻿{
+    "id":  "T-100",
+    "name":  "Incantesimo Riflettente",
+    "name_normalized":  "incantesimo riflettente",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "T",
+    "number":  100,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-100.jpg"
 }

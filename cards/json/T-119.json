@@ -1,10 +1,10 @@
-{
-  "id": "T-119",
-  "name": "Boom Sonico Echeggiante",
-  "name_normalized": "boom sonico echeggiante",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "T",
-  "number": 119,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-119.jpg"
+﻿{
+    "id":  "T-119",
+    "name":  "Boom Sonico Echeggiante",
+    "name_normalized":  "boom sonico echeggiante",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "T",
+    "number":  119,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-119.jpg"
 }

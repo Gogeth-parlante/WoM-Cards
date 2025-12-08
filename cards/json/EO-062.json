@@ -1,10 +1,10 @@
-{
-  "id": "EO-062",
-  "name": "Banchetto degli Orchetti-Faina",
-  "name_normalized": "banchetto degli orchetti-faina",
-  "type": "Magia",
-  "color": "Nero",
-  "expansion": "EO",
-  "number": 62,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-062.jpg"
+﻿{
+    "id":  "EO-062",
+    "name":  "Banchetto degli Orchetti-Faina",
+    "name_normalized":  "banchetto degli orchettifaina",
+    "type":  "Magia",
+    "color":  "Nero",
+    "expansion":  "EO",
+    "number":  62,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-062.jpg"
 }

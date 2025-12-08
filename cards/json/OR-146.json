@@ -1,10 +1,10 @@
-{
-  "id": "OR-146",
-  "name": "Caer Spider",
-  "name_normalized": "caer spider",
-  "type": "Castello",
-  "color": "Rosso",
-  "expansion": "OR",
-  "number": 146,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-146.jpg"
+﻿{
+    "id":  "OR-146",
+    "name":  "Caer Spider",
+    "name_normalized":  "caer spider",
+    "type":  "Castello",
+    "color":  "Rosso",
+    "expansion":  "OR",
+    "number":  146,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-146.jpg"
 }

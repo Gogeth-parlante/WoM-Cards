@@ -1,10 +1,10 @@
-{
-  "id": "R-021",
-  "name": "Carica Inarrestabile",
-  "name_normalized": "carica inarrestabile",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "R",
-  "number": 21,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-021.jpg"
+﻿{
+    "id":  "R-021",
+    "name":  "Carica Inarrestabile",
+    "name_normalized":  "carica inarrestabile",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "R",
+    "number":  21,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-021.jpg"
 }

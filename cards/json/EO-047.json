@@ -1,10 +1,10 @@
-{
-  "id": "EO-047",
-  "name": "Luce Illuminante",
-  "name_normalized": "luce illuminante",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "EO",
-  "number": 47,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-047.jpg"
+﻿{
+    "id":  "EO-047",
+    "name":  "Luce Illuminante",
+    "name_normalized":  "luce illuminante",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "EO",
+    "number":  47,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-047.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "OR-006",
-  "name": "Zaius - Drago Rosicchiaossa",
-  "name_normalized": "zaius - drago rosicchiaossa",
-  "type": "Mago",
-  "color": "Blu",
-  "expansion": "OR",
-  "number": 6,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-006.jpg"
+﻿{
+    "id":  "OR-006",
+    "name":  "Zaius - Drago Rosicchiaossa",
+    "name_normalized":  "zaius drago rosicchiaossa",
+    "type":  "Mago",
+    "color":  "Blu",
+    "expansion":  "OR",
+    "number":  6,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-006.jpg"
 }

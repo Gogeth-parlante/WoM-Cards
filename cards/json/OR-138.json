@@ -1,10 +1,10 @@
-{
-  "id": "OR-138",
-  "name": "Viticcio Carnivoro",
-  "name_normalized": "viticcio carnivoro",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "OR",
-  "number": 138,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-138.jpg"
+﻿{
+    "id":  "OR-138",
+    "name":  "Viticcio Carnivoro",
+    "name_normalized":  "viticcio carnivoro",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "OR",
+    "number":  138,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-138.jpg"
 }

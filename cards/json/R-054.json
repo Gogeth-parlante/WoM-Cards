@@ -1,10 +1,10 @@
-{
-  "id": "R-054",
-  "name": "Orda di Orchetti-Faina",
-  "name_normalized": "orda di orchetti-faina",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "R",
-  "number": 54,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-054.jpg"
+﻿{
+    "id":  "R-054",
+    "name":  "Orda di Orchetti-Faina",
+    "name_normalized":  "orda di orchettifaina",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "R",
+    "number":  54,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-054.jpg"
 }

@@ -1,0 +1,10 @@
+{
+  "id": "OR-042",
+  "name": "Nido Abominevole",
+  "name_normalized": "nido abominevole",
+  "type": "Magia",
+  "color": "Blu",
+  "expansion": "OR",
+  "number": 42,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-042.jpg"
+}

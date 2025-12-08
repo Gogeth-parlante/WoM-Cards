@@ -1,10 +1,10 @@
-{
-  "id": "T-066",
-  "name": "Bordone Mimetico",
-  "name_normalized": "bordone mimetico",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "T",
-  "number": 66,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-066.jpg"
+﻿{
+    "id":  "T-066",
+    "name":  "Bordone Mimetico",
+    "name_normalized":  "bordone mimetico",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "T",
+    "number":  66,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-066.jpg"
 }

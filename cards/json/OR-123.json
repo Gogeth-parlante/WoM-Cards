@@ -1,10 +1,10 @@
-{
-  "id": "OR-123",
-  "name": "Muro di Alghe",
-  "name_normalized": "muro di alghe",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "OR",
-  "number": 123,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-123.jpg"
+﻿{
+    "id":  "OR-123",
+    "name":  "Muro di Alghe",
+    "name_normalized":  "muro di alghe",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "OR",
+    "number":  123,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-123.jpg"
 }

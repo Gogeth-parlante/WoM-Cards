@@ -1,10 +1,10 @@
-{
-  "id": "OR-107",
-  "name": "Soffietto Lanciafiamme",
-  "name_normalized": "soffietto lanciafiamme",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "OR",
-  "number": 107,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-107.jpg"
+﻿{
+    "id":  "OR-107",
+    "name":  "Soffietto Lanciafiamme",
+    "name_normalized":  "soffietto lanciafiamme",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "OR",
+    "number":  107,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-107.jpg"
 }

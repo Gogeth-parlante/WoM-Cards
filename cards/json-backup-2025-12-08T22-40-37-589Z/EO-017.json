@@ -1,0 +1,10 @@
+{
+  "id": "EO-017",
+  "name": "Arco di Fulmini",
+  "name_normalized": "arco di fulmini",
+  "type": "Magia",
+  "color": "Blu",
+  "expansion": "EO",
+  "number": 17,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-017.jpg"
+}

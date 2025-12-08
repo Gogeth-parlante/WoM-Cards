@@ -1,10 +1,10 @@
-{
-  "id": "OR-053",
-  "name": "Urto Sonico",
-  "name_normalized": "urto sonico",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "OR",
-  "number": 53,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-053.jpg"
+﻿{
+    "id":  "OR-053",
+    "name":  "Urto Sonico",
+    "name_normalized":  "urto sonico",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "OR",
+    "number":  53,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-053.jpg"
 }

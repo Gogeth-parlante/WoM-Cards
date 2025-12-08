@@ -1,10 +1,10 @@
-{
-  "id": "TP-007",
-  "name": "Torre dei Dimenticati",
-  "name_normalized": "torre dei dimenticati",
-  "type": "Castello",
-  "color": "Rosso",
-  "expansion": "TP",
-  "number": 7,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TP-007.jpg"
+﻿{
+    "id":  "TP-007",
+    "name":  "Torre dei Dimenticati",
+    "name_normalized":  "torre dei dimenticati",
+    "type":  "Castello",
+    "color":  "Rosso",
+    "expansion":  "TP",
+    "number":  7,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TP-007.jpg"
 }

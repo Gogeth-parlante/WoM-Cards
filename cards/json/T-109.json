@@ -1,10 +1,10 @@
-{
-  "id": "T-109",
-  "name": "Tela dell' IrrealtÃ ",
-  "name_normalized": "tela dell' irrealta",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "T",
-  "number": 109,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-109.jpg"
+﻿{
+    "id":  "T-109",
+    "name":  "Tela dell\u0027 Irrealtà",
+    "name_normalized":  "tela dell irrealta",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "T",
+    "number":  109,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-109.jpg"
 }

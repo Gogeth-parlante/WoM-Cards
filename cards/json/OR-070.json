@@ -1,10 +1,10 @@
-{
-  "id": "OR-070",
-  "name": "Muro a Levitazione",
-  "name_normalized": "muro a levitazione",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 70,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-070.jpg"
+﻿{
+    "id":  "OR-070",
+    "name":  "Muro a Levitazione",
+    "name_normalized":  "muro a levitazione",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  70,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-070.jpg"
 }

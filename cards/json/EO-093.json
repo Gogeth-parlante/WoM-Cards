@@ -1,10 +1,10 @@
-{
-  "id": "EO-093",
-  "name": "Fulmine Inceneritore Potenziato",
-  "name_normalized": "fulmine inceneritore potenziato",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "EO",
-  "number": 93,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-093.jpg"
+﻿{
+    "id":  "EO-093",
+    "name":  "Fulmine Inceneritore Potenziato",
+    "name_normalized":  "fulmine inceneritore potenziato",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "EO",
+    "number":  93,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-093.jpg"
 }

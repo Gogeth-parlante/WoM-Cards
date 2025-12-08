@@ -1,10 +1,10 @@
-{
-  "id": "EO-001",
-  "name": "Smart Flash - Mago Fumineo",
-  "name_normalized": "smart flash - mago fumineo",
-  "type": "Mago",
-  "color": "Blu",
-  "expansion": "EO",
-  "number": 1,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-001.jpg"
+﻿{
+    "id":  "EO-001",
+    "name":  "Smart Flash - Mago Fumineo",
+    "name_normalized":  "smart flash mago fumineo",
+    "type":  "Mago",
+    "color":  "Blu",
+    "expansion":  "EO",
+    "number":  1,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-001.jpg"
 }

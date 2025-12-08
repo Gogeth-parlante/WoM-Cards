@@ -1,10 +1,10 @@
-{
-  "id": "T-041",
-  "name": "Bordone Scheggiato",
-  "name_normalized": "bordone scheggiato",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "T",
-  "number": 41,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-041.jpg"
+﻿{
+    "id":  "T-041",
+    "name":  "Bordone Scheggiato",
+    "name_normalized":  "bordone scheggiato",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "T",
+    "number":  41,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-041.jpg"
 }

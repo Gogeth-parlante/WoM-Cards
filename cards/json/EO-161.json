@@ -1,10 +1,10 @@
-{
-  "id": "EO-161",
-  "name": "Duplicazione Multipla",
-  "name_normalized": "duplicazione multipla",
-  "type": "Magia",
-  "color": "Nero",
-  "expansion": "EO",
-  "number": 161,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-161.jpg"
+﻿{
+    "id":  "EO-161",
+    "name":  "Duplicazione Multipla",
+    "name_normalized":  "duplicazione multipla",
+    "type":  "Magia",
+    "color":  "Nero",
+    "expansion":  "EO",
+    "number":  161,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-161.jpg"
 }

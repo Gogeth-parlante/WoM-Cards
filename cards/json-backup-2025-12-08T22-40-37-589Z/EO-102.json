@@ -1,0 +1,10 @@
+{
+  "id": "EO-102",
+  "name": "Scariche di Fulmini",
+  "name_normalized": "scariche di fulmini",
+  "type": "Magia",
+  "color": "Rosso",
+  "expansion": "EO",
+  "number": 102,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-102.jpg"
+}

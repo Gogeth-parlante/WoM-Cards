@@ -1,10 +1,10 @@
-{
-  "id": "OR-054",
-  "name": "Androidi Gemelli",
-  "name_normalized": "androidi gemelli",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 54,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-054.jpg"
+﻿{
+    "id":  "OR-054",
+    "name":  "Androidi Gemelli",
+    "name_normalized":  "androidi gemelli",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  54,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-054.jpg"
 }

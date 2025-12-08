@@ -1,10 +1,10 @@
-{
-  "id": "OR-024",
-  "name": "Gambadilegno - Furfante Astuto",
-  "name_normalized": "gambadilegno - furfante astuto",
-  "type": "Mago",
-  "color": "Verde",
-  "expansion": "OR",
-  "number": 24,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-024.jpg"
+﻿{
+    "id":  "OR-024",
+    "name":  "Gambadilegno - Furfante Astuto",
+    "name_normalized":  "gambadilegno furfante astuto",
+    "type":  "Mago",
+    "color":  "Verde",
+    "expansion":  "OR",
+    "number":  24,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-024.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "EO-046",
-  "name": "Guerriero Meccanico Magnetico",
-  "name_normalized": "guerriero meccanico magnetico",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "EO",
-  "number": 46,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-046.jpg"
+﻿{
+    "id":  "EO-046",
+    "name":  "Guerriero Meccanico Magnetico",
+    "name_normalized":  "guerriero meccanico magnetico",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "EO",
+    "number":  46,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-046.jpg"
 }

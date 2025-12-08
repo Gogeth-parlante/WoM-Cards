@@ -1,0 +1,10 @@
+{
+  "id": "PDA-004",
+  "name": "Antiche Tenebre",
+  "name_normalized": "antiche tenebre",
+  "type": "Magia",
+  "color": "Nero",
+  "expansion": "PDA",
+  "number": 4,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA-004.jpg"
+}

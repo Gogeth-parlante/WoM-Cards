@@ -1,10 +1,10 @@
-{
-  "id": "OR-128",
-  "name": "Rospo Diabolico",
-  "name_normalized": "rospo diabolico",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "OR",
-  "number": 128,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-128.jpg"
+﻿{
+    "id":  "OR-128",
+    "name":  "Rospo Diabolico",
+    "name_normalized":  "rospo diabolico",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "OR",
+    "number":  128,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-128.jpg"
 }

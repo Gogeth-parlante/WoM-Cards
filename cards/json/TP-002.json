@@ -1,10 +1,10 @@
-{
-  "id": "TP-002",
-  "name": "Apprendista Giovane Mago della Sabbia",
-  "name_normalized": "apprendista giovane mago della sabbia",
-  "type": "Mago",
-  "color": "Giallo",
-  "expansion": "TP",
-  "number": 2,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TP-002.jpg"
+﻿{
+    "id":  "TP-002",
+    "name":  "Apprendista Giovane Mago della Sabbia",
+    "name_normalized":  "apprendista giovane mago della sabbia",
+    "type":  "Mago",
+    "color":  "Giallo",
+    "expansion":  "TP",
+    "number":  2,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TP-002.jpg"
 }

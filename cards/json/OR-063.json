@@ -1,10 +1,10 @@
-{
-  "id": "OR-063",
-  "name": "Gargoyle Meditativo",
-  "name_normalized": "gargoyle meditativo",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 63,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-063.jpg"
+﻿{
+    "id":  "OR-063",
+    "name":  "Gargoyle Meditativo",
+    "name_normalized":  "gargoyle meditativo",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  63,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-063.jpg"
 }

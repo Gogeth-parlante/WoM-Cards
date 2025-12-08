@@ -1,10 +1,10 @@
-{
-  "id": "T-063",
-  "name": "Annulla Magia",
-  "name_normalized": "annulla magia",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "T",
-  "number": 63,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-063.jpg"
+﻿{
+    "id":  "T-063",
+    "name":  "Annulla Magia",
+    "name_normalized":  "annulla magia",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "T",
+    "number":  63,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-063.jpg"
 }

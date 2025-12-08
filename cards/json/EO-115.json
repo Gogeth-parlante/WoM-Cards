@@ -1,10 +1,10 @@
-{
-  "id": "EO-115",
-  "name": "Esercito di Orchetti-Faina",
-  "name_normalized": "esercito di orchetti-faina",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "EO",
-  "number": 115,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-115.jpg"
+﻿{
+    "id":  "EO-115",
+    "name":  "Esercito di Orchetti-Faina",
+    "name_normalized":  "esercito di orchettifaina",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "EO",
+    "number":  115,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-115.jpg"
 }

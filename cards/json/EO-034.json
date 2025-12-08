@@ -1,10 +1,10 @@
-{
-  "id": "EO-034",
-  "name": "Schiuma Antifiamma",
-  "name_normalized": "schiuma antifiamma",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "EO",
-  "number": 34,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-034.jpg"
+﻿{
+    "id":  "EO-034",
+    "name":  "Schiuma Antifiamma",
+    "name_normalized":  "schiuma antifiamma",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "EO",
+    "number":  34,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-034.jpg"
 }

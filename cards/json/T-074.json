@@ -1,10 +1,10 @@
-{
-  "id": "T-074",
-  "name": "Fiuto Sopraffino",
-  "name_normalized": "fiuto sopraffino",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "T",
-  "number": 74,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-074.jpg"
+﻿{
+    "id":  "T-074",
+    "name":  "Fiuto Sopraffino",
+    "name_normalized":  "fiuto sopraffino",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "T",
+    "number":  74,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-074.jpg"
 }

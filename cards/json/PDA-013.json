@@ -1,10 +1,10 @@
-{
-  "id": "PDA-013",
-  "name": "La Grande Corona",
-  "name_normalized": "la grande corona",
-  "type": "Magia",
-  "color": "Nero",
-  "expansion": "PDA",
-  "number": 13,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA-013.jpg"
+﻿{
+    "id":  "PDA-013",
+    "name":  "La Grande Corona",
+    "name_normalized":  "la grande corona",
+    "type":  "Magia",
+    "color":  "Nero",
+    "expansion":  "PDA",
+    "number":  13,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA-013.jpg"
 }

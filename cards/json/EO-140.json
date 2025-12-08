@@ -1,10 +1,10 @@
-{
-  "id": "EO-140",
-  "name": "Grande Alveare",
-  "name_normalized": "grande alveare",
-  "type": "Castello",
-  "color": "Verde",
-  "expansion": "EO",
-  "number": 140,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-140.jpg"
+﻿{
+    "id":  "EO-140",
+    "name":  "Grande Alveare",
+    "name_normalized":  "grande alveare",
+    "type":  "Castello",
+    "color":  "Verde",
+    "expansion":  "EO",
+    "number":  140,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-140.jpg"
 }

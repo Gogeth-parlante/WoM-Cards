@@ -1,10 +1,10 @@
-{
-  "id": "OR-106",
-  "name": "Sifone Mistico Tipo Typhon",
-  "name_normalized": "sifone mistico tipo typhon",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "OR",
-  "number": 106,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-106.jpg"
+﻿{
+    "id":  "OR-106",
+    "name":  "Sifone Mistico Tipo Typhon",
+    "name_normalized":  "sifone mistico tipo typhon",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "OR",
+    "number":  106,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-106.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "EO-054",
-  "name": "Saetta Ipersonica",
-  "name_normalized": "saetta ipersonica",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "EO",
-  "number": 54,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-054.jpg"
+﻿{
+    "id":  "EO-054",
+    "name":  "Saetta Ipersonica",
+    "name_normalized":  "saetta ipersonica",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "EO",
+    "number":  54,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-054.jpg"
 }

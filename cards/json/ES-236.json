@@ -1,10 +1,10 @@
-{
-  "id": "ES-236",
-  "name": "Mira Infallibile",
-  "name_normalized": "mira infallibile",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "ES",
-  "number": 236,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/ES-236.jpg"
+﻿{
+    "id":  "ES-236",
+    "name":  "Mira Infallibile",
+    "name_normalized":  "mira infallibile",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "ES",
+    "number":  236,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/ES-236.jpg"
 }

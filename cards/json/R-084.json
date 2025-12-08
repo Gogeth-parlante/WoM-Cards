@@ -1,10 +1,10 @@
-{
-  "id": "R-084",
-  "name": "L'Anno del Fuoco",
-  "name_normalized": "l'anno del fuoco",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "R",
-  "number": 84,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-084.jpg"
+﻿{
+    "id":  "R-084",
+    "name":  "L\u0027Anno del Fuoco",
+    "name_normalized":  "lanno del fuoco",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "R",
+    "number":  84,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-084.jpg"
 }

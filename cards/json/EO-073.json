@@ -1,10 +1,10 @@
-{
-  "id": "EO-073",
-  "name": "Pluto Aggressivo",
-  "name_normalized": "pluto aggressivo",
-  "type": "Magia",
-  "color": "Nero",
-  "expansion": "EO",
-  "number": 73,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-073.jpg"
+﻿{
+    "id":  "EO-073",
+    "name":  "Pluto Aggressivo",
+    "name_normalized":  "pluto aggressivo",
+    "type":  "Magia",
+    "color":  "Nero",
+    "expansion":  "EO",
+    "number":  73,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-073.jpg"
 }

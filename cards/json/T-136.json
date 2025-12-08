@@ -1,10 +1,10 @@
-{
-  "id": "T-136",
-  "name": "Bilancia dell'Equilibrio",
-  "name_normalized": "bilancia dell'equilibrio",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "T",
-  "number": 136,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-136.jpg"
+﻿{
+    "id":  "T-136",
+    "name":  "Bilancia dell\u0027Equilibrio",
+    "name_normalized":  "bilancia dellequilibrio",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "T",
+    "number":  136,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-136.jpg"
 }

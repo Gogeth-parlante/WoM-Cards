@@ -1,10 +1,10 @@
-{
-  "id": "OR-049",
-  "name": "Spada Incantata",
-  "name_normalized": "spada incantata",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "OR",
-  "number": 49,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-049.jpg"
+﻿{
+    "id":  "OR-049",
+    "name":  "Spada Incantata",
+    "name_normalized":  "spada incantata",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "OR",
+    "number":  49,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-049.jpg"
 }

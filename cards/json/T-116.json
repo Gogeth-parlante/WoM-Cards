@@ -1,10 +1,10 @@
-{
-  "id": "T-116",
-  "name": "Aiuto Inatteso",
-  "name_normalized": "aiuto inatteso",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "T",
-  "number": 116,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-116.jpg"
+﻿{
+    "id":  "T-116",
+    "name":  "Aiuto Inatteso",
+    "name_normalized":  "aiuto inatteso",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "T",
+    "number":  116,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-116.jpg"
 }

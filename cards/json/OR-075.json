@@ -1,10 +1,10 @@
-{
-  "id": "OR-075",
-  "name": "Orda di Orchetti-Faina",
-  "name_normalized": "orda di orchetti-faina",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 75,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-075.jpg"
+﻿{
+    "id":  "OR-075",
+    "name":  "Orda di Orchetti-Faina",
+    "name_normalized":  "orda di orchettifaina",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  75,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-075.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "EO-037",
-  "name": "Spreco di Forze",
-  "name_normalized": "spreco di forze",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "EO",
-  "number": 37,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-037.jpg"
+﻿{
+    "id":  "EO-037",
+    "name":  "Spreco di Forze",
+    "name_normalized":  "spreco di forze",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "EO",
+    "number":  37,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-037.jpg"
 }

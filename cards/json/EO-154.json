@@ -1,10 +1,10 @@
-{
-  "id": "EO-154",
-  "name": "Neraja - Grande Strega",
-  "name_normalized": "neraja - grande strega",
-  "type": "Mago",
-  "color": "Rosso",
-  "expansion": "EO",
-  "number": 154,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-154.jpg"
+﻿{
+    "id":  "EO-154",
+    "name":  "Neraja - Grande Strega",
+    "name_normalized":  "neraja grande strega",
+    "type":  "Mago",
+    "color":  "Rosso",
+    "expansion":  "EO",
+    "number":  154,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-154.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "OR-017",
-  "name": "Paperino - Mago di Primo Livello",
-  "name_normalized": "paperino - mago di primo livello",
-  "type": "Mago",
-  "color": "Rosso",
-  "expansion": "OR",
-  "number": 17,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-017.jpg"
+﻿{
+    "id":  "OR-017",
+    "name":  "Paperino - Mago di Primo Livello",
+    "name_normalized":  "paperino mago di primo livello",
+    "type":  "Mago",
+    "color":  "Rosso",
+    "expansion":  "OR",
+    "number":  17,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-017.jpg"
 }

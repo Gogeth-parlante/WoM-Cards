@@ -1,10 +1,10 @@
-{
-  "id": "T-104",
-  "name": "Olezzo Obnubilante",
-  "name_normalized": "olezzo obnubilante",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "T",
-  "number": 104,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-104.jpg"
+﻿{
+    "id":  "T-104",
+    "name":  "Olezzo Obnubilante",
+    "name_normalized":  "olezzo obnubilante",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "T",
+    "number":  104,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-104.jpg"
 }

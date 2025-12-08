@@ -1,10 +1,10 @@
-{
-  "id": "T-010",
-  "name": "Amelia - Strega Vanagloriosa",
-  "name_normalized": "amelia - strega vanagloriosa",
-  "type": "Mago",
-  "color": "Verde",
-  "expansion": "T",
-  "number": 10,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-010.jpg"
+﻿{
+    "id":  "T-010",
+    "name":  "Amelia - Strega Vanagloriosa",
+    "name_normalized":  "amelia strega vanagloriosa",
+    "type":  "Mago",
+    "color":  "Verde",
+    "expansion":  "T",
+    "number":  10,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-010.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "EO-055",
-  "name": "Scarpe da Ginnastica",
-  "name_normalized": "scarpe da ginnastica",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "EO",
-  "number": 55,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-055.jpg"
+﻿{
+    "id":  "EO-055",
+    "name":  "Scarpe da Ginnastica",
+    "name_normalized":  "scarpe da ginnastica",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "EO",
+    "number":  55,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-055.jpg"
 }

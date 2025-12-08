@@ -1,10 +1,10 @@
-{
-  "id": "ES-239",
-  "name": "Barriera di Catrame",
-  "name_normalized": "barriera di catrame",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "ES",
-  "number": 239,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/ES-239.jpg"
+﻿{
+    "id":  "ES-239",
+    "name":  "Barriera di Catrame",
+    "name_normalized":  "barriera di catrame",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "ES",
+    "number":  239,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/ES-239.jpg"
 }

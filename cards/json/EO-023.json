@@ -1,10 +1,10 @@
-{
-  "id": "EO-023",
-  "name": "Evocazione di Pioggia",
-  "name_normalized": "evocazione di pioggia",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "EO",
-  "number": 23,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-023.jpg"
+﻿{
+    "id":  "EO-023",
+    "name":  "Evocazione di Pioggia",
+    "name_normalized":  "evocazione di pioggia",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "EO",
+    "number":  23,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-023.jpg"
 }

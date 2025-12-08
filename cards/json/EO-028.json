@@ -1,10 +1,10 @@
-{
-  "id": "EO-028",
-  "name": "Lampo Ipnotico",
-  "name_normalized": "lampo ipnotico",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "EO",
-  "number": 28,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-028.jpg"
+﻿{
+    "id":  "EO-028",
+    "name":  "Lampo Ipnotico",
+    "name_normalized":  "lampo ipnotico",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "EO",
+    "number":  28,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-028.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "R-056",
-  "name": "Salvare il Regno",
-  "name_normalized": "salvare il regno",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "R",
-  "number": 56,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-056.jpg"
+﻿{
+    "id":  "R-056",
+    "name":  "Salvare il Regno",
+    "name_normalized":  "salvare il regno",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "R",
+    "number":  56,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-056.jpg"
 }

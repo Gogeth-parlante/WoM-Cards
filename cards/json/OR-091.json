@@ -1,10 +1,10 @@
-{
-  "id": "OR-091",
-  "name": "Catena del Dominatore",
-  "name_normalized": "catena del dominatore",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "OR",
-  "number": 91,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-091.jpg"
+﻿{
+    "id":  "OR-091",
+    "name":  "Catena del Dominatore",
+    "name_normalized":  "catena del dominatore",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "OR",
+    "number":  91,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-091.jpg"
 }

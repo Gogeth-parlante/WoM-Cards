@@ -1,0 +1,10 @@
+{
+  "id": "T-048",
+  "name": "Disorientamento",
+  "name_normalized": "disorientamento",
+  "type": "Magia",
+  "color": "Giallo",
+  "expansion": "T",
+  "number": 48,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-048.jpg"
+}

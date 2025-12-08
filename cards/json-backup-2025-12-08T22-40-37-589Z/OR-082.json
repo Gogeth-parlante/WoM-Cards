@@ -1,0 +1,10 @@
+{
+  "id": "OR-082",
+  "name": "Ala Meccanica",
+  "name_normalized": "ala meccanica",
+  "type": "Magia",
+  "color": "Rosso",
+  "expansion": "OR",
+  "number": 82,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-082.jpg"
+}

@@ -1,10 +1,10 @@
-{
-  "id": "EO-026",
-  "name": "Guerriero Ignifugo",
-  "name_normalized": "guerriero ignifugo",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "EO",
-  "number": 26,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-026.jpg"
+﻿{
+    "id":  "EO-026",
+    "name":  "Guerriero Ignifugo",
+    "name_normalized":  "guerriero ignifugo",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "EO",
+    "number":  26,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-026.jpg"
 }

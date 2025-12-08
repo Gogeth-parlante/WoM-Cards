@@ -1,10 +1,10 @@
-{
-  "id": "EO-086",
-  "name": "Cotta di Maglia Antimagma",
-  "name_normalized": "cotta di maglia antimagma",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "EO",
-  "number": 86,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-086.jpg"
+﻿{
+    "id":  "EO-086",
+    "name":  "Cotta di Maglia Antimagma",
+    "name_normalized":  "cotta di maglia antimagma",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "EO",
+    "number":  86,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-086.jpg"
 }

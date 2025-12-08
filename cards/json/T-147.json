@@ -1,10 +1,10 @@
-{
-  "id": "T-147",
-  "name": "Dicerie Velenose",
-  "name_normalized": "dicerie velenose",
-  "type": "Magia",
-  "color": "Nero",
-  "expansion": "T",
-  "number": 147,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-147.jpg"
+﻿{
+    "id":  "T-147",
+    "name":  "Dicerie Velenose",
+    "name_normalized":  "dicerie velenose",
+    "type":  "Magia",
+    "color":  "Nero",
+    "expansion":  "T",
+    "number":  147,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-147.jpg"
 }

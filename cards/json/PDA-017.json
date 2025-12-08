@@ -1,10 +1,10 @@
-{
-  "id": "PDA-017",
-  "name": "Archivi Ricurvi",
-  "name_normalized": "archivi ricurvi",
-  "type": "Castello",
-  "color": "Nero",
-  "expansion": "PDA",
-  "number": 17,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA-017.jpg"
+﻿{
+    "id":  "PDA-017",
+    "name":  "Archivi Ricurvi",
+    "name_normalized":  "archivi ricurvi",
+    "type":  "Castello",
+    "color":  "Nero",
+    "expansion":  "PDA",
+    "number":  17,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA-017.jpg"
 }

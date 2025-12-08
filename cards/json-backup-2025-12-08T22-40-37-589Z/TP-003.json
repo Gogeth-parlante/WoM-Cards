@@ -1,0 +1,10 @@
+{
+  "id": "TP-003",
+  "name": "Apprendista Giovane Mago del Fuoco",
+  "name_normalized": "apprendista giovane mago del fuoco",
+  "type": "Mago",
+  "color": "Rosso",
+  "expansion": "TP",
+  "number": 3,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TP-003.jpg"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "OR-111",
+  "name": "Bordone Spezzato",
+  "name_normalized": "bordone spezzato",
+  "type": "Magia",
+  "color": "Verde",
+  "expansion": "OR",
+  "number": 111,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-111.jpg"
+}

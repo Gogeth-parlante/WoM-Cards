@@ -1,10 +1,10 @@
-{
-  "id": "T-143",
-  "name": "Pozzo del Ghouler",
-  "name_normalized": "pozzo del ghouler",
-  "type": "Castello",
-  "color": "Nero",
-  "expansion": "T",
-  "number": 143,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-143.jpg"
+﻿{
+    "id":  "T-143",
+    "name":  "Pozzo del Ghouler",
+    "name_normalized":  "pozzo del ghouler",
+    "type":  "Castello",
+    "color":  "Nero",
+    "expansion":  "T",
+    "number":  143,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-143.jpg"
 }

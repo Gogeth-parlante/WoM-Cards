@@ -1,10 +1,10 @@
-{
-  "id": "EO-035",
-  "name": "Sifone Mistico Tipo Trappola",
-  "name_normalized": "sifone mistico tipo trappola",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "EO",
-  "number": 35,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-035.jpg"
+﻿{
+    "id":  "EO-035",
+    "name":  "Sifone Mistico Tipo Trappola",
+    "name_normalized":  "sifone mistico tipo trappola",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "EO",
+    "number":  35,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-035.jpg"
 }

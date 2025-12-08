@@ -1,10 +1,10 @@
-{
-  "id": "T-016",
-  "name": "Cacciatore di Draghi",
-  "name_normalized": "cacciatore di draghi",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "T",
-  "number": 16,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-016.jpg"
+﻿{
+    "id":  "T-016",
+    "name":  "Cacciatore di Draghi",
+    "name_normalized":  "cacciatore di draghi",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "T",
+    "number":  16,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-016.jpg"
 }

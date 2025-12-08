@@ -1,0 +1,10 @@
+{
+  "id": "PDA-012",
+  "name": "Il Giorno senza Sole",
+  "name_normalized": "il giorno senza sole",
+  "type": "Magia",
+  "color": "Nero",
+  "expansion": "PDA",
+  "number": 12,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA-012.jpg"
+}

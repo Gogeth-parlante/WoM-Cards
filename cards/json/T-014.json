@@ -1,10 +1,10 @@
-{
-  "id": "T-014",
-  "name": "Annulla Materia",
-  "name_normalized": "annulla materia",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "T",
-  "number": 14,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-014.jpg"
+﻿{
+    "id":  "T-014",
+    "name":  "Annulla Materia",
+    "name_normalized":  "annulla materia",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "T",
+    "number":  14,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-014.jpg"
 }

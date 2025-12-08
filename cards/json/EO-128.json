@@ -1,10 +1,10 @@
-{
-  "id": "EO-128",
-  "name": "Spaventapasseri Abominevole",
-  "name_normalized": "spaventapasseri abominevole",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "EO",
-  "number": 128,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-128.jpg"
+﻿{
+    "id":  "EO-128",
+    "name":  "Spaventapasseri Abominevole",
+    "name_normalized":  "spaventapasseri abominevole",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "EO",
+    "number":  128,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-128.jpg"
 }

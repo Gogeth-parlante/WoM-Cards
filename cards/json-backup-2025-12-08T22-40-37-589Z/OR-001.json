@@ -1,0 +1,10 @@
+{
+  "id": "OR-001",
+  "name": "Paperina - Maga di Primo Livello",
+  "name_normalized": "paperina - maga di primo livello",
+  "type": "Mago",
+  "color": "Blu",
+  "expansion": "OR",
+  "number": 1,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-001.jpg"
+}

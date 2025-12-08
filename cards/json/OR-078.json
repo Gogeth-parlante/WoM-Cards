@@ -1,10 +1,10 @@
-{
-  "id": "OR-078",
-  "name": "Porta dell'Ignoto",
-  "name_normalized": "porta dell'ignoto",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 78,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-078.jpg"
+﻿{
+    "id":  "OR-078",
+    "name":  "Porta dell\u0027Ignoto",
+    "name_normalized":  "porta dellignoto",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  78,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-078.jpg"
 }

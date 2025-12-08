@@ -1,0 +1,10 @@
+{
+  "id": "OR-102",
+  "name": "Raffreddore di Drago",
+  "name_normalized": "raffreddore di drago",
+  "type": "Magia",
+  "color": "Rosso",
+  "expansion": "OR",
+  "number": 102,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-102.jpg"
+}

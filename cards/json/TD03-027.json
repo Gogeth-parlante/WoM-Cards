@@ -1,10 +1,10 @@
-{
-  "id": "TD03-027",
-  "name": "Drago di Ferro",
-  "name_normalized": "drago di ferro",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "TD03",
-  "number": 27,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD03-027.jpg"
+﻿{
+    "id":  "TD03-027",
+    "name":  "Drago di Ferro",
+    "name_normalized":  "drago di ferro",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "TD03",
+    "number":  27,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/TD03-027.jpg"
 }

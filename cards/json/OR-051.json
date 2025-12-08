@@ -1,10 +1,10 @@
-{
-  "id": "OR-051",
-  "name": "Tormenta di Ghiaccio",
-  "name_normalized": "tormenta di ghiaccio",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "OR",
-  "number": 51,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-051.jpg"
+﻿{
+    "id":  "OR-051",
+    "name":  "Tormenta di Ghiaccio",
+    "name_normalized":  "tormenta di ghiaccio",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "OR",
+    "number":  51,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-051.jpg"
 }

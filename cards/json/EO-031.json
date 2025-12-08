@@ -1,10 +1,10 @@
-{
-  "id": "EO-031",
-  "name": "Pioggia Dirompente",
-  "name_normalized": "pioggia dirompente",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "EO",
-  "number": 31,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-031.jpg"
+﻿{
+    "id":  "EO-031",
+    "name":  "Pioggia Dirompente",
+    "name_normalized":  "pioggia dirompente",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "EO",
+    "number":  31,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-031.jpg"
 }

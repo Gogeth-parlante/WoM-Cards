@@ -1,10 +1,10 @@
-{
-  "id": "EO-063",
-  "name": "Bordone Spezzato",
-  "name_normalized": "bordone spezzato",
-  "type": "Magia",
-  "color": "Nero",
-  "expansion": "EO",
-  "number": 63,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-063.jpg"
+﻿{
+    "id":  "EO-063",
+    "name":  "Bordone Spezzato",
+    "name_normalized":  "bordone spezzato",
+    "type":  "Magia",
+    "color":  "Nero",
+    "expansion":  "EO",
+    "number":  63,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-063.jpg"
 }

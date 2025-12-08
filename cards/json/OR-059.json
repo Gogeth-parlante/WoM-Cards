@@ -1,10 +1,10 @@
-{
-  "id": "OR-059",
-  "name": "Bestia del Malaugurio",
-  "name_normalized": "bestia del malaugurio",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 59,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-059.jpg"
+﻿{
+    "id":  "OR-059",
+    "name":  "Bestia del Malaugurio",
+    "name_normalized":  "bestia del malaugurio",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  59,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-059.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "OR-019",
-  "name": "Zefren - Drago Fiammeggiante",
-  "name_normalized": "zefren - drago fiammeggiante",
-  "type": "Mago",
-  "color": "Rosso",
-  "expansion": "OR",
-  "number": 19,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-019.jpg"
+﻿{
+    "id":  "OR-019",
+    "name":  "Zefren - Drago Fiammeggiante",
+    "name_normalized":  "zefren drago fiammeggiante",
+    "type":  "Mago",
+    "color":  "Rosso",
+    "expansion":  "OR",
+    "number":  19,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-019.jpg"
 }

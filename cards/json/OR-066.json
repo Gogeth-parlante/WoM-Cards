@@ -1,10 +1,10 @@
-{
-  "id": "OR-066",
-  "name": "Guerrieri Meccanici a Doppia Carica",
-  "name_normalized": "guerrieri meccanici a doppia carica",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 66,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-066.jpg"
+﻿{
+    "id":  "OR-066",
+    "name":  "Guerrieri Meccanici a Doppia Carica",
+    "name_normalized":  "guerrieri meccanici a doppia carica",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  66,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-066.jpg"
 }

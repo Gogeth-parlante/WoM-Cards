@@ -1,0 +1,10 @@
+{
+  "id": "EO-030",
+  "name": "Pesca Esagerata",
+  "name_normalized": "pesca esagerata",
+  "type": "Magia",
+  "color": "Blu",
+  "expansion": "EO",
+  "number": 30,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-030.jpg"
+}

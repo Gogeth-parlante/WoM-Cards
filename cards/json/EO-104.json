@@ -1,10 +1,10 @@
-{
-  "id": "EO-104",
-  "name": "Sfera della Conoscenza",
-  "name_normalized": "sfera della conoscenza",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "EO",
-  "number": 104,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-104.jpg"
+﻿{
+    "id":  "EO-104",
+    "name":  "Sfera della Conoscenza",
+    "name_normalized":  "sfera della conoscenza",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "EO",
+    "number":  104,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-104.jpg"
 }

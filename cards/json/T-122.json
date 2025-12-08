@@ -1,10 +1,10 @@
-{
-  "id": "T-122",
-  "name": "Clarabella - Maga Musicista",
-  "name_normalized": "clarabella - maga musicista",
-  "type": "Mago",
-  "color": "Verde",
-  "expansion": "T",
-  "number": 122,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-122.jpg"
+﻿{
+    "id":  "T-122",
+    "name":  "Clarabella - Maga Musicista",
+    "name_normalized":  "clarabella maga musicista",
+    "type":  "Mago",
+    "color":  "Verde",
+    "expansion":  "T",
+    "number":  122,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-122.jpg"
 }

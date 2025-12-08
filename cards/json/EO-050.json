@@ -1,10 +1,10 @@
-{
-  "id": "EO-050",
-  "name": "Orda di Piovra Metalliche",
-  "name_normalized": "orda di piovra metalliche",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "EO",
-  "number": 50,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-050.jpg"
+﻿{
+    "id":  "EO-050",
+    "name":  "Orda di Piovra Metalliche",
+    "name_normalized":  "orda di piovra metalliche",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "EO",
+    "number":  50,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-050.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "T-070",
-  "name": "Destriero di Fuoco",
-  "name_normalized": "destriero di fuoco",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "T",
-  "number": 70,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-070.jpg"
+﻿{
+    "id":  "T-070",
+    "name":  "Destriero di Fuoco",
+    "name_normalized":  "destriero di fuoco",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "T",
+    "number":  70,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-070.jpg"
 }

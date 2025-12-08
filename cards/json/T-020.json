@@ -1,10 +1,10 @@
-{
-  "id": "T-020",
-  "name": "Incanto Ciarliero",
-  "name_normalized": "incanto ciarliero",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "T",
-  "number": 20,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-020.jpg"
+﻿{
+    "id":  "T-020",
+    "name":  "Incanto Ciarliero",
+    "name_normalized":  "incanto ciarliero",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "T",
+    "number":  20,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-020.jpg"
 }

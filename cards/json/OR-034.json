@@ -1,10 +1,10 @@
-{
-  "id": "OR-034",
-  "name": "Fulmine Celestiale",
-  "name_normalized": "fulmine celestiale",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "OR",
-  "number": 34,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-034.jpg"
+﻿{
+    "id":  "OR-034",
+    "name":  "Fulmine Celestiale",
+    "name_normalized":  "fulmine celestiale",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "OR",
+    "number":  34,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-034.jpg"
 }

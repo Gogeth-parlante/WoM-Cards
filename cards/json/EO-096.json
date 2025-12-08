@@ -1,10 +1,10 @@
-{
-  "id": "EO-096",
-  "name": "Ingordigia Irrefrenabile",
-  "name_normalized": "ingordigia irrefrenabile",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "EO",
-  "number": 96,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-096.jpg"
+﻿{
+    "id":  "EO-096",
+    "name":  "Ingordigia Irrefrenabile",
+    "name_normalized":  "ingordigia irrefrenabile",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "EO",
+    "number":  96,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-096.jpg"
 }

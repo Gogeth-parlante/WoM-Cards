@@ -1,10 +1,10 @@
-{
-  "id": "OR-151",
-  "name": "Macchia Nera - Signore degli Inganni",
-  "name_normalized": "macchia nera - signore degli inganni",
-  "type": "Mago",
-  "color": "Blu",
-  "expansion": "OR",
-  "number": 151,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-151.jpg"
+﻿{
+    "id":  "OR-151",
+    "name":  "Macchia Nera - Signore degli Inganni",
+    "name_normalized":  "macchia nera signore degli inganni",
+    "type":  "Mago",
+    "color":  "Blu",
+    "expansion":  "OR",
+    "number":  151,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-151.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "EO-095",
-  "name": "Guanto di Gameras",
-  "name_normalized": "guanto di gameras",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "EO",
-  "number": 95,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-095.jpg"
+﻿{
+    "id":  "EO-095",
+    "name":  "Guanto di Gameras",
+    "name_normalized":  "guanto di gameras",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "EO",
+    "number":  95,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-095.jpg"
 }

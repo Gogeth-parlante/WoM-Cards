@@ -1,10 +1,10 @@
-{
-  "id": "OR-097",
-  "name": "Lupo di Fuoco",
-  "name_normalized": "lupo di fuoco",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "OR",
-  "number": 97,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-097.jpg"
+﻿{
+    "id":  "OR-097",
+    "name":  "Lupo di Fuoco",
+    "name_normalized":  "lupo di fuoco",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "OR",
+    "number":  97,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-097.jpg"
 }

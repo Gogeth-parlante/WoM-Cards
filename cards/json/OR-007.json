@@ -1,10 +1,10 @@
-{
-  "id": "OR-007",
-  "name": "Bassotto Unus - Furfante di Strada",
-  "name_normalized": "bassotto unus - furfante di strada",
-  "type": "Mago",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 7,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-007.jpg"
+﻿{
+    "id":  "OR-007",
+    "name":  "Bassotto Unus - Furfante di Strada",
+    "name_normalized":  "bassotto unus furfante di strada",
+    "type":  "Mago",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  7,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-007.jpg"
 }

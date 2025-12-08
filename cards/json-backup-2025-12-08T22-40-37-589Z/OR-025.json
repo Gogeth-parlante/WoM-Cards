@@ -1,0 +1,10 @@
+{
+  "id": "OR-025",
+  "name": "Yomper - Mago Goloso",
+  "name_normalized": "yomper - mago goloso",
+  "type": "Mago",
+  "color": "Verde",
+  "expansion": "OR",
+  "number": 25,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-025.jpg"
+}

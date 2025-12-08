@@ -1,10 +1,10 @@
-{
-  "id": "T-064",
-  "name": "Attacco Triplo",
-  "name_normalized": "attacco triplo",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "T",
-  "number": 64,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-064.jpg"
+﻿{
+    "id":  "T-064",
+    "name":  "Attacco Triplo",
+    "name_normalized":  "attacco triplo",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "T",
+    "number":  64,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-064.jpg"
 }

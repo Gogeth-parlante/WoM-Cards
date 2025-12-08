@@ -1,10 +1,10 @@
-{
-  "id": "EO-043",
-  "name": "Craniata Dirompente",
-  "name_normalized": "craniata dirompente",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "EO",
-  "number": 43,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-043.jpg"
+﻿{
+    "id":  "EO-043",
+    "name":  "Craniata Dirompente",
+    "name_normalized":  "craniata dirompente",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "EO",
+    "number":  43,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-043.jpg"
 }

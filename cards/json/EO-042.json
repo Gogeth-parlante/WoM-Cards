@@ -1,10 +1,10 @@
-{
-  "id": "EO-042",
-  "name": "Ciotola Parlante",
-  "name_normalized": "ciotola parlante",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "EO",
-  "number": 42,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-042.jpg"
+﻿{
+    "id":  "EO-042",
+    "name":  "Ciotola Parlante",
+    "name_normalized":  "ciotola parlante",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "EO",
+    "number":  42,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-042.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "EO-125",
-  "name": "Sgusciare",
-  "name_normalized": "sgusciare",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "EO",
-  "number": 125,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-125.jpg"
+﻿{
+    "id":  "EO-125",
+    "name":  "Sgusciare",
+    "name_normalized":  "sgusciare",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "EO",
+    "number":  125,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-125.jpg"
 }

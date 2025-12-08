@@ -1,10 +1,10 @@
-{
-  "id": "EO-127",
-  "name": "Sintonia con la Natura",
-  "name_normalized": "sintonia con la natura",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "EO",
-  "number": 127,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-127.jpg"
+﻿{
+    "id":  "EO-127",
+    "name":  "Sintonia con la Natura",
+    "name_normalized":  "sintonia con la natura",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "EO",
+    "number":  127,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-127.jpg"
 }

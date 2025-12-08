@@ -1,10 +1,10 @@
-{
-  "id": "PDA-023",
-  "name": "Valle delle Ossa",
-  "name_normalized": "valle delle ossa",
-  "type": "Castello",
-  "color": "Rosso",
-  "expansion": "PDA",
-  "number": 23,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA-023.jpg"
+﻿{
+    "id":  "PDA-023",
+    "name":  "Valle delle Ossa",
+    "name_normalized":  "valle delle ossa",
+    "type":  "Castello",
+    "color":  "Rosso",
+    "expansion":  "PDA",
+    "number":  23,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/PDA-023.jpg"
 }

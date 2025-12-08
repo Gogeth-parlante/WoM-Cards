@@ -1,10 +1,10 @@
-{
-  "id": "OR-062",
-  "name": "Gargoyle Forzuto in Catene",
-  "name_normalized": "gargoyle forzuto in catene",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 62,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-062.jpg"
+﻿{
+    "id":  "OR-062",
+    "name":  "Gargoyle Forzuto in Catene",
+    "name_normalized":  "gargoyle forzuto in catene",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  62,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-062.jpg"
 }

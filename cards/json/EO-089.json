@@ -1,10 +1,10 @@
-{
-  "id": "EO-089",
-  "name": "Evanescenza",
-  "name_normalized": "evanescenza",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "EO",
-  "number": 89,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-089.jpg"
+﻿{
+    "id":  "EO-089",
+    "name":  "Evanescenza",
+    "name_normalized":  "evanescenza",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "EO",
+    "number":  89,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-089.jpg"
 }

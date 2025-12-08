@@ -1,0 +1,10 @@
+{
+  "id": "R-030",
+  "name": "Blocca Tempesta",
+  "name_normalized": "blocca tempesta",
+  "type": "Magia",
+  "color": "Nero",
+  "expansion": "R",
+  "number": 30,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-030.jpg"
+}

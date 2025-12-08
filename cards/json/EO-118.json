@@ -1,10 +1,10 @@
-{
-  "id": "EO-118",
-  "name": "Gargoyle Prepotente",
-  "name_normalized": "gargoyle prepotente",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "EO",
-  "number": 118,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-118.jpg"
+﻿{
+    "id":  "EO-118",
+    "name":  "Gargoyle Prepotente",
+    "name_normalized":  "gargoyle prepotente",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "EO",
+    "number":  118,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-118.jpg"
 }

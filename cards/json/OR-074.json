@@ -1,10 +1,10 @@
-{
-  "id": "OR-074",
-  "name": "Orchetto-Faina",
-  "name_normalized": "orchetto-faina",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 74,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-074.jpg"
+﻿{
+    "id":  "OR-074",
+    "name":  "Orchetto-Faina",
+    "name_normalized":  "orchettofaina",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  74,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-074.jpg"
 }

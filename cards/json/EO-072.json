@@ -1,10 +1,10 @@
-{
-  "id": "EO-072",
-  "name": "Piccolo Trucco",
-  "name_normalized": "piccolo trucco",
-  "type": "Magia",
-  "color": "Nero",
-  "expansion": "EO",
-  "number": 72,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-072.jpg"
+﻿{
+    "id":  "EO-072",
+    "name":  "Piccolo Trucco",
+    "name_normalized":  "piccolo trucco",
+    "type":  "Magia",
+    "color":  "Nero",
+    "expansion":  "EO",
+    "number":  72,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-072.jpg"
 }

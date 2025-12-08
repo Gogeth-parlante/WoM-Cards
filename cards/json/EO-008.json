@@ -1,10 +1,10 @@
-{
-  "id": "EO-008",
-  "name": "Macchia Nera - Guardiano Ombra",
-  "name_normalized": "macchia nera - guardiano ombra",
-  "type": "Mago",
-  "color": "Nero",
-  "expansion": "EO",
-  "number": 8,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-008.jpg"
+﻿{
+    "id":  "EO-008",
+    "name":  "Macchia Nera - Guardiano Ombra",
+    "name_normalized":  "macchia nera guardiano ombra",
+    "type":  "Mago",
+    "color":  "Nero",
+    "expansion":  "EO",
+    "number":  8,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-008.jpg"
 }

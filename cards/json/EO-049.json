@@ -1,10 +1,10 @@
-{
-  "id": "EO-049",
-  "name": "Orchetto-Faina Disgustato",
-  "name_normalized": "orchetto-faina disgustato",
-  "type": "Magia",
-  "color": "Giallo",
-  "expansion": "EO",
-  "number": 49,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-049.jpg"
+﻿{
+    "id":  "EO-049",
+    "name":  "Orchetto-Faina Disgustato",
+    "name_normalized":  "orchettofaina disgustato",
+    "type":  "Magia",
+    "color":  "Giallo",
+    "expansion":  "EO",
+    "number":  49,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-049.jpg"
 }

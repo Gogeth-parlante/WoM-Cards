@@ -1,10 +1,10 @@
-{
-  "id": "T-009",
-  "name": "Zefren - Drago Inferocito",
-  "name_normalized": "zefren - drago inferocito",
-  "type": "Mago",
-  "color": "Rosso",
-  "expansion": "T",
-  "number": 9,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-009.jpg"
+﻿{
+    "id":  "T-009",
+    "name":  "Zefren - Drago Inferocito",
+    "name_normalized":  "zefren drago inferocito",
+    "type":  "Mago",
+    "color":  "Rosso",
+    "expansion":  "T",
+    "number":  9,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-009.jpg"
 }

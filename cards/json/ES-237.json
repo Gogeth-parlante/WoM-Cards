@@ -1,10 +1,10 @@
-{
-  "id": "ES-237",
-  "name": "Fuoco Freddo",
-  "name_normalized": "fuoco freddo",
-  "type": "Magia",
-  "color": "Nero",
-  "expansion": "ES",
-  "number": 237,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/ES-237.jpg"
+﻿{
+    "id":  "ES-237",
+    "name":  "Fuoco Freddo",
+    "name_normalized":  "fuoco freddo",
+    "type":  "Magia",
+    "color":  "Nero",
+    "expansion":  "ES",
+    "number":  237,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/ES-237.jpg"
 }

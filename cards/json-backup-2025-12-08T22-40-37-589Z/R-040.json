@@ -1,0 +1,10 @@
+{
+  "id": "R-040",
+  "name": "Drago Giocoliere",
+  "name_normalized": "drago giocoliere",
+  "type": "Magia",
+  "color": "Rosso",
+  "expansion": "R",
+  "number": 40,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-040.jpg"
+}

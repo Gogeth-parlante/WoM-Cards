@@ -1,10 +1,10 @@
-{
-  "id": "T-007",
-  "name": "Neraja - Strega Feroce",
-  "name_normalized": "neraja - strega feroce",
-  "type": "Mago",
-  "color": "Rosso",
-  "expansion": "T",
-  "number": 7,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-007.jpg"
+﻿{
+    "id":  "T-007",
+    "name":  "Neraja - Strega Feroce",
+    "name_normalized":  "neraja strega feroce",
+    "type":  "Mago",
+    "color":  "Rosso",
+    "expansion":  "T",
+    "number":  7,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-007.jpg"
 }

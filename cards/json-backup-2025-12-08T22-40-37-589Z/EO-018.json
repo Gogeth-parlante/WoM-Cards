@@ -1,0 +1,10 @@
+{
+  "id": "EO-018",
+  "name": "Barriera di Nuvole",
+  "name_normalized": "barriera di nuvole",
+  "type": "Magia",
+  "color": "Blu",
+  "expansion": "EO",
+  "number": 18,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-018.jpg"
+}

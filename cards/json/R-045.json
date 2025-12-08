@@ -1,10 +1,10 @@
-{
-  "id": "R-045",
-  "name": "Rap del Drago Rock",
-  "name_normalized": "rap del drago rock",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "R",
-  "number": 45,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-045.jpg"
+﻿{
+    "id":  "R-045",
+    "name":  "Rap del Drago Rock",
+    "name_normalized":  "rap del drago rock",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "R",
+    "number":  45,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-045.jpg"
 }

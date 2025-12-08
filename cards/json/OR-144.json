@@ -1,10 +1,10 @@
-{
-  "id": "OR-144",
-  "name": "Rocca del Golem Dormiente",
-  "name_normalized": "rocca del golem dormiente",
-  "type": "Castello",
-  "color": "Giallo",
-  "expansion": "OR",
-  "number": 144,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-144.jpg"
+﻿{
+    "id":  "OR-144",
+    "name":  "Rocca del Golem Dormiente",
+    "name_normalized":  "rocca del golem dormiente",
+    "type":  "Castello",
+    "color":  "Giallo",
+    "expansion":  "OR",
+    "number":  144,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-144.jpg"
 }

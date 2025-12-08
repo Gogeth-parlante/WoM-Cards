@@ -1,10 +1,10 @@
-{
-  "id": "EO-087",
-  "name": "Doppio Attacco Fulminante",
-  "name_normalized": "doppio attacco fulminante",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "EO",
-  "number": 87,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-087.jpg"
+﻿{
+    "id":  "EO-087",
+    "name":  "Doppio Attacco Fulminante",
+    "name_normalized":  "doppio attacco fulminante",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "EO",
+    "number":  87,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-087.jpg"
 }

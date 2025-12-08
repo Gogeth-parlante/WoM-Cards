@@ -1,10 +1,10 @@
-{
-  "id": "EO-025",
-  "name": "Frittelle Nutrienti",
-  "name_normalized": "frittelle nutrienti",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "EO",
-  "number": 25,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-025.jpg"
+﻿{
+    "id":  "EO-025",
+    "name":  "Frittelle Nutrienti",
+    "name_normalized":  "frittelle nutrienti",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "EO",
+    "number":  25,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-025.jpg"
 }

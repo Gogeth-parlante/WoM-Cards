@@ -1,10 +1,10 @@
-{
-  "id": "R-043",
-  "name": "Gargoyle Draconici",
-  "name_normalized": "gargoyle draconici",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "R",
-  "number": 43,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-043.jpg"
+﻿{
+    "id":  "R-043",
+    "name":  "Gargoyle Draconici",
+    "name_normalized":  "gargoyle draconici",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "R",
+    "number":  43,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-043.jpg"
 }

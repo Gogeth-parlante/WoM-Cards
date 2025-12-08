@@ -1,10 +1,10 @@
-{
-  "id": "T-032",
-  "name": "Sdoppiamento",
-  "name_normalized": "sdoppiamento",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "T",
-  "number": 32,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-032.jpg"
+﻿{
+    "id":  "T-032",
+    "name":  "Sdoppiamento",
+    "name_normalized":  "sdoppiamento",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "T",
+    "number":  32,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-032.jpg"
 }

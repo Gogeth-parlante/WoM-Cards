@@ -1,10 +1,10 @@
-{
-  "id": "EO-012",
-  "name": "Zefren - Drago Strategia",
-  "name_normalized": "zefren - drago strategia",
-  "type": "Mago",
-  "color": "Rosso",
-  "expansion": "EO",
-  "number": 12,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-012.jpg"
+﻿{
+    "id":  "EO-012",
+    "name":  "Zefren - Drago Strategia",
+    "name_normalized":  "zefren drago strategia",
+    "type":  "Mago",
+    "color":  "Rosso",
+    "expansion":  "EO",
+    "number":  12,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-012.jpg"
 }

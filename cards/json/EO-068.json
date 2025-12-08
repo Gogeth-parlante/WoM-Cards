@@ -1,10 +1,10 @@
-{
-  "id": "EO-068",
-  "name": "Furia di Drago",
-  "name_normalized": "furia di drago",
-  "type": "Magia",
-  "color": "Nero",
-  "expansion": "EO",
-  "number": 68,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-068.jpg"
+﻿{
+    "id":  "EO-068",
+    "name":  "Furia di Drago",
+    "name_normalized":  "furia di drago",
+    "type":  "Magia",
+    "color":  "Nero",
+    "expansion":  "EO",
+    "number":  68,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-068.jpg"
 }

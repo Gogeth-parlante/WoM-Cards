@@ -1,10 +1,10 @@
-{
-  "id": "T-112",
-  "name": "Rocca di Durlan",
-  "name_normalized": "rocca di durlan",
-  "type": "Castello",
-  "color": "Blu",
-  "expansion": "T",
-  "number": 112,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-112.jpg"
+﻿{
+    "id":  "T-112",
+    "name":  "Rocca di Durlan",
+    "name_normalized":  "rocca di durlan",
+    "type":  "Castello",
+    "color":  "Blu",
+    "expansion":  "T",
+    "number":  112,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-112.jpg"
 }

@@ -1,0 +1,10 @@
+{
+  "id": "OR-032",
+  "name": "Droide da Battaglia",
+  "name_normalized": "droide da battaglia",
+  "type": "Magia",
+  "color": "Blu",
+  "expansion": "OR",
+  "number": 32,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-032.jpg"
+}

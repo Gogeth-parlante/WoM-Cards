@@ -1,10 +1,10 @@
-{
-  "id": "EO-150",
-  "name": "Accelera Magia",
-  "name_normalized": "accelera magia",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "EO",
-  "number": 150,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-150.jpg"
+﻿{
+    "id":  "EO-150",
+    "name":  "Accelera Magia",
+    "name_normalized":  "accelera magia",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "EO",
+    "number":  150,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-150.jpg"
 }

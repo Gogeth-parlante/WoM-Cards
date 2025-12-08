@@ -1,0 +1,10 @@
+{
+  "id": "EO-099",
+  "name": "Nullifica",
+  "name_normalized": "nullifica",
+  "type": "Magia",
+  "color": "Rosso",
+  "expansion": "EO",
+  "number": 99,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-099.jpg"
+}

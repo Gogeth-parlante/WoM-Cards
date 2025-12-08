@@ -1,0 +1,10 @@
+{
+  "id": "OR-100",
+  "name": "Oscurit�",
+  "name_normalized": "oscurita",
+  "type": "Magia",
+  "color": "Rosso",
+  "expansion": "OR",
+  "number": 100,
+  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-100.jpg"
+}

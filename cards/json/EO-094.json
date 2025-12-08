@@ -1,10 +1,10 @@
-{
-  "id": "EO-094",
-  "name": "Gigantismo",
-  "name_normalized": "gigantismo",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "EO",
-  "number": 94,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-094.jpg"
+﻿{
+    "id":  "EO-094",
+    "name":  "Gigantismo",
+    "name_normalized":  "gigantismo",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "EO",
+    "number":  94,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-094.jpg"
 }

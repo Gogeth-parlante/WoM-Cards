@@ -1,10 +1,10 @@
-{
-  "id": "OR-005",
-  "name": "Yuri - Mastro Cuoco",
-  "name_normalized": "yuri - mastro cuoco",
-  "type": "Mago",
-  "color": "Blu",
-  "expansion": "OR",
-  "number": 5,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-005.jpg"
+﻿{
+    "id":  "OR-005",
+    "name":  "Yuri - Mastro Cuoco",
+    "name_normalized":  "yuri mastro cuoco",
+    "type":  "Mago",
+    "color":  "Blu",
+    "expansion":  "OR",
+    "number":  5,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-005.jpg"
 }

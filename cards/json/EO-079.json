@@ -1,10 +1,10 @@
-{
-  "id": "EO-079",
-  "name": "Sifone Mistico Tipo Nightmare",
-  "name_normalized": "sifone mistico tipo nightmare",
-  "type": "Magia",
-  "color": "Nero",
-  "expansion": "EO",
-  "number": 79,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-079.jpg"
+﻿{
+    "id":  "EO-079",
+    "name":  "Sifone Mistico Tipo Nightmare",
+    "name_normalized":  "sifone mistico tipo nightmare",
+    "type":  "Magia",
+    "color":  "Nero",
+    "expansion":  "EO",
+    "number":  79,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-079.jpg"
 }

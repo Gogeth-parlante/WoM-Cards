@@ -1,10 +1,10 @@
-{
-  "id": "R-071",
-  "name": "Non Sbafartela Tutta!",
-  "name_normalized": "non sbafartela tutta!",
-  "type": "Codice",
-  "color": "-",
-  "expansion": "R",
-  "number": 71,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-071.jpg"
+﻿{
+    "id":  "R-071",
+    "name":  "Non Sbafartela Tutta!",
+    "name_normalized":  "non sbafartela tutta",
+    "type":  "Codice",
+    "color":  "-",
+    "expansion":  "R",
+    "number":  71,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/R-071.jpg"
 }

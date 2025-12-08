@@ -1,10 +1,10 @@
-{
-  "id": "EO-136",
-  "name": "Castello dei Druidi",
-  "name_normalized": "castello dei druidi",
-  "type": "Castello",
-  "color": "Rosso",
-  "expansion": "EO",
-  "number": 136,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-136.jpg"
+﻿{
+    "id":  "EO-136",
+    "name":  "Castello dei Druidi",
+    "name_normalized":  "castello dei druidi",
+    "type":  "Castello",
+    "color":  "Rosso",
+    "expansion":  "EO",
+    "number":  136,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-136.jpg"
 }

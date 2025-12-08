@@ -1,10 +1,10 @@
-{
-  "id": "T-024",
-  "name": "Leggerezza",
-  "name_normalized": "leggerezza",
-  "type": "Magia",
-  "color": "Blu",
-  "expansion": "T",
-  "number": 24,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-024.jpg"
+﻿{
+    "id":  "T-024",
+    "name":  "Leggerezza",
+    "name_normalized":  "leggerezza",
+    "type":  "Magia",
+    "color":  "Blu",
+    "expansion":  "T",
+    "number":  24,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-024.jpg"
 }

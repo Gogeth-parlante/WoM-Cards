@@ -1,10 +1,10 @@
-{
-  "id": "EO-153",
-  "name": "Dreadking - Supremo Dominatore",
-  "name_normalized": "dreadking - supremo dominatore",
-  "type": "Mago",
-  "color": "Nero",
-  "expansion": "EO",
-  "number": 153,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-153.jpg"
+﻿{
+    "id":  "EO-153",
+    "name":  "Dreadking - Supremo Dominatore",
+    "name_normalized":  "dreadking supremo dominatore",
+    "type":  "Mago",
+    "color":  "Nero",
+    "expansion":  "EO",
+    "number":  153,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/EO-153.jpg"
 }

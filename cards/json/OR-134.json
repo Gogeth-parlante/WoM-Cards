@@ -1,10 +1,10 @@
-{
-  "id": "OR-134",
-  "name": "Spada di Arborea",
-  "name_normalized": "spada di arborea",
-  "type": "Magia",
-  "color": "Verde",
-  "expansion": "OR",
-  "number": 134,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-134.jpg"
+﻿{
+    "id":  "OR-134",
+    "name":  "Spada di Arborea",
+    "name_normalized":  "spada di arborea",
+    "type":  "Magia",
+    "color":  "Verde",
+    "expansion":  "OR",
+    "number":  134,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/OR-134.jpg"
 }

@@ -1,10 +1,10 @@
-{
-  "id": "T-079",
-  "name": "Mira Infallibile",
-  "name_normalized": "mira infallibile",
-  "type": "Magia",
-  "color": "Rosso",
-  "expansion": "T",
-  "number": 79,
-  "image_url": "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-079.jpg"
+﻿{
+    "id":  "T-079",
+    "name":  "Mira Infallibile",
+    "name_normalized":  "mira infallibile",
+    "type":  "Magia",
+    "color":  "Rosso",
+    "expansion":  "T",
+    "number":  79,
+    "image_url":  "https://raw.githubusercontent.com/Gogeth-parlante/WoM-Cards/main/cards/T-079.jpg"
 }
