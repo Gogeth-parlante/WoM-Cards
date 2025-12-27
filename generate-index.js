@@ -29,10 +29,10 @@ for (const file of files) {
   const name = data.name;
   const color = (data.color || "").toLowerCase();
 
-  if (!name || !color) {
-    console.warn(`⚠️ Carta ignorata (name/color mancante): ${file}`);
-    continue;
-  }
+  if (!name || (color !== "-" && !color)) {
+  console.warn(`⚠️ Carta ignorata (name/color mancante): ${file}`);
+  continue;
+}
 
   const key = normalizeName(name);
 

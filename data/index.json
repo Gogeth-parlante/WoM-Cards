@@ -1,1699 +1,3520 @@
 {
-  "paperina maga di primo livello": [
-    "OR-001"
-  ],
-  "paperina maga di secondo livello": [
-    "OR-002"
-  ],
-  "topolino apprendista stregone": [
-    "OR-003"
-  ],
-  "topolino mago di primo livello": [
-    "OR-004"
-  ],
-  "yuri mastro cuoco": [
-    "OR-005"
-  ],
-  "zaius drago rosicchiaossa": [
-    "OR-006"
-  ],
-  "bassotto unus furfante di strada": [
-    "OR-007"
-  ],
-  "bruma cuoco brontolone": [
-    "OR-008"
-  ],
-  "garma strega dispettosa": [
-    "OR-009"
-  ],
-  "pippo stregone con borsa magica": [
-    "OR-010"
-  ],
-  "pippo mago recalcitrante": [
-    "OR-011"
-  ],
-  "zoron drago pigro": [
-    "OR-012"
-  ],
-  "gambadilegno ladro stregone": [
-    "OR-013"
-  ],
-  "minni maga di secondo livello": [
-    "OR-014"
-  ],
-  "minni principessa di moonland": [
-    "OR-015"
-  ],
-  "neraja strega vendicativa": [
-    "OR-016"
-  ],
-  "paperino mago di primo livello": [
-    "OR-017"
-  ],
-  "paperino mago di secondo livello": [
-    "OR-018"
-  ],
-  "zefren drago fiammeggiante": [
-    "OR-019"
-  ],
-  "amelia strega ambiziosa": [
-    "OR-020"
-  ],
-  "bassotto tertius dal manto invisibile": [
-    "OR-021"
-  ],
-  "clarabella maga di primo livello": [
-    "OR-022"
-  ],
-  "clarabella maga di secondo livello": [
-    "OR-023"
-  ],
-  "gambadilegno furfante astuto": [
-    "OR-024"
-  ],
-  "yomper mago goloso": [
-    "OR-025"
-  ],
-  "bagliore del lampo": [
-    "OR-026",
-    "R-038"
-  ],
-  "barriera di catrame": [
-    "OR-027",
-    "ES-239"
-  ],
-  "boom sonico": [
-    "OR-028"
-  ],
-  "cascata eterea": [
-    "OR-029"
-  ],
-  "castel shift": [
-    "OR-030",
-    "OR-112"
-  ],
-  "doppio fulmine a spirale": [
-    "OR-031",
-    "ES-238"
-  ],
-  "droide da battaglia": [
-    "OR-032"
-  ],
-  "evocazione di pioggia": [
-    "OR-033",
-    "EO-023"
-  ],
-  "fulmine celestiale": [
-    "OR-034"
-  ],
-  "guerriero dell arazzo": [
-    "OR-035",
-    "R-011"
-  ],
-  "guerriero dell arazzo a sei braccia": [
-    "OR-036"
-  ],
-  "inganno mutevole": [
-    "OR-037"
-  ],
-  "lampo della verita": [
-    "OR-038"
-  ],
-  "lampo ipnotico": [
-    "OR-039",
-    "EO-028"
-  ],
-  "luce abbagliante": [
-    "OR-040",
-    "EO-097"
-  ],
-  "nebbia improvvisa": [
-    "OR-041"
-  ],
-  "nido abominevole": [
-    "OR-042"
-  ],
-  "onda travolgente": [
-    "OR-043",
-    "R-013"
-  ],
-  "pozione rigenerante": [
-    "OR-044"
-  ],
-  "preveggenza": [
-    "OR-045",
-    "OR-101"
-  ],
-  "scariche di fulmini": [
-    "OR-046",
-    "EO-102"
-  ],
-  "sifone mistico tipo vortex": [
-    "OR-047"
-  ],
-  "simulatore di vista di drago": [
-    "OR-048"
-  ],
-  "spada incantata": [
-    "OR-049"
-  ],
-  "supervelocita": [
-    "OR-050",
-    "EO-156",
-    "R-076"
-  ],
-  "tormenta di ghiaccio": [
-    "OR-051"
-  ],
-  "tornado mistico": [
-    "OR-052",
-    "R-018"
-  ],
-  "urto sonico": [
-    "OR-053"
-  ],
-  "androidi gemelli": [
-    "OR-054"
-  ],
-  "artigli devastatori": [
-    "OR-055"
-  ],
-  "ascia diabolica": [
-    "OR-056"
-  ],
-  "attacco ingannevole": [
-    "OR-057",
-    "EO-061"
-  ],
-  "barriera di pietre": [
-    "OR-058"
-  ],
-  "bestia del malaugurio": [
-    "OR-059"
-  ],
-  "drago meccanico": [
-    "OR-060"
-  ],
-  "gargoyle forzuto": [
-    "OR-061"
-  ],
-  "gargoyle forzuto in catene": [
-    "OR-062",
-    "EO-159"
-  ],
-  "gargoyle meditativo": [
-    "OR-063",
-    "R-024"
-  ],
-  "gargoyle timido": [
-    "OR-064"
-  ],
-  "golem di sabbia": [
-    "OR-065"
-  ],
-  "guerrieri meccanici a doppia carica": [
-    "OR-066"
-  ],
-  "iena delle steppe": [
-    "OR-067"
-  ],
-  "liquame putrido": [
-    "OR-068"
-  ],
-  "magia annullata": [
-    "OR-069"
-  ],
-  "muro a levitazione": [
-    "OR-070"
-  ],
-  "mutazione mannara": [
-    "OR-071"
-  ],
-  "onda tellurica": [
-    "OR-072"
-  ],
-  "ondata di rocce": [
-    "OR-073"
-  ],
-  "orchetto faina": [
-    "OR-074"
-  ],
-  "orda di orchetti faina": [
-    "OR-075",
-    "R-054"
-  ],
-  "palude impenetrabile": [
-    "OR-076",
-    "EO-071"
-  ],
-  "pietrificazione": [
-    "OR-077"
-  ],
-  "porta dell ignoto": [
-    "OR-078"
-  ],
-  "pulci delle sabbie": [
-    "OR-079"
-  ],
-  "sabbie mobili": [
-    "OR-080"
-  ],
-  "zanne tritura ossa": [
-    "OR-081"
-  ],
-  "ala meccanica": [
-    "OR-082"
-  ],
-  "alito del drago": [
-    "OR-083",
-    "EO-084"
-  ],
-  "ampolla di magma": [
-    "OR-084"
-  ],
-  "amuleto del potere": [
-    "OR-085"
-  ],
-  "arco di fulmini": [
-    "OR-086",
-    "EO-017"
-  ],
-  "artigli d ombra": [
-    "OR-087"
-  ],
-  "artiglio meccanico": [
-    "OR-088"
-  ],
-  "bagliore accecante": [
-    "OR-089"
-  ],
-  "boom sonico avvolgente": [
-    "OR-090"
-  ],
-  "catena del dominatore": [
-    "OR-091"
-  ],
-  "fafnir": [
-    "OR-092"
-  ],
-  "gabbia oscura": [
-    "OR-093"
-  ],
-  "gargoyle spia": [
-    "OR-094",
-    "EO-147"
-  ],
-  "ingordigia irrefrenabile": [
-    "OR-095",
-    "EO-096"
-  ],
-  "ipnosi del drago": [
-    "OR-096"
-  ],
-  "lupo di fuoco": [
-    "OR-097"
-  ],
-  "muro incandescente": [
-    "OR-098"
-  ],
-  "nebbia di drago": [
-    "OR-099"
-  ],
-  "oscurita": [
-    "OR-100"
-  ],
-  "raffreddore di drago": [
-    "OR-102"
-  ],
-  "saggezza di drago": [
-    "OR-103",
-    "EO-121"
-  ],
-  "salsiccie stritolanti": [
-    "OR-104"
-  ],
-  "sifone mistico tipo firetwister": [
-    "OR-105"
-  ],
-  "sifone mistico tipo typhon": [
-    "OR-106"
-  ],
-  "soffietto lanciafiamme": [
-    "OR-107"
-  ],
-  "tornado del drago": [
-    "OR-108"
-  ],
-  "vampa bruciante": [
-    "OR-109"
-  ],
-  "balzo supersonico": [
-    "OR-110"
-  ],
-  "bordone spezzato": [
-    "OR-111",
-    "EO-063"
-  ],
-  "cortina fumogena": [
-    "OR-113"
-  ],
-  "corvo di sventura": [
-    "OR-114"
-  ],
-  "destrezza elfica": [
-    "OR-115"
-  ],
-  "edera urticante": [
-    "OR-116"
-  ],
-  "fantoccio mutaforma": [
-    "OR-117"
-  ],
-  "fiore dell oblio": [
-    "OR-118"
-  ],
-  "foresta tenebrosa": [
-    "OR-119"
-  ],
-  "guerriero meccanico magnetico": [
-    "OR-120",
-    "EO-046"
-  ],
-  "incrocio di bordoni": [
-    "OR-121"
-  ],
-  "lupo grigio": [
-    "OR-122"
-  ],
-  "muro di alghe": [
-    "OR-123"
-  ],
-  "onda d urto spaccabarriere": [
-    "OR-124"
-  ],
-  "orchetto faina berserk": [
-    "OR-125",
-    "R-085"
-  ],
-  "petali di loto": [
-    "OR-126"
-  ],
-  "polline starnutifero": [
-    "OR-127"
-  ],
-  "rospo diabolico": [
-    "OR-128"
-  ],
-  "sbarre avvolgenti": [
-    "OR-129"
-  ],
-  "sciame di locuste": [
-    "OR-130"
-  ],
-  "scudo di corteccia": [
-    "OR-131"
-  ],
-  "semi energetici": [
-    "OR-132"
-  ],
-  "sfera occultante": [
-    "OR-133"
-  ],
-  "spada di arborea": [
-    "OR-134"
-  ],
-  "specchio infranto": [
-    "OR-135"
-  ],
-  "tanfo orrendo": [
-    "OR-136"
-  ],
-  "viticci avvolgenti": [
-    "OR-137"
-  ],
-  "viticcio carnivoro": [
-    "OR-138",
-    "R-058"
-  ],
-  "caer clock": [
-    "OR-139"
-  ],
-  "grandhaven": [
-    "OR-140"
-  ],
-  "rocca di crow": [
-    "OR-141"
-  ],
-  "castello dei druidi": [
-    "OR-142",
-    "EO-136"
-  ],
-  "castello di hanubis": [
-    "OR-143"
-  ],
-  "rocca del golem dormiente": [
-    "OR-144"
-  ],
-  "biblioteca di bukara": [
-    "OR-145"
-  ],
-  "caer spider": [
-    "OR-146",
-    "EO-165"
-  ],
-  "castello delle zanne": [
-    "OR-147"
-  ],
-  "castello del grande albero": [
-    "OR-148"
-  ],
-  "castello di ekrendorf": [
-    "OR-149",
-    "EO-163"
-  ],
-  "miceland": [
-    "OR-150"
-  ],
-  "macchia nera signore degli inganni": [
-    "OR-151"
-  ],
-  "kiki": [
-    "OR-152"
-  ],
-  "ioshi mago voluminoso": [
-    "T-001"
-  ],
-  "topolino mago di quarto livello": [
-    "T-002"
-  ],
-  "zaius drago scavatore": [
-    "T-003"
-  ],
-  "garma megera vanitosa": [
-    "T-004"
-  ],
-  "gurabashi mago forzuto": [
-    "T-005"
-  ],
-  "pippo mago di terzo livello": [
-    "T-006"
-  ],
-  "neraja strega feroce": [
-    "T-007"
-  ],
-  "uchibiri mago ingombrante": [
-    "T-008"
-  ],
-  "zefren drago inferocito": [
-    "T-009"
-  ],
-  "amelia strega vanagloriosa": [
-    "T-010"
-  ],
-  "generale garth drago stratega": [
-    "T-011"
-  ],
-  "paperino mago di terzo livello": [
-    "T-012"
-  ],
-  "ala scudo antifiamma": [
-    "T-013"
-  ],
-  "annulla materia": [
-    "T-014"
-  ],
-  "blocca tempesta": [
-    "T-015",
-    "R-030"
-  ],
-  "cacciatore di draghi": [
-    "T-016"
-  ],
-  "clone berserk": [
-    "T-017"
-  ],
-  "dissolvenza": [
-    "T-018"
-  ],
-  "gabbia mistica": [
-    "T-019"
-  ],
-  "incanto ciarliero": [
-    "T-020"
-  ],
-  "incanto miniaturizzante": [
-    "T-021"
-  ],
-  "incubi": [
-    "T-022"
-  ],
-  "ira mannara": [
-    "T-023"
-  ],
-  "leggerezza": [
-    "T-024"
-  ],
-  "melodia frastornante": [
-    "T-025"
-  ],
-  "nebbia avvolgente": [
-    "T-026"
-  ],
-  "nembi ciclonici": [
-    "T-027"
-  ],
-  "percezione alterata": [
-    "T-028"
-  ],
-  "sbadiglio incontenibile": [
-    "T-029"
-  ],
-  "schiuma antifiamma": [
-    "T-030",
-    "EO-034"
-  ],
-  "scudo di onde": [
-    "T-031"
-  ],
-  "sdoppiamento": [
-    "T-032"
-  ],
-  "tifone antigravita": [
-    "T-033"
-  ],
-  "tornado irrefrenabile": [
-    "T-034"
-  ],
-  "trappola di ghiaccio": [
-    "T-035"
-  ],
-  "trasmutazione": [
-    "T-036",
-    "EO-080"
-  ],
-  "tristezza": [
-    "T-037"
-  ],
-  "avviso dal futuro": [
-    "T-038",
-    "ES-235"
-  ],
-  "barriera di cristallo": [
-    "T-039"
-  ],
-  "barriera di siepi": [
-    "T-040",
-    "EO-110"
-  ],
-  "bordone scheggiato": [
-    "T-041",
-    "EO-040"
-  ],
-  "buca occultante": [
-    "T-042",
-    "EO-112"
-  ],
-  "cascata di pozioni": [
-    "T-043"
-  ],
-  "colpo di bordone": [
-    "T-044"
-  ],
-  "craniata dirompente": [
-    "T-045",
-    "EO-043"
-  ],
-  "cristallizzazione": [
-    "T-046"
-  ],
-  "cupidigia": [
-    "T-047",
-    "EO-064"
-  ],
-  "disorientamento": [
-    "T-048"
-  ],
-  "droide granchio": [
-    "T-049"
-  ],
-  "energia rocciosa": [
-    "T-050"
-  ],
-  "fusione metallica": [
-    "T-051"
-  ],
-  "gigantismo": [
-    "T-052",
-    "EO-094"
-  ],
-  "grata mistica": [
-    "T-053"
-  ],
-  "luce della verita": [
-    "T-054"
-  ],
-  "mazza rimbombante": [
-    "T-055",
-    "EO-098"
-  ],
-  "melassa zuccherina": [
-    "T-056"
-  ],
-  "rifugio d emergenza": [
-    "T-057"
-  ],
-  "sasso mordace": [
-    "T-058"
-  ],
-  "sifone mistico tipo gormex": [
-    "T-059"
-  ],
-  "terrore raggelante": [
-    "T-060"
-  ],
-  "unione di intenti": [
-    "T-061"
-  ],
-  "zampata di drago": [
-    "T-062"
-  ],
-  "annulla magia": [
-    "T-063"
-  ],
-  "attacco triplo": [
-    "T-064"
-  ],
-  "boom sonico rintronante": [
-    "T-065"
-  ],
-  "bordone mimetico": [
-    "T-066"
-  ],
-  "cassaforte della verita": [
-    "T-067"
-  ],
-  "collera annebbiante": [
-    "T-068"
-  ],
-  "corolla avvolgente": [
-    "T-069"
-  ],
-  "destriero di fuoco": [
-    "T-070",
-    "EO-020"
-  ],
-  "fascino ammaliante": [
-    "T-071",
-    "R-022"
-  ],
-  "fiamma avvolgente": [
-    "T-072"
-  ],
-  "fiamme carbonizzanti": [
-    "T-073"
-  ],
-  "fiuto sopraffino": [
-    "T-074"
-  ],
-  "fulmine inceneritore": [
-    "T-075"
-  ],
-  "fuoco del tradimento": [
-    "T-076"
-  ],
-  "fuoco freddo": [
-    "T-077",
-    "ES-237"
-  ],
-  "malanno draghesco": [
-    "T-078"
-  ],
-  "mira infallibile": [
-    "T-079",
-    "ES-236"
-  ],
-  "onda rilucente": [
-    "T-080"
-  ],
-  "particelle eteree": [
-    "T-081"
-  ],
-  "scia carbonizzante": [
-    "T-082"
-  ],
-  "scintille appiccafuoco": [
-    "T-083"
-  ],
-  "scudo anti drago": [
-    "T-084"
-  ],
-  "sifone mistico a balestra": [
-    "T-085"
-  ],
-  "vista mannara": [
-    "T-086"
-  ],
-  "zizzania": [
-    "T-087",
-    "R-049"
-  ],
-  "amuletofonino veggente": [
-    "T-088"
-  ],
-  "avvizzimento istantaneo": [
-    "T-089"
-  ],
-  "azzannata rabbiosa": [
-    "T-090"
-  ],
-  "barlume di veggenza": [
-    "T-091"
-  ],
-  "bile di troll": [
-    "T-092"
-  ],
-  "bordone invisibile": [
-    "T-093"
-  ],
-  "calderone abominevole": [
-    "T-094"
-  ],
-  "coltre di invisibilita": [
-    "T-095"
-  ],
-  "doppia velocita": [
-    "T-096"
-  ],
-  "droide scout": [
-    "T-097"
-  ],
-  "fumo nauseante": [
-    "T-098"
-  ],
-  "fungo aureo": [
-    "T-099",
-    "TD01-021"
-  ],
-  "incantesimo riflettente": [
-    "T-100"
-  ],
-  "intrico aggrovigliante": [
-    "T-101"
-  ],
-  "lingua velenosa": [
-    "T-102"
-  ],
-  "mantide di palude": [
-    "T-103"
-  ],
-  "olezzo obnubilante": [
-    "T-104"
-  ],
-  "pergamena del potere": [
-    "T-105"
-  ],
-  "rapa diabolica": [
-    "T-106"
-  ],
-  "scambio di diamagic": [
-    "T-107"
-  ],
-  "semi della conoscenza": [
-    "T-108"
-  ],
-  "tela dell irrealta": [
-    "T-109"
-  ],
-  "tentacoli vegetali": [
-    "T-110"
-  ],
-  "viticcio esploratore": [
-    "T-111",
-    "EO-130"
-  ],
-  "rocca di durlan": [
-    "T-112"
-  ],
-  "caer fist": [
-    "T-113"
-  ],
-  "caer meridian": [
-    "T-114"
-  ],
-  "grawlburg": [
-    "T-115"
-  ],
-  "aiuto inatteso": [
-    "T-116"
-  ],
-  "pluto mannaro": [
-    "T-117"
-  ],
-  "amuletofonino": [
-    "T-118"
-  ],
-  "boom sonico echeggiante": [
-    "T-119"
-  ],
-  "pentolone magico": [
-    "T-120"
-  ],
-  "la grande corona": [
-    "T-121",
-    "PDA-013"
-  ],
-  "clarabella maga musicista": [
-    "T-122"
-  ],
-  "roknar": [
-    "T-123",
-    "PDA-022"
-  ],
-  "pegas": [
-    "T-124"
-  ],
-  "brama di potere": [
-    "T-125"
-  ],
-  "risveglio dei draghi antichi": [
-    "T-126"
-  ],
-  "viticci stritolanti": [
-    "T-127"
-  ],
-  "arena dei desideri": [
-    "T-128"
-  ],
-  "garubashi mago colossale": [
-    "T-129"
-  ],
-  "bassotto secundus mago carrarmato": [
-    "T-130"
-  ],
-  "yomper mago pasticcione": [
-    "T-131"
-  ],
-  "minni maga esperta": [
-    "T-132"
-  ],
-  "svelare gli inganni": [
-    "T-133"
-  ],
-  "boom sonico sotterraneo": [
-    "T-134"
-  ],
-  "essiccare": [
-    "T-135"
-  ],
-  "bilancia dell equilibrio": [
-    "T-136"
-  ],
-  "labirinto del pendolo": [
-    "T-137",
-    "R-060"
-  ],
-  "labirinto dei rovi": [
-    "T-138"
-  ],
-  "stanza girevole": [
-    "T-139"
-  ],
-  "rocca del fungo": [
-    "T-140"
-  ],
-  "nereus mago sapiente": [
-    "T-141"
-  ],
-  "pugno magico": [
-    "T-142"
-  ],
-  "pozzo del ghouler": [
-    "T-143"
-  ],
-  "topolino mago aggressivo": [
-    "T-144"
-  ],
-  "dolci parole": [
-    "T-145"
-  ],
-  "inganno sottile": [
-    "T-146",
-    "R-044"
-  ],
-  "dicerie velenose": [
-    "T-147"
-  ],
-  "sfera del caos": [
-    "T-148"
-  ],
-  "labirinto della lunga gora": [
-    "T-149"
-  ],
-  "casa del sonno": [
-    "T-150"
-  ],
-  "bastione del drago": [
-    "T-151"
-  ],
-  "smart flash mago fumineo": [
-    "EO-001"
-  ],
-  "zaius drago impetuoso": [
-    "EO-002"
-  ],
-  "bruma cuoco pigro": [
-    "EO-003"
-  ],
-  "fire flash mago fulminante": [
-    "EO-004"
-  ],
-  "pippo mago ingegnere": [
-    "EO-005"
-  ],
-  "zoron drago sonnolento": [
-    "EO-006"
-  ],
-  "bassotto unus ladro sciocco": [
-    "EO-007"
-  ],
-  "macchia nera guardiano ombra": [
-    "EO-008"
-  ],
-  "minni maga diabolica": [
-    "EO-009"
-  ],
-  "topolino stregone supremo": [
-    "EO-010"
-  ],
-  "red flash mago velocista": [
-    "EO-011"
-  ],
-  "zefren drago strategia": [
-    "EO-012"
-  ],
-  "bassotto tertius brigante in miniatura": [
-    "EO-013"
-  ],
-  "gambadilegno mago tormentato": [
-    "EO-014"
-  ],
-  "yuri cuoco esperto": [
-    "EO-015"
-  ],
-  "alleanza mistica": [
-    "EO-016"
-  ],
-  "barriera di nuvole": [
-    "EO-018"
-  ],
-  "barriera istantanea": [
-    "EO-019"
-  ],
-  "disorientamenteo": [
-    "EO-021"
-  ],
-  "dono ingannevole": [
-    "EO-022"
-  ],
-  "fato ineluttabile": [
-    "EO-024"
-  ],
-  "frittelle nutrienti": [
-    "EO-025"
-  ],
-  "guerriero ignifugo": [
-    "EO-026"
-  ],
-  "kiki dispettosa": [
-    "EO-027"
-  ],
-  "mago innamorato": [
-    "EO-029"
-  ],
-  "pesca esagerata": [
-    "EO-030"
-  ],
-  "pioggia dirompente": [
-    "EO-031"
-  ],
-  "polvere cometa": [
-    "EO-032"
-  ],
-  "risorse inaspettate": [
-    "EO-033"
-  ],
-  "sifone mistico tipo trappola": [
-    "EO-035"
-  ],
-  "soffio di ghiaccio": [
-    "EO-036"
-  ],
-  "spreco di forze": [
-    "EO-037"
-  ],
-  "telepatia": [
-    "EO-038"
-  ],
-  "agguato degli orchetti faina": [
-    "EO-039"
-  ],
-  "catena di luce": [
-    "EO-041"
-  ],
-  "ciotola parlante": [
-    "EO-042"
-  ],
-  "gargoyle dominante": [
-    "EO-044"
-  ],
-  "grata di metallo": [
-    "EO-045"
-  ],
-  "luce illuminante": [
-    "EO-047"
-  ],
-  "muro di levitazione": [
-    "EO-048"
-  ],
-  "orchetto faina disgustato": [
-    "EO-049"
-  ],
-  "orda di piovra metalliche": [
-    "EO-050"
-  ],
-  "pegas affamato": [
-    "EO-051"
-  ],
-  "protettore generoso": [
-    "EO-052"
-  ],
-  "sabotare gli ingredienti": [
-    "EO-053"
-  ],
-  "saetta ipersonica": [
-    "EO-054"
-  ],
-  "scarpe da ginnastica": [
-    "EO-055"
-  ],
-  "semplicita": [
-    "EO-056"
-  ],
-  "sifone mistico tipo lampo": [
-    "EO-057"
-  ],
-  "supervelocita ipnotica": [
-    "EO-058"
-  ],
-  "vento di sabbie": [
-    "EO-059"
-  ],
-  "artiglio d ombra": [
-    "EO-060"
-  ],
-  "banchetto degli orchetti faina": [
-    "EO-062"
-  ],
-  "dominio dell oscurita": [
-    "EO-065"
-  ],
-  "fantasma guerriero": [
-    "EO-066"
-  ],
-  "fumo insetticida": [
-    "EO-067"
-  ],
-  "furia di drago": [
-    "EO-068"
-  ],
-  "grande inganno": [
-    "EO-069"
-  ],
-  "infierire sui deboli": [
-    "EO-070"
-  ],
-  "piccolo trucco": [
-    "EO-072"
-  ],
-  "pluto aggressivo": [
-    "EO-073"
-  ],
-  "proiettili di aglio": [
-    "EO-074"
-  ],
-  "re ugrun": [
-    "EO-075"
-  ],
-  "scettro oscuro": [
-    "EO-076"
-  ],
-  "sconforto": [
-    "EO-077"
-  ],
-  "sforzo funesto": [
-    "EO-078",
-    "R-046"
-  ],
-  "sifone mistico tipo nightmare": [
-    "EO-079"
-  ],
-  "urlo terrorizzante": [
-    "EO-081"
-  ],
-  "vedere nel buio": [
-    "EO-082"
-  ],
-  "affetto soffocante": [
-    "EO-083"
-  ],
-  "arpa di fiamma": [
-    "EO-085"
-  ],
-  "cotta di maglia antimagma": [
-    "EO-086"
-  ],
-  "doppio attacco fulminante": [
-    "EO-087"
-  ],
-  "drago furioso": [
-    "EO-088"
-  ],
-  "evanescenza": [
-    "EO-089"
-  ],
-  "fanfir raffreddato": [
-    "EO-090"
-  ],
-  "fenris": [
-    "EO-091"
-  ],
-  "fiamme arroventate": [
-    "EO-092"
-  ],
-  "fulmine inceneritore potenziato": [
-    "EO-093"
-  ],
-  "guanto di gameras": [
-    "EO-095"
-  ],
-  "nullifica": [
-    "EO-099"
-  ],
-  "prezzo dell avidita": [
-    "EO-100"
-  ],
-  "sbriciola la pietra": [
-    "EO-101"
-  ],
-  "scudo riflettente": [
-    "EO-103"
-  ],
-  "sfera della conoscenza": [
-    "EO-104"
-  ],
-  "tempesta di fuoco": [
-    "EO-105"
-  ],
-  "una nuova speranza": [
-    "EO-106"
+  "accelera magia": [
+    {
+      "id": "EO-150",
+      "color": "blu"
+    }
   ],
   "acqua della fonte di oberon": [
-    "EO-107"
-  ],
-  "aiuto di ormen": [
-    "EO-108"
-  ],
-  "artigli di edera velenosa": [
-    "EO-109"
-  ],
-  "bolla impenetrabile": [
-    "EO-111"
-  ],
-  "consiglio malevolo": [
-    "EO-113"
-  ],
-  "crescita gigante": [
-    "EO-114"
-  ],
-  "esercito di orchetti faina": [
-    "EO-115"
-  ],
-  "furto": [
-    "EO-116"
-  ],
-  "gabbia avvolgente": [
-    "EO-117"
-  ],
-  "gargoyle prepotente": [
-    "EO-118"
-  ],
-  "mappa ufficiale dei castelli": [
-    "EO-119"
-  ],
-  "penna magica": [
-    "EO-120"
-  ],
-  "saggezza di ormen": [
-    "EO-122"
-  ],
-  "sfera della tranqullita": [
-    "EO-123"
-  ],
-  "sfera di cristallo": [
-    "EO-124"
-  ],
-  "sgusciare": [
-    "EO-125"
-  ],
-  "sintonia con la foresta": [
-    "EO-126"
-  ],
-  "sintonia con la natura": [
-    "EO-127"
-  ],
-  "spaventapasseri abominevole": [
-    "EO-128"
-  ],
-  "teletrasporto mistico": [
-    "EO-129"
-  ],
-  "camera della porta nera": [
-    "EO-131",
-    "TP-005"
-  ],
-  "fonte rigenerante": [
-    "EO-132"
-  ],
-  "rocca del falcone": [
-    "EO-133"
-  ],
-  "sala dei gargoyle": [
-    "EO-134",
-    "TP-006"
-  ],
-  "bibloteca di bukara": [
-    "EO-135"
-  ],
-  "torre di dimeticati": [
-    "EO-137"
-  ],
-  "castello di arborea": [
-    "EO-138"
-  ],
-  "chiostro di ekrendorf": [
-    "EO-139",
-    "TP-008"
-  ],
-  "grande alveare": [
-    "EO-140"
-  ],
-  "matteus z": [
-    "EO-141"
-  ],
-  "alexander r": [
-    "EO-142"
-  ],
-  "manu ellen m": [
-    "EO-143"
-  ],
-  "ioshi mago forzuto": [
-    "EO-144"
-  ],
-  "madre dei diamagic": [
-    "EO-145"
-  ],
-  "prezzo del potere": [
-    "EO-146",
-    "PDA-015"
-  ],
-  "dragavar": [
-    "EO-148"
-  ],
-  "ormen drago saggio": [
-    "EO-149"
-  ],
-  "accelera magia": [
-    "EO-150"
-  ],
-  "catacombe di gameras": [
-    "EO-151"
-  ],
-  "hypnor drago orribile": [
-    "EO-152"
-  ],
-  "dreadking supremo dominatore": [
-    "EO-153"
-  ],
-  "neraja grande strega": [
-    "EO-154"
-  ],
-  "pyranar drago anfibio": [
-    "EO-155"
-  ],
-  "castello illusiorio": [
-    "EO-157"
-  ],
-  "diatriba magica": [
-    "EO-158"
-  ],
-  "assorbi diamagic": [
-    "EO-160",
-    "R-028"
-  ],
-  "duplicazione multipla": [
-    "EO-161"
-  ],
-  "salsicce stritolanti": [
-    "EO-162"
-  ],
-  "iceburg": [
-    "EO-164"
-  ],
-  "macchia nera creatura d ombra": [
-    "TD01-002"
-  ],
-  "gioco di inganni": [
-    "TD01-015"
-  ],
-  "tarlo del dubbio": [
-    "TD01-016"
-  ],
-  "turbante dell invisibilita": [
-    "TD01-017",
-    "R-057"
-  ],
-  "regno dei pipistrellorchi": [
-    "TD01-031"
-  ],
-  "paperina maga radiosa": [
-    "TD02-001"
-  ],
-  "trasferire diamagic": [
-    "TD02-012"
-  ],
-  "grande banchetto": [
-    "TD02-016"
-  ],
-  "muro di spine": [
-    "TD02-024"
-  ],
-  "castello di gideon": [
-    "TD02-031"
-  ],
-  "paperino mago indebitato": [
-    "TD03-002"
-  ],
-  "sostituzione astuta": [
-    "TD03-011"
-  ],
-  "telecomando": [
-    "TD03-018"
-  ],
-  "drago di ferro": [
-    "TD03-027"
-  ],
-  "castello dei robot warlock": [
-    "TD03-031"
-  ],
-  "topolino stregone nero": [
-    "PDA-001",
-    "PDA-002",
-    "PDA-003"
-  ],
-  "antiche tenebre": [
-    "PDA-004"
-  ],
-  "arti oscure": [
-    "PDA-005"
-  ],
-  "combattimento magico": [
-    "PDA-006"
-  ],
-  "editto dello stregone nero": [
-    "PDA-007"
-  ],
-  "energia magica": [
-    "PDA-008"
-  ],
-  "forza di volonta": [
-    "PDA-009"
-  ],
-  "frammenti della corona": [
-    "PDA-010"
-  ],
-  "guardiano ombra": [
-    "PDA-011"
-  ],
-  "il giorno senza sole": [
-    "PDA-012"
-  ],
-  "minaccia oscura": [
-    "PDA-014"
-  ],
-  "solitudine": [
-    "PDA-016"
-  ],
-  "archivi ricurvi": [
-    "PDA-017"
-  ],
-  "castello dello stregone nero": [
-    "PDA-018"
-  ],
-  "ingresso nebbioso": [
-    "PDA-019"
-  ],
-  "mura rinforzate": [
-    "PDA-020"
-  ],
-  "zanne affilate": [
-    "PDA-021"
-  ],
-  "valle delle ossa": [
-    "PDA-023"
-  ],
-  "apprendista giovane mago della pioggia": [
-    "TP-001"
-  ],
-  "apprendista giovane mago della sabbia": [
-    "TP-002"
-  ],
-  "apprendista giovane mago del fuoco": [
-    "TP-003"
-  ],
-  "apprendista giovane mago della foresta": [
-    "TP-004"
-  ],
-  "torre dei dimenticati": [
-    "TP-007"
-  ],
-  "ermex sublime tessitore": [
-    "R-001"
-  ],
-  "paperina maga combattiva": [
-    "R-002"
-  ],
-  "gambadilegno ladro di diamagic": [
-    "R-003"
-  ],
-  "garma strega volante": [
-    "R-004"
-  ],
-  "lady sauria signora dei draghi": [
-    "R-005"
-  ],
-  "minni principessa d argento": [
-    "R-006"
-  ],
-  "olmex tintore stregato": [
-    "R-007"
-  ],
-  "paperino mago avventuriero": [
-    "R-008"
-  ],
-  "tkubon stregone alchimista": [
-    "R-009"
-  ],
-  "diamagic dell invisibilita": [
-    "R-010"
-  ],
-  "livello superiore": [
-    "R-012"
-  ],
-  "ricami dell arazzo": [
-    "R-014"
-  ],
-  "schiacciare": [
-    "R-015"
-  ],
-  "supremo inganno": [
-    "R-016"
-  ],
-  "taglia gigante": [
-    "R-017"
-  ],
-  "ali del drago": [
-    "R-019"
-  ],
-  "bordone di bruma": [
-    "R-020"
-  ],
-  "carica inarrestabile": [
-    "R-021"
-  ],
-  "furto di diamagic": [
-    "R-023"
-  ],
-  "generale degli orchetti faina": [
-    "R-025"
-  ],
-  "orchetto faina lanciere": [
-    "R-026"
-  ],
-  "sprint": [
-    "R-027"
-  ],
-  "bellezza perduta": [
-    "R-029"
-  ],
-  "bordone di garma": [
-    "R-031"
-  ],
-  "cassaforte della menzogna": [
-    "R-032"
-  ],
-  "ode di lay sauria": [
-    "R-033"
-  ],
-  "orchetti faina rivali": [
-    "R-034"
-  ],
-  "rabbia distruttiva": [
-    "R-035"
-  ],
-  "ruggito del drago": [
-    "R-036"
+    {
+      "id": "EO-107",
+      "color": "verde"
+    }
+  ],
+  "affetto soffocante": [
+    {
+      "id": "EO-083",
+      "color": "rosso"
+    }
+  ],
+  "agguato degli orchetti faina": [
+    {
+      "id": "EO-039",
+      "color": "giallo"
+    }
   ],
   "agilita": [
-    "R-037"
-  ],
-  "colpo della fiammata catatonica": [
-    "R-039"
-  ],
-  "drago giocoliere": [
-    "R-040"
-  ],
-  "fafnir bussola": [
-    "R-041"
-  ],
-  "furto in miniatura": [
-    "R-042"
-  ],
-  "gargoyle draconici": [
-    "R-043"
-  ],
-  "rap del drago rock": [
-    "R-045"
-  ],
-  "tempesta di fulmini": [
-    "R-047"
-  ],
-  "zanne di drago": [
-    "R-048"
-  ],
-  "barriera di foglie": [
-    "R-050"
-  ],
-  "clarabella furiosa": [
-    "R-051"
-  ],
-  "gennarino": [
-    "R-052"
-  ],
-  "levitazione": [
-    "R-053"
-  ],
-  "pentolone magico bollente": [
-    "R-055"
-  ],
-  "salvare il regno": [
-    "R-056"
-  ],
-  "scogli delle sirene": [
-    "R-059"
-  ],
-  "monti invalicabili": [
-    "R-061"
-  ],
-  "piana di magma": [
-    "R-062"
-  ],
-  "foresta degli alberi morti": [
-    "R-063"
-  ],
-  "guglie della torre": [
-    "R-064"
-  ],
-  "sala delle mangrovie": [
-    "R-065"
+    {
+      "id": "R-037",
+      "color": "rosso"
+    }
   ],
   "aiuto contro la siccita": [
-    "R-066"
+    {
+      "id": "R-066",
+      "color": "-"
+    }
+  ],
+  "aiuto di ormen": [
+    {
+      "id": "EO-108",
+      "color": "verde"
+    }
+  ],
+  "aiuto inatteso": [
+    {
+      "id": "T-116",
+      "color": "verde"
+    }
+  ],
+  "ala meccanica": [
+    {
+      "id": "OR-082",
+      "color": "rosso"
+    }
+  ],
+  "ala scudo antifiamma": [
+    {
+      "id": "T-013",
+      "color": "blu"
+    }
+  ],
+  "alexander r": [
+    {
+      "id": "EO-142",
+      "color": "giallo"
+    }
+  ],
+  "ali del drago": [
+    {
+      "id": "R-019",
+      "color": "giallo"
+    }
+  ],
+  "alito del drago": [
+    {
+      "id": "EO-084",
+      "color": "rosso"
+    },
+    {
+      "id": "OR-083",
+      "color": "rosso"
+    }
+  ],
+  "alleanza mistica": [
+    {
+      "id": "EO-016",
+      "color": "blu"
+    }
+  ],
+  "amelia strega ambiziosa": [
+    {
+      "id": "OR-020",
+      "color": "verde"
+    }
+  ],
+  "amelia strega vanagloriosa": [
+    {
+      "id": "T-010",
+      "color": "verde"
+    }
+  ],
+  "ampolla di magma": [
+    {
+      "id": "OR-084",
+      "color": "rosso"
+    }
+  ],
+  "amuleto del potere": [
+    {
+      "id": "OR-085",
+      "color": "rosso"
+    }
+  ],
+  "amuletofonino": [
+    {
+      "id": "T-118",
+      "color": "verde"
+    }
+  ],
+  "amuletofonino veggente": [
+    {
+      "id": "T-088",
+      "color": "verde"
+    }
+  ],
+  "androidi gemelli": [
+    {
+      "id": "OR-054",
+      "color": "giallo"
+    }
+  ],
+  "annulla magia": [
+    {
+      "id": "T-063",
+      "color": "rosso"
+    }
+  ],
+  "annulla materia": [
+    {
+      "id": "T-014",
+      "color": "blu"
+    }
+  ],
+  "antiche tenebre": [
+    {
+      "id": "PDA-004",
+      "color": "nero"
+    }
+  ],
+  "apprendista giovane mago del fuoco": [
+    {
+      "id": "TP-003",
+      "color": "rosso"
+    }
+  ],
+  "apprendista giovane mago della foresta": [
+    {
+      "id": "TP-004",
+      "color": "verde"
+    }
+  ],
+  "apprendista giovane mago della pioggia": [
+    {
+      "id": "TP-001",
+      "color": "blu"
+    }
+  ],
+  "apprendista giovane mago della sabbia": [
+    {
+      "id": "TP-002",
+      "color": "giallo"
+    }
+  ],
+  "archivi ricurvi": [
+    {
+      "id": "PDA-017",
+      "color": "nero"
+    }
+  ],
+  "arco di fulmini": [
+    {
+      "id": "EO-017",
+      "color": "blu"
+    },
+    {
+      "id": "OR-086",
+      "color": "rosso"
+    }
+  ],
+  "arena dei desideri": [
+    {
+      "id": "T-128",
+      "color": "nero"
+    }
+  ],
+  "arpa di fiamma": [
+    {
+      "id": "EO-085",
+      "color": "rosso"
+    }
+  ],
+  "arti oscure": [
+    {
+      "id": "PDA-005",
+      "color": "nero"
+    }
+  ],
+  "artigli d ombra": [
+    {
+      "id": "OR-087",
+      "color": "rosso"
+    }
+  ],
+  "artigli devastatori": [
+    {
+      "id": "OR-055",
+      "color": "giallo"
+    }
+  ],
+  "artigli di edera velenosa": [
+    {
+      "id": "EO-109",
+      "color": "verde"
+    }
+  ],
+  "artiglio d ombra": [
+    {
+      "id": "EO-060",
+      "color": "nero"
+    }
+  ],
+  "artiglio meccanico": [
+    {
+      "id": "OR-088",
+      "color": "rosso"
+    }
+  ],
+  "ascia diabolica": [
+    {
+      "id": "OR-056",
+      "color": "giallo"
+    }
+  ],
+  "assorbi diamagic": [
+    {
+      "id": "EO-160",
+      "color": "nero"
+    },
+    {
+      "id": "R-028",
+      "color": "nero"
+    }
+  ],
+  "attacco ingannevole": [
+    {
+      "id": "EO-061",
+      "color": "nero"
+    },
+    {
+      "id": "OR-057",
+      "color": "giallo"
+    }
+  ],
+  "attacco triplo": [
+    {
+      "id": "T-064",
+      "color": "rosso"
+    }
+  ],
+  "avviso dal futuro": [
+    {
+      "id": "ES-235",
+      "color": "blu"
+    },
+    {
+      "id": "T-038",
+      "color": "giallo"
+    }
+  ],
+  "avvizzimento istantaneo": [
+    {
+      "id": "T-089",
+      "color": "verde"
+    }
+  ],
+  "azzannata rabbiosa": [
+    {
+      "id": "T-090",
+      "color": "verde"
+    }
+  ],
+  "bagliore accecante": [
+    {
+      "id": "OR-089",
+      "color": "rosso"
+    }
+  ],
+  "bagliore del lampo": [
+    {
+      "id": "OR-026",
+      "color": "blu"
+    },
+    {
+      "id": "R-038",
+      "color": "rosso"
+    }
+  ],
+  "balzo supersonico": [
+    {
+      "id": "OR-110",
+      "color": "verde"
+    }
+  ],
+  "banchetto degli orchetti faina": [
+    {
+      "id": "EO-062",
+      "color": "nero"
+    }
+  ],
+  "barlume di veggenza": [
+    {
+      "id": "T-091",
+      "color": "verde"
+    }
+  ],
+  "barriera di catrame": [
+    {
+      "id": "ES-239",
+      "color": "verde"
+    },
+    {
+      "id": "OR-027",
+      "color": "blu"
+    }
+  ],
+  "barriera di cristallo": [
+    {
+      "id": "T-039",
+      "color": "giallo"
+    }
+  ],
+  "barriera di foglie": [
+    {
+      "id": "R-050",
+      "color": "verde"
+    }
+  ],
+  "barriera di nuvole": [
+    {
+      "id": "EO-018",
+      "color": "blu"
+    }
+  ],
+  "barriera di pietre": [
+    {
+      "id": "OR-058",
+      "color": "giallo"
+    }
+  ],
+  "barriera di siepi": [
+    {
+      "id": "EO-110",
+      "color": "verde"
+    },
+    {
+      "id": "T-040",
+      "color": "giallo"
+    }
+  ],
+  "barriera istantanea": [
+    {
+      "id": "EO-019",
+      "color": "blu"
+    }
+  ],
+  "bassotto secundus mago carrarmato": [
+    {
+      "id": "T-130",
+      "color": "rosso"
+    }
+  ],
+  "bassotto tertius brigante in miniatura": [
+    {
+      "id": "EO-013",
+      "color": "verde"
+    }
+  ],
+  "bassotto tertius dal manto invisibile": [
+    {
+      "id": "OR-021",
+      "color": "verde"
+    }
+  ],
+  "bassotto unus furfante di strada": [
+    {
+      "id": "OR-007",
+      "color": "giallo"
+    }
+  ],
+  "bassotto unus ladro sciocco": [
+    {
+      "id": "EO-007",
+      "color": "nero"
+    }
+  ],
+  "bastione del drago": [
+    {
+      "id": "T-151",
+      "color": "rosso"
+    }
+  ],
+  "bellezza perduta": [
+    {
+      "id": "R-029",
+      "color": "nero"
+    }
+  ],
+  "bestia del malaugurio": [
+    {
+      "id": "OR-059",
+      "color": "giallo"
+    }
+  ],
+  "biblioteca di bukara": [
+    {
+      "id": "OR-145",
+      "color": "rosso"
+    }
+  ],
+  "bibloteca di bukara": [
+    {
+      "id": "EO-135",
+      "color": "nero"
+    }
+  ],
+  "bilancia dell equilibrio": [
+    {
+      "id": "T-136",
+      "color": "verde"
+    }
+  ],
+  "bile di troll": [
+    {
+      "id": "T-092",
+      "color": "verde"
+    }
+  ],
+  "blocca tempesta": [
+    {
+      "id": "R-030",
+      "color": "nero"
+    },
+    {
+      "id": "T-015",
+      "color": "blu"
+    }
+  ],
+  "bolla impenetrabile": [
+    {
+      "id": "EO-111",
+      "color": "verde"
+    }
+  ],
+  "boom sonico": [
+    {
+      "id": "OR-028",
+      "color": "blu"
+    }
+  ],
+  "boom sonico avvolgente": [
+    {
+      "id": "OR-090",
+      "color": "rosso"
+    }
+  ],
+  "boom sonico echeggiante": [
+    {
+      "id": "T-119",
+      "color": "rosso"
+    }
+  ],
+  "boom sonico rintronante": [
+    {
+      "id": "T-065",
+      "color": "rosso"
+    }
+  ],
+  "boom sonico sotterraneo": [
+    {
+      "id": "T-134",
+      "color": "giallo"
+    }
+  ],
+  "bordone di bruma": [
+    {
+      "id": "R-020",
+      "color": "giallo"
+    }
+  ],
+  "bordone di garma": [
+    {
+      "id": "R-031",
+      "color": "nero"
+    }
+  ],
+  "bordone invisibile": [
+    {
+      "id": "T-093",
+      "color": "verde"
+    }
+  ],
+  "bordone mimetico": [
+    {
+      "id": "T-066",
+      "color": "rosso"
+    }
+  ],
+  "bordone scheggiato": [
+    {
+      "id": "EO-040",
+      "color": "giallo"
+    },
+    {
+      "id": "T-041",
+      "color": "giallo"
+    }
+  ],
+  "bordone spezzato": [
+    {
+      "id": "EO-063",
+      "color": "nero"
+    },
+    {
+      "id": "OR-111",
+      "color": "verde"
+    }
+  ],
+  "brama di potere": [
+    {
+      "id": "T-125",
+      "color": "nero"
+    }
+  ],
+  "bruma cuoco brontolone": [
+    {
+      "id": "OR-008",
+      "color": "giallo"
+    }
+  ],
+  "bruma cuoco pigro": [
+    {
+      "id": "EO-003",
+      "color": "giallo"
+    }
+  ],
+  "buca occultante": [
+    {
+      "id": "EO-112",
+      "color": "verde"
+    },
+    {
+      "id": "T-042",
+      "color": "giallo"
+    }
+  ],
+  "cacciatore di draghi": [
+    {
+      "id": "T-016",
+      "color": "blu"
+    }
+  ],
+  "caer clock": [
+    {
+      "id": "OR-139",
+      "color": "blu"
+    }
+  ],
+  "caer fist": [
+    {
+      "id": "T-113",
+      "color": "giallo"
+    }
+  ],
+  "caer meridian": [
+    {
+      "id": "T-114",
+      "color": "rosso"
+    }
+  ],
+  "caer spider": [
+    {
+      "id": "EO-165",
+      "color": "nero"
+    },
+    {
+      "id": "OR-146",
+      "color": "rosso"
+    }
+  ],
+  "calderone abominevole": [
+    {
+      "id": "T-094",
+      "color": "verde"
+    }
+  ],
+  "camera della porta nera": [
+    {
+      "id": "EO-131",
+      "color": "blu"
+    },
+    {
+      "id": "TP-005",
+      "color": "blu"
+    }
   ],
   "campioni leggendari": [
-    "R-067"
+    {
+      "id": "R-067",
+      "color": "-"
+    }
   ],
-  "imbroglio": [
-    "R-068"
+  "carica inarrestabile": [
+    {
+      "id": "R-021",
+      "color": "giallo"
+    }
   ],
-  "lasciami il diamagic": [
-    "R-069"
+  "casa del sonno": [
+    {
+      "id": "T-150",
+      "color": "nero"
+    }
   ],
-  "maghi con le scaglie": [
-    "R-070"
+  "cascata di pozioni": [
+    {
+      "id": "T-043",
+      "color": "giallo"
+    }
   ],
-  "non sbafartela tutta": [
-    "R-071"
+  "cascata eterea": [
+    {
+      "id": "OR-029",
+      "color": "blu"
+    }
   ],
-  "non serve la magia": [
-    "R-072"
+  "cassaforte della menzogna": [
+    {
+      "id": "R-032",
+      "color": "nero"
+    }
   ],
-  "proteggere moonland": [
-    "R-073"
+  "cassaforte della verita": [
+    {
+      "id": "T-067",
+      "color": "rosso"
+    }
   ],
-  "risveglio": [
-    "R-074"
+  "castel shift": [
+    {
+      "id": "OR-030",
+      "color": "blu"
+    },
+    {
+      "id": "OR-112",
+      "color": "verde"
+    }
   ],
-  "spaventiamoli": [
-    "R-075"
+  "castello dei druidi": [
+    {
+      "id": "EO-136",
+      "color": "rosso"
+    },
+    {
+      "id": "OR-142",
+      "color": "giallo"
+    }
   ],
-  "tela animata": [
-    "R-077"
+  "castello dei robot warlock": [
+    {
+      "id": "TD03-031",
+      "color": "nero"
+    }
   ],
-  "zaius guida saggia": [
-    "R-078"
+  "castello del grande albero": [
+    {
+      "id": "OR-148",
+      "color": "verde"
+    }
   ],
-  "pippo mago recalcitante": [
-    "R-079"
+  "castello delle zanne": [
+    {
+      "id": "OR-147",
+      "color": "rosso"
+    }
   ],
-  "generale garth drago coraggioso": [
-    "R-080"
+  "castello dello stregone nero": [
+    {
+      "id": "PDA-018",
+      "color": "nero"
+    }
   ],
-  "turbo il messaggero": [
-    "R-081"
+  "castello di arborea": [
+    {
+      "id": "EO-138",
+      "color": "verde"
+    }
   ],
-  "ira di drago": [
-    "R-082"
+  "castello di ekrendorf": [
+    {
+      "id": "EO-163",
+      "color": "blu"
+    },
+    {
+      "id": "OR-149",
+      "color": "verde"
+    }
   ],
-  "entrare nel sonno": [
-    "R-083"
+  "castello di gideon": [
+    {
+      "id": "TD02-031",
+      "color": "nero"
+    }
   ],
-  "l anno del fuoco": [
-    "R-084"
+  "castello di hanubis": [
+    {
+      "id": "OR-143",
+      "color": "giallo"
+    }
   ],
-  "dente dell orso": [
-    "R-086"
+  "castello illusiorio": [
+    {
+      "id": "EO-157",
+      "color": "giallo"
+    }
+  ],
+  "catacombe di gameras": [
+    {
+      "id": "EO-151",
+      "color": "nero"
+    }
+  ],
+  "catena del dominatore": [
+    {
+      "id": "OR-091",
+      "color": "rosso"
+    }
+  ],
+  "catena di luce": [
+    {
+      "id": "EO-041",
+      "color": "giallo"
+    }
+  ],
+  "chiostro di ekrendorf": [
+    {
+      "id": "EO-139",
+      "color": "verde"
+    },
+    {
+      "id": "TP-008",
+      "color": "verde"
+    }
+  ],
+  "ciotola parlante": [
+    {
+      "id": "EO-042",
+      "color": "giallo"
+    }
+  ],
+  "clarabella furiosa": [
+    {
+      "id": "R-051",
+      "color": "verde"
+    }
+  ],
+  "clarabella maga di primo livello": [
+    {
+      "id": "OR-022",
+      "color": "verde"
+    }
+  ],
+  "clarabella maga di secondo livello": [
+    {
+      "id": "OR-023",
+      "color": "verde"
+    }
+  ],
+  "clarabella maga musicista": [
+    {
+      "id": "T-122",
+      "color": "verde"
+    }
+  ],
+  "clone berserk": [
+    {
+      "id": "T-017",
+      "color": "blu"
+    }
+  ],
+  "collera annebbiante": [
+    {
+      "id": "T-068",
+      "color": "rosso"
+    }
+  ],
+  "colpo della fiammata catatonica": [
+    {
+      "id": "R-039",
+      "color": "rosso"
+    }
+  ],
+  "colpo di bordone": [
+    {
+      "id": "T-044",
+      "color": "giallo"
+    }
+  ],
+  "coltre di invisibilita": [
+    {
+      "id": "T-095",
+      "color": "verde"
+    }
+  ],
+  "combattimento magico": [
+    {
+      "id": "PDA-006",
+      "color": "nero"
+    }
+  ],
+  "consiglio malevolo": [
+    {
+      "id": "EO-113",
+      "color": "verde"
+    }
+  ],
+  "corolla avvolgente": [
+    {
+      "id": "T-069",
+      "color": "rosso"
+    }
+  ],
+  "cortina fumogena": [
+    {
+      "id": "OR-113",
+      "color": "verde"
+    }
+  ],
+  "corvo di sventura": [
+    {
+      "id": "OR-114",
+      "color": "verde"
+    }
+  ],
+  "cotta di maglia antimagma": [
+    {
+      "id": "EO-086",
+      "color": "rosso"
+    }
+  ],
+  "craniata dirompente": [
+    {
+      "id": "EO-043",
+      "color": "giallo"
+    },
+    {
+      "id": "T-045",
+      "color": "giallo"
+    }
+  ],
+  "crescita gigante": [
+    {
+      "id": "EO-114",
+      "color": "verde"
+    }
+  ],
+  "cristallizzazione": [
+    {
+      "id": "T-046",
+      "color": "giallo"
+    }
+  ],
+  "cupidigia": [
+    {
+      "id": "EO-064",
+      "color": "nero"
+    },
+    {
+      "id": "T-047",
+      "color": "giallo"
+    }
   ],
   "dente del lupo": [
-    "R-087"
+    {
+      "id": "R-087",
+      "color": "nero"
+    }
+  ],
+  "dente dell orso": [
+    {
+      "id": "R-086",
+      "color": "blu"
+    }
+  ],
+  "destrezza elfica": [
+    {
+      "id": "OR-115",
+      "color": "verde"
+    }
+  ],
+  "destriero di fuoco": [
+    {
+      "id": "EO-020",
+      "color": "blu"
+    },
+    {
+      "id": "T-070",
+      "color": "rosso"
+    }
+  ],
+  "diamagic dell invisibilita": [
+    {
+      "id": "R-010",
+      "color": "blu"
+    }
+  ],
+  "diatriba magica": [
+    {
+      "id": "EO-158",
+      "color": "giallo"
+    }
+  ],
+  "dicerie velenose": [
+    {
+      "id": "T-147",
+      "color": "nero"
+    }
+  ],
+  "disorientamenteo": [
+    {
+      "id": "EO-021",
+      "color": "blu"
+    }
+  ],
+  "disorientamento": [
+    {
+      "id": "T-048",
+      "color": "giallo"
+    }
+  ],
+  "dissolvenza": [
+    {
+      "id": "T-018",
+      "color": "blu"
+    }
+  ],
+  "dolci parole": [
+    {
+      "id": "T-145",
+      "color": "nero"
+    }
+  ],
+  "dominio dell oscurita": [
+    {
+      "id": "EO-065",
+      "color": "nero"
+    }
+  ],
+  "dono ingannevole": [
+    {
+      "id": "EO-022",
+      "color": "blu"
+    }
+  ],
+  "doppia velocita": [
+    {
+      "id": "T-096",
+      "color": "verde"
+    }
+  ],
+  "doppio attacco fulminante": [
+    {
+      "id": "EO-087",
+      "color": "rosso"
+    }
+  ],
+  "doppio fulmine a spirale": [
+    {
+      "id": "ES-238",
+      "color": "rosso"
+    },
+    {
+      "id": "OR-031",
+      "color": "blu"
+    }
+  ],
+  "dragavar": [
+    {
+      "id": "EO-148",
+      "color": "rosso"
+    }
+  ],
+  "drago di ferro": [
+    {
+      "id": "TD03-027",
+      "color": "rosso"
+    }
+  ],
+  "drago furioso": [
+    {
+      "id": "EO-088",
+      "color": "rosso"
+    }
+  ],
+  "drago giocoliere": [
+    {
+      "id": "R-040",
+      "color": "rosso"
+    }
+  ],
+  "drago meccanico": [
+    {
+      "id": "OR-060",
+      "color": "giallo"
+    }
+  ],
+  "dreadking supremo dominatore": [
+    {
+      "id": "EO-153",
+      "color": "nero"
+    }
+  ],
+  "droide da battaglia": [
+    {
+      "id": "OR-032",
+      "color": "blu"
+    }
+  ],
+  "droide granchio": [
+    {
+      "id": "T-049",
+      "color": "giallo"
+    }
+  ],
+  "droide scout": [
+    {
+      "id": "T-097",
+      "color": "verde"
+    }
+  ],
+  "duplicazione multipla": [
+    {
+      "id": "EO-161",
+      "color": "nero"
+    }
+  ],
+  "edera urticante": [
+    {
+      "id": "OR-116",
+      "color": "verde"
+    }
+  ],
+  "editto dello stregone nero": [
+    {
+      "id": "PDA-007",
+      "color": "nero"
+    }
+  ],
+  "energia magica": [
+    {
+      "id": "PDA-008",
+      "color": "nero"
+    }
+  ],
+  "energia rocciosa": [
+    {
+      "id": "T-050",
+      "color": "giallo"
+    }
+  ],
+  "entrare nel sonno": [
+    {
+      "id": "R-083",
+      "color": "nero"
+    }
+  ],
+  "ermex sublime tessitore": [
+    {
+      "id": "R-001",
+      "color": "blu"
+    }
+  ],
+  "esercito di orchetti faina": [
+    {
+      "id": "EO-115",
+      "color": "verde"
+    }
+  ],
+  "essiccare": [
+    {
+      "id": "T-135",
+      "color": "rosso"
+    }
+  ],
+  "evanescenza": [
+    {
+      "id": "EO-089",
+      "color": "rosso"
+    }
+  ],
+  "evocazione di pioggia": [
+    {
+      "id": "EO-023",
+      "color": "blu"
+    },
+    {
+      "id": "OR-033",
+      "color": "blu"
+    }
+  ],
+  "fafnir": [
+    {
+      "id": "OR-092",
+      "color": "rosso"
+    }
+  ],
+  "fafnir bussola": [
+    {
+      "id": "R-041",
+      "color": "rosso"
+    }
+  ],
+  "fanfir raffreddato": [
+    {
+      "id": "EO-090",
+      "color": "rosso"
+    }
+  ],
+  "fantasma guerriero": [
+    {
+      "id": "EO-066",
+      "color": "nero"
+    }
+  ],
+  "fantoccio mutaforma": [
+    {
+      "id": "OR-117",
+      "color": "verde"
+    }
+  ],
+  "fascino ammaliante": [
+    {
+      "id": "R-022",
+      "color": "giallo"
+    },
+    {
+      "id": "T-071",
+      "color": "rosso"
+    }
+  ],
+  "fato ineluttabile": [
+    {
+      "id": "EO-024",
+      "color": "blu"
+    }
+  ],
+  "fenris": [
+    {
+      "id": "EO-091",
+      "color": "rosso"
+    }
+  ],
+  "fiamma avvolgente": [
+    {
+      "id": "T-072",
+      "color": "rosso"
+    }
+  ],
+  "fiamme arroventate": [
+    {
+      "id": "EO-092",
+      "color": "rosso"
+    }
+  ],
+  "fiamme carbonizzanti": [
+    {
+      "id": "T-073",
+      "color": "rosso"
+    }
+  ],
+  "fiore dell oblio": [
+    {
+      "id": "OR-118",
+      "color": "verde"
+    }
+  ],
+  "fire flash mago fulminante": [
+    {
+      "id": "EO-004",
+      "color": "giallo"
+    }
+  ],
+  "fiuto sopraffino": [
+    {
+      "id": "T-074",
+      "color": "rosso"
+    }
+  ],
+  "fonte rigenerante": [
+    {
+      "id": "EO-132",
+      "color": "giallo"
+    }
+  ],
+  "foresta degli alberi morti": [
+    {
+      "id": "R-063",
+      "color": "verde"
+    }
+  ],
+  "foresta tenebrosa": [
+    {
+      "id": "OR-119",
+      "color": "verde"
+    }
+  ],
+  "forza di volonta": [
+    {
+      "id": "PDA-009",
+      "color": "nero"
+    }
+  ],
+  "frammenti della corona": [
+    {
+      "id": "PDA-010",
+      "color": "nero"
+    }
+  ],
+  "frittelle nutrienti": [
+    {
+      "id": "EO-025",
+      "color": "blu"
+    }
+  ],
+  "fulmine celestiale": [
+    {
+      "id": "OR-034",
+      "color": "blu"
+    }
+  ],
+  "fulmine inceneritore": [
+    {
+      "id": "T-075",
+      "color": "rosso"
+    }
+  ],
+  "fulmine inceneritore potenziato": [
+    {
+      "id": "EO-093",
+      "color": "rosso"
+    }
+  ],
+  "fumo insetticida": [
+    {
+      "id": "EO-067",
+      "color": "nero"
+    }
+  ],
+  "fumo nauseante": [
+    {
+      "id": "T-098",
+      "color": "verde"
+    }
+  ],
+  "fungo aureo": [
+    {
+      "id": "T-099",
+      "color": "verde"
+    },
+    {
+      "id": "TD01-021",
+      "color": "verde"
+    }
+  ],
+  "fuoco del tradimento": [
+    {
+      "id": "T-076",
+      "color": "rosso"
+    }
+  ],
+  "fuoco freddo": [
+    {
+      "id": "ES-237",
+      "color": "nero"
+    },
+    {
+      "id": "T-077",
+      "color": "rosso"
+    }
+  ],
+  "furia di drago": [
+    {
+      "id": "EO-068",
+      "color": "nero"
+    }
+  ],
+  "furto": [
+    {
+      "id": "EO-116",
+      "color": "verde"
+    }
+  ],
+  "furto di diamagic": [
+    {
+      "id": "R-023",
+      "color": "giallo"
+    }
+  ],
+  "furto in miniatura": [
+    {
+      "id": "R-042",
+      "color": "rosso"
+    }
+  ],
+  "fusione metallica": [
+    {
+      "id": "T-051",
+      "color": "giallo"
+    }
+  ],
+  "gabbia avvolgente": [
+    {
+      "id": "EO-117",
+      "color": "verde"
+    }
+  ],
+  "gabbia mistica": [
+    {
+      "id": "T-019",
+      "color": "blu"
+    }
+  ],
+  "gabbia oscura": [
+    {
+      "id": "OR-093",
+      "color": "rosso"
+    }
+  ],
+  "gambadilegno furfante astuto": [
+    {
+      "id": "OR-024",
+      "color": "verde"
+    }
+  ],
+  "gambadilegno ladro di diamagic": [
+    {
+      "id": "R-003",
+      "color": "nero"
+    }
+  ],
+  "gambadilegno ladro stregone": [
+    {
+      "id": "OR-013",
+      "color": "rosso"
+    }
+  ],
+  "gambadilegno mago tormentato": [
+    {
+      "id": "EO-014",
+      "color": "verde"
+    }
+  ],
+  "gargoyle dominante": [
+    {
+      "id": "EO-044",
+      "color": "giallo"
+    }
+  ],
+  "gargoyle draconici": [
+    {
+      "id": "R-043",
+      "color": "rosso"
+    }
+  ],
+  "gargoyle forzuto": [
+    {
+      "id": "OR-061",
+      "color": "giallo"
+    }
+  ],
+  "gargoyle forzuto in catene": [
+    {
+      "id": "EO-159",
+      "color": "giallo"
+    },
+    {
+      "id": "OR-062",
+      "color": "giallo"
+    }
+  ],
+  "gargoyle meditativo": [
+    {
+      "id": "OR-063",
+      "color": "giallo"
+    },
+    {
+      "id": "R-024",
+      "color": "giallo"
+    }
+  ],
+  "gargoyle prepotente": [
+    {
+      "id": "EO-118",
+      "color": "verde"
+    }
+  ],
+  "gargoyle spia": [
+    {
+      "id": "EO-147",
+      "color": "verde"
+    },
+    {
+      "id": "OR-094",
+      "color": "rosso"
+    }
+  ],
+  "gargoyle timido": [
+    {
+      "id": "OR-064",
+      "color": "giallo"
+    }
+  ],
+  "garma megera vanitosa": [
+    {
+      "id": "T-004",
+      "color": "giallo"
+    }
+  ],
+  "garma strega dispettosa": [
+    {
+      "id": "OR-009",
+      "color": "giallo"
+    }
+  ],
+  "garma strega volante": [
+    {
+      "id": "R-004",
+      "color": "nero"
+    }
+  ],
+  "garubashi mago colossale": [
+    {
+      "id": "T-129",
+      "color": "giallo"
+    }
+  ],
+  "generale degli orchetti faina": [
+    {
+      "id": "R-025",
+      "color": "giallo"
+    }
+  ],
+  "generale garth drago coraggioso": [
+    {
+      "id": "R-080",
+      "color": "rosso"
+    }
+  ],
+  "generale garth drago stratega": [
+    {
+      "id": "T-011",
+      "color": "verde"
+    }
+  ],
+  "gennarino": [
+    {
+      "id": "R-052",
+      "color": "verde"
+    }
+  ],
+  "gigantismo": [
+    {
+      "id": "EO-094",
+      "color": "rosso"
+    },
+    {
+      "id": "T-052",
+      "color": "giallo"
+    }
+  ],
+  "gioco di inganni": [
+    {
+      "id": "TD01-015",
+      "color": "nero"
+    }
+  ],
+  "golem di sabbia": [
+    {
+      "id": "OR-065",
+      "color": "giallo"
+    }
+  ],
+  "grande alveare": [
+    {
+      "id": "EO-140",
+      "color": "verde"
+    }
+  ],
+  "grande banchetto": [
+    {
+      "id": "TD02-016",
+      "color": "rosso"
+    }
+  ],
+  "grande inganno": [
+    {
+      "id": "EO-069",
+      "color": "nero"
+    }
+  ],
+  "grandhaven": [
+    {
+      "id": "OR-140",
+      "color": "blu"
+    }
+  ],
+  "grata di metallo": [
+    {
+      "id": "EO-045",
+      "color": "giallo"
+    }
+  ],
+  "grata mistica": [
+    {
+      "id": "T-053",
+      "color": "giallo"
+    }
+  ],
+  "grawlburg": [
+    {
+      "id": "T-115",
+      "color": "verde"
+    }
+  ],
+  "guanto di gameras": [
+    {
+      "id": "EO-095",
+      "color": "rosso"
+    }
+  ],
+  "guardiano ombra": [
+    {
+      "id": "PDA-011",
+      "color": "nero"
+    }
+  ],
+  "guerrieri meccanici a doppia carica": [
+    {
+      "id": "OR-066",
+      "color": "giallo"
+    }
+  ],
+  "guerriero dell arazzo": [
+    {
+      "id": "OR-035",
+      "color": "blu"
+    },
+    {
+      "id": "R-011",
+      "color": "blu"
+    }
+  ],
+  "guerriero dell arazzo a sei braccia": [
+    {
+      "id": "OR-036",
+      "color": "blu"
+    }
+  ],
+  "guerriero ignifugo": [
+    {
+      "id": "EO-026",
+      "color": "blu"
+    }
+  ],
+  "guerriero meccanico magnetico": [
+    {
+      "id": "EO-046",
+      "color": "giallo"
+    },
+    {
+      "id": "OR-120",
+      "color": "verde"
+    }
+  ],
+  "guglie della torre": [
+    {
+      "id": "R-064",
+      "color": "verde"
+    }
+  ],
+  "gurabashi mago forzuto": [
+    {
+      "id": "T-005",
+      "color": "giallo"
+    }
+  ],
+  "hypnor drago orribile": [
+    {
+      "id": "EO-152",
+      "color": "blu"
+    }
+  ],
+  "iceburg": [
+    {
+      "id": "EO-164",
+      "color": "blu"
+    }
+  ],
+  "iena delle steppe": [
+    {
+      "id": "OR-067",
+      "color": "giallo"
+    }
+  ],
+  "il giorno senza sole": [
+    {
+      "id": "PDA-012",
+      "color": "nero"
+    }
+  ],
+  "imbroglio": [
+    {
+      "id": "R-068",
+      "color": "-"
+    }
+  ],
+  "incantesimo riflettente": [
+    {
+      "id": "T-100",
+      "color": "verde"
+    }
+  ],
+  "incanto ciarliero": [
+    {
+      "id": "T-020",
+      "color": "blu"
+    }
+  ],
+  "incanto miniaturizzante": [
+    {
+      "id": "T-021",
+      "color": "blu"
+    }
+  ],
+  "incrocio di bordoni": [
+    {
+      "id": "OR-121",
+      "color": "verde"
+    }
+  ],
+  "incubi": [
+    {
+      "id": "T-022",
+      "color": "blu"
+    }
+  ],
+  "infierire sui deboli": [
+    {
+      "id": "EO-070",
+      "color": "nero"
+    }
+  ],
+  "inganno mutevole": [
+    {
+      "id": "OR-037",
+      "color": "blu"
+    }
+  ],
+  "inganno sottile": [
+    {
+      "id": "R-044",
+      "color": "rosso"
+    },
+    {
+      "id": "T-146",
+      "color": "nero"
+    }
+  ],
+  "ingordigia irrefrenabile": [
+    {
+      "id": "EO-096",
+      "color": "rosso"
+    },
+    {
+      "id": "OR-095",
+      "color": "rosso"
+    }
+  ],
+  "ingresso nebbioso": [
+    {
+      "id": "PDA-019",
+      "color": "nero"
+    }
+  ],
+  "intrico aggrovigliante": [
+    {
+      "id": "T-101",
+      "color": "verde"
+    }
+  ],
+  "ioshi mago forzuto": [
+    {
+      "id": "EO-144",
+      "color": "blu"
+    }
+  ],
+  "ioshi mago voluminoso": [
+    {
+      "id": "T-001",
+      "color": "blu"
+    }
+  ],
+  "ipnosi del drago": [
+    {
+      "id": "OR-096",
+      "color": "rosso"
+    }
+  ],
+  "ira di drago": [
+    {
+      "id": "R-082",
+      "color": "giallo"
+    }
+  ],
+  "ira mannara": [
+    {
+      "id": "T-023",
+      "color": "blu"
+    }
+  ],
+  "kiki": [
+    {
+      "id": "OR-152",
+      "color": "blu"
+    }
+  ],
+  "kiki dispettosa": [
+    {
+      "id": "EO-027",
+      "color": "blu"
+    }
+  ],
+  "l anno del fuoco": [
+    {
+      "id": "R-084",
+      "color": "rosso"
+    }
+  ],
+  "la grande corona": [
+    {
+      "id": "PDA-013",
+      "color": "nero"
+    },
+    {
+      "id": "T-121",
+      "color": "nero"
+    }
+  ],
+  "labirinto dei rovi": [
+    {
+      "id": "T-138",
+      "color": "nero"
+    }
+  ],
+  "labirinto del pendolo": [
+    {
+      "id": "R-060",
+      "color": "giallo"
+    },
+    {
+      "id": "T-137",
+      "color": "blu"
+    }
+  ],
+  "labirinto della lunga gora": [
+    {
+      "id": "T-149",
+      "color": "giallo"
+    }
+  ],
+  "lady sauria signora dei draghi": [
+    {
+      "id": "R-005",
+      "color": "nero"
+    }
+  ],
+  "lampo della verita": [
+    {
+      "id": "OR-038",
+      "color": "blu"
+    }
+  ],
+  "lampo ipnotico": [
+    {
+      "id": "EO-028",
+      "color": "blu"
+    },
+    {
+      "id": "OR-039",
+      "color": "blu"
+    }
+  ],
+  "lasciami il diamagic": [
+    {
+      "id": "R-069",
+      "color": "-"
+    }
+  ],
+  "leggerezza": [
+    {
+      "id": "T-024",
+      "color": "blu"
+    }
+  ],
+  "levitazione": [
+    {
+      "id": "R-053",
+      "color": "verde"
+    }
+  ],
+  "lingua velenosa": [
+    {
+      "id": "T-102",
+      "color": "verde"
+    }
+  ],
+  "liquame putrido": [
+    {
+      "id": "OR-068",
+      "color": "giallo"
+    }
+  ],
+  "livello superiore": [
+    {
+      "id": "R-012",
+      "color": "blu"
+    }
+  ],
+  "luce abbagliante": [
+    {
+      "id": "EO-097",
+      "color": "rosso"
+    },
+    {
+      "id": "OR-040",
+      "color": "blu"
+    }
+  ],
+  "luce della verita": [
+    {
+      "id": "T-054",
+      "color": "giallo"
+    }
+  ],
+  "luce illuminante": [
+    {
+      "id": "EO-047",
+      "color": "giallo"
+    }
+  ],
+  "lupo di fuoco": [
+    {
+      "id": "OR-097",
+      "color": "rosso"
+    }
+  ],
+  "lupo grigio": [
+    {
+      "id": "OR-122",
+      "color": "verde"
+    }
+  ],
+  "macchia nera creatura d ombra": [
+    {
+      "id": "TD01-002",
+      "color": "nero"
+    }
+  ],
+  "macchia nera guardiano ombra": [
+    {
+      "id": "EO-008",
+      "color": "nero"
+    }
+  ],
+  "macchia nera signore degli inganni": [
+    {
+      "id": "OR-151",
+      "color": "blu"
+    }
+  ],
+  "madre dei diamagic": [
+    {
+      "id": "EO-145",
+      "color": "giallo"
+    }
+  ],
+  "maghi con le scaglie": [
+    {
+      "id": "R-070",
+      "color": "-"
+    }
+  ],
+  "magia annullata": [
+    {
+      "id": "OR-069",
+      "color": "giallo"
+    }
+  ],
+  "mago innamorato": [
+    {
+      "id": "EO-029",
+      "color": "blu"
+    }
+  ],
+  "malanno draghesco": [
+    {
+      "id": "T-078",
+      "color": "rosso"
+    }
+  ],
+  "mantide di palude": [
+    {
+      "id": "T-103",
+      "color": "verde"
+    }
+  ],
+  "manu ellen m": [
+    {
+      "id": "EO-143",
+      "color": "rosso"
+    }
+  ],
+  "mappa ufficiale dei castelli": [
+    {
+      "id": "EO-119",
+      "color": "verde"
+    }
+  ],
+  "matteus z": [
+    {
+      "id": "EO-141",
+      "color": "blu"
+    }
+  ],
+  "mazza rimbombante": [
+    {
+      "id": "EO-098",
+      "color": "rosso"
+    },
+    {
+      "id": "T-055",
+      "color": "giallo"
+    }
+  ],
+  "melassa zuccherina": [
+    {
+      "id": "T-056",
+      "color": "giallo"
+    }
+  ],
+  "melodia frastornante": [
+    {
+      "id": "T-025",
+      "color": "blu"
+    }
+  ],
+  "miceland": [
+    {
+      "id": "OR-150",
+      "color": "verde"
+    }
+  ],
+  "minaccia oscura": [
+    {
+      "id": "PDA-014",
+      "color": "nero"
+    }
+  ],
+  "minni maga di secondo livello": [
+    {
+      "id": "OR-014",
+      "color": "rosso"
+    }
+  ],
+  "minni maga diabolica": [
+    {
+      "id": "EO-009",
+      "color": "nero"
+    }
+  ],
+  "minni maga esperta": [
+    {
+      "id": "T-132",
+      "color": "verde"
+    }
+  ],
+  "minni principessa d argento": [
+    {
+      "id": "R-006",
+      "color": "rosso"
+    }
+  ],
+  "minni principessa di moonland": [
+    {
+      "id": "OR-015",
+      "color": "rosso"
+    }
+  ],
+  "mira infallibile": [
+    {
+      "id": "ES-236",
+      "color": "giallo"
+    },
+    {
+      "id": "T-079",
+      "color": "rosso"
+    }
+  ],
+  "monti invalicabili": [
+    {
+      "id": "R-061",
+      "color": "nero"
+    }
+  ],
+  "mura rinforzate": [
+    {
+      "id": "PDA-020",
+      "color": "nero"
+    }
+  ],
+  "muro a levitazione": [
+    {
+      "id": "OR-070",
+      "color": "giallo"
+    }
+  ],
+  "muro di alghe": [
+    {
+      "id": "OR-123",
+      "color": "verde"
+    }
+  ],
+  "muro di levitazione": [
+    {
+      "id": "EO-048",
+      "color": "giallo"
+    }
+  ],
+  "muro di spine": [
+    {
+      "id": "TD02-024",
+      "color": "verde"
+    }
+  ],
+  "muro incandescente": [
+    {
+      "id": "OR-098",
+      "color": "rosso"
+    }
+  ],
+  "mutazione mannara": [
+    {
+      "id": "OR-071",
+      "color": "giallo"
+    }
+  ],
+  "nebbia avvolgente": [
+    {
+      "id": "T-026",
+      "color": "blu"
+    }
+  ],
+  "nebbia di drago": [
+    {
+      "id": "OR-099",
+      "color": "rosso"
+    }
+  ],
+  "nebbia improvvisa": [
+    {
+      "id": "OR-041",
+      "color": "blu"
+    }
+  ],
+  "nembi ciclonici": [
+    {
+      "id": "T-027",
+      "color": "blu"
+    }
+  ],
+  "neraja grande strega": [
+    {
+      "id": "EO-154",
+      "color": "rosso"
+    }
+  ],
+  "neraja strega feroce": [
+    {
+      "id": "T-007",
+      "color": "rosso"
+    }
+  ],
+  "neraja strega vendicativa": [
+    {
+      "id": "OR-016",
+      "color": "rosso"
+    }
+  ],
+  "nereus mago sapiente": [
+    {
+      "id": "T-141",
+      "color": "blu"
+    }
+  ],
+  "nido abominevole": [
+    {
+      "id": "OR-042",
+      "color": "blu"
+    }
+  ],
+  "non sbafartela tutta": [
+    {
+      "id": "R-071",
+      "color": "-"
+    }
+  ],
+  "non serve la magia": [
+    {
+      "id": "R-072",
+      "color": "-"
+    }
+  ],
+  "nullifica": [
+    {
+      "id": "EO-099",
+      "color": "rosso"
+    }
+  ],
+  "ode di lay sauria": [
+    {
+      "id": "R-033",
+      "color": "nero"
+    }
+  ],
+  "olezzo obnubilante": [
+    {
+      "id": "T-104",
+      "color": "verde"
+    }
+  ],
+  "olmex tintore stregato": [
+    {
+      "id": "R-007",
+      "color": "rosso"
+    }
+  ],
+  "onda d urto spaccabarriere": [
+    {
+      "id": "OR-124",
+      "color": "verde"
+    }
+  ],
+  "onda rilucente": [
+    {
+      "id": "T-080",
+      "color": "rosso"
+    }
+  ],
+  "onda tellurica": [
+    {
+      "id": "OR-072",
+      "color": "giallo"
+    }
+  ],
+  "onda travolgente": [
+    {
+      "id": "OR-043",
+      "color": "blu"
+    },
+    {
+      "id": "R-013",
+      "color": "blu"
+    }
+  ],
+  "ondata di rocce": [
+    {
+      "id": "OR-073",
+      "color": "giallo"
+    }
+  ],
+  "orchetti faina rivali": [
+    {
+      "id": "R-034",
+      "color": "nero"
+    }
+  ],
+  "orchetto faina": [
+    {
+      "id": "OR-074",
+      "color": "giallo"
+    }
+  ],
+  "orchetto faina berserk": [
+    {
+      "id": "OR-125",
+      "color": "verde"
+    },
+    {
+      "id": "R-085",
+      "color": "verde"
+    }
+  ],
+  "orchetto faina disgustato": [
+    {
+      "id": "EO-049",
+      "color": "giallo"
+    }
+  ],
+  "orchetto faina lanciere": [
+    {
+      "id": "R-026",
+      "color": "giallo"
+    }
+  ],
+  "orda di orchetti faina": [
+    {
+      "id": "OR-075",
+      "color": "giallo"
+    },
+    {
+      "id": "R-054",
+      "color": "verde"
+    }
+  ],
+  "orda di piovra metalliche": [
+    {
+      "id": "EO-050",
+      "color": "giallo"
+    }
+  ],
+  "ormen drago saggio": [
+    {
+      "id": "EO-149",
+      "color": "rosso/verde"
+    }
+  ],
+  "oscurita": [
+    {
+      "id": "OR-100",
+      "color": "rosso"
+    }
+  ],
+  "palude impenetrabile": [
+    {
+      "id": "EO-071",
+      "color": "nero"
+    },
+    {
+      "id": "OR-076",
+      "color": "giallo"
+    }
+  ],
+  "paperina maga combattiva": [
+    {
+      "id": "R-002",
+      "color": "blu"
+    }
+  ],
+  "paperina maga di primo livello": [
+    {
+      "id": "OR-001",
+      "color": "blu"
+    }
+  ],
+  "paperina maga di secondo livello": [
+    {
+      "id": "OR-002",
+      "color": "blu"
+    }
+  ],
+  "paperina maga radiosa": [
+    {
+      "id": "TD02-001",
+      "color": "giallo"
+    }
+  ],
+  "paperino mago avventuriero": [
+    {
+      "id": "R-008",
+      "color": "rosso"
+    }
+  ],
+  "paperino mago di primo livello": [
+    {
+      "id": "OR-017",
+      "color": "rosso"
+    }
+  ],
+  "paperino mago di secondo livello": [
+    {
+      "id": "OR-018",
+      "color": "rosso"
+    }
+  ],
+  "paperino mago di terzo livello": [
+    {
+      "id": "T-012",
+      "color": "verde"
+    }
+  ],
+  "paperino mago indebitato": [
+    {
+      "id": "TD03-002",
+      "color": "rosso"
+    }
+  ],
+  "particelle eteree": [
+    {
+      "id": "T-081",
+      "color": "rosso"
+    }
+  ],
+  "pegas": [
+    {
+      "id": "T-124",
+      "color": "giallo"
+    }
+  ],
+  "pegas affamato": [
+    {
+      "id": "EO-051",
+      "color": "giallo"
+    }
+  ],
+  "penna magica": [
+    {
+      "id": "EO-120",
+      "color": "verde"
+    }
+  ],
+  "pentolone magico": [
+    {
+      "id": "T-120",
+      "color": "verde"
+    }
+  ],
+  "pentolone magico bollente": [
+    {
+      "id": "R-055",
+      "color": "verde"
+    }
+  ],
+  "percezione alterata": [
+    {
+      "id": "T-028",
+      "color": "blu"
+    }
+  ],
+  "pergamena del potere": [
+    {
+      "id": "T-105",
+      "color": "verde"
+    }
+  ],
+  "pesca esagerata": [
+    {
+      "id": "EO-030",
+      "color": "blu"
+    }
+  ],
+  "petali di loto": [
+    {
+      "id": "OR-126",
+      "color": "verde"
+    }
+  ],
+  "piana di magma": [
+    {
+      "id": "R-062",
+      "color": "rosso"
+    }
+  ],
+  "piccolo trucco": [
+    {
+      "id": "EO-072",
+      "color": "nero"
+    }
+  ],
+  "pietrificazione": [
+    {
+      "id": "OR-077",
+      "color": "giallo"
+    }
+  ],
+  "pioggia dirompente": [
+    {
+      "id": "EO-031",
+      "color": "blu"
+    }
+  ],
+  "pippo mago di terzo livello": [
+    {
+      "id": "T-006",
+      "color": "giallo"
+    }
+  ],
+  "pippo mago ingegnere": [
+    {
+      "id": "EO-005",
+      "color": "giallo"
+    }
+  ],
+  "pippo mago recalcitante": [
+    {
+      "id": "R-079",
+      "color": "giallo"
+    }
+  ],
+  "pippo mago recalcitrante": [
+    {
+      "id": "OR-011",
+      "color": "giallo"
+    }
+  ],
+  "pippo stregone con borsa magica": [
+    {
+      "id": "OR-010",
+      "color": "giallo"
+    }
+  ],
+  "pluto aggressivo": [
+    {
+      "id": "EO-073",
+      "color": "nero"
+    }
+  ],
+  "pluto mannaro": [
+    {
+      "id": "T-117",
+      "color": "blu"
+    }
+  ],
+  "polline starnutifero": [
+    {
+      "id": "OR-127",
+      "color": "verde"
+    }
+  ],
+  "polvere cometa": [
+    {
+      "id": "EO-032",
+      "color": "blu"
+    }
+  ],
+  "porta dell ignoto": [
+    {
+      "id": "OR-078",
+      "color": "giallo"
+    }
+  ],
+  "pozione rigenerante": [
+    {
+      "id": "OR-044",
+      "color": "blu"
+    }
+  ],
+  "pozzo del ghouler": [
+    {
+      "id": "T-143",
+      "color": "nero"
+    }
+  ],
+  "preveggenza": [
+    {
+      "id": "OR-045",
+      "color": "blu"
+    },
+    {
+      "id": "OR-101",
+      "color": "rosso"
+    }
+  ],
+  "prezzo del potere": [
+    {
+      "id": "EO-146",
+      "color": "nero"
+    },
+    {
+      "id": "PDA-015",
+      "color": "nero"
+    }
+  ],
+  "prezzo dell avidita": [
+    {
+      "id": "EO-100",
+      "color": "rosso"
+    }
+  ],
+  "proiettili di aglio": [
+    {
+      "id": "EO-074",
+      "color": "nero"
+    }
+  ],
+  "proteggere moonland": [
+    {
+      "id": "R-073",
+      "color": "-"
+    }
+  ],
+  "protettore generoso": [
+    {
+      "id": "EO-052",
+      "color": "giallo"
+    }
+  ],
+  "pugno magico": [
+    {
+      "id": "T-142",
+      "color": "rosso"
+    }
+  ],
+  "pulci delle sabbie": [
+    {
+      "id": "OR-079",
+      "color": "giallo"
+    }
+  ],
+  "pyranar drago anfibio": [
+    {
+      "id": "EO-155",
+      "color": "verde"
+    }
+  ],
+  "rabbia distruttiva": [
+    {
+      "id": "R-035",
+      "color": "nero"
+    }
+  ],
+  "raffreddore di drago": [
+    {
+      "id": "OR-102",
+      "color": "rosso"
+    }
+  ],
+  "rap del drago rock": [
+    {
+      "id": "R-045",
+      "color": "rosso"
+    }
+  ],
+  "rapa diabolica": [
+    {
+      "id": "T-106",
+      "color": "verde"
+    }
+  ],
+  "re ugrun": [
+    {
+      "id": "EO-075",
+      "color": "nero"
+    }
+  ],
+  "red flash mago velocista": [
+    {
+      "id": "EO-011",
+      "color": "rosso"
+    }
+  ],
+  "regno dei pipistrellorchi": [
+    {
+      "id": "TD01-031",
+      "color": "nero"
+    }
+  ],
+  "ricami dell arazzo": [
+    {
+      "id": "R-014",
+      "color": "blu"
+    }
+  ],
+  "rifugio d emergenza": [
+    {
+      "id": "T-057",
+      "color": "giallo"
+    }
+  ],
+  "risorse inaspettate": [
+    {
+      "id": "EO-033",
+      "color": "blu"
+    }
+  ],
+  "risveglio": [
+    {
+      "id": "R-074",
+      "color": "-"
+    }
+  ],
+  "risveglio dei draghi antichi": [
+    {
+      "id": "T-126",
+      "color": "nero"
+    }
+  ],
+  "rocca del falcone": [
+    {
+      "id": "EO-133",
+      "color": "giallo"
+    }
+  ],
+  "rocca del fungo": [
+    {
+      "id": "T-140",
+      "color": "verde"
+    }
+  ],
+  "rocca del golem dormiente": [
+    {
+      "id": "OR-144",
+      "color": "giallo"
+    }
+  ],
+  "rocca di crow": [
+    {
+      "id": "OR-141",
+      "color": "blu"
+    }
+  ],
+  "rocca di durlan": [
+    {
+      "id": "T-112",
+      "color": "blu"
+    }
+  ],
+  "roknar": [
+    {
+      "id": "PDA-022",
+      "color": "blu"
+    },
+    {
+      "id": "T-123",
+      "color": "blu"
+    }
+  ],
+  "rospo diabolico": [
+    {
+      "id": "OR-128",
+      "color": "verde"
+    }
+  ],
+  "ruggito del drago": [
+    {
+      "id": "R-036",
+      "color": "nero"
+    }
+  ],
+  "sabbie mobili": [
+    {
+      "id": "OR-080",
+      "color": "giallo"
+    }
+  ],
+  "sabotare gli ingredienti": [
+    {
+      "id": "EO-053",
+      "color": "giallo"
+    }
+  ],
+  "saetta ipersonica": [
+    {
+      "id": "EO-054",
+      "color": "giallo"
+    }
+  ],
+  "saggezza di drago": [
+    {
+      "id": "EO-121",
+      "color": "verde"
+    },
+    {
+      "id": "OR-103",
+      "color": "rosso"
+    }
+  ],
+  "saggezza di ormen": [
+    {
+      "id": "EO-122",
+      "color": "verde"
+    }
+  ],
+  "sala dei gargoyle": [
+    {
+      "id": "EO-134",
+      "color": "giallo"
+    },
+    {
+      "id": "TP-006",
+      "color": "giallo"
+    }
+  ],
+  "sala delle mangrovie": [
+    {
+      "id": "R-065",
+      "color": "verde"
+    }
+  ],
+  "salsicce stritolanti": [
+    {
+      "id": "EO-162",
+      "color": "rosso"
+    }
+  ],
+  "salsiccie stritolanti": [
+    {
+      "id": "OR-104",
+      "color": "rosso"
+    }
+  ],
+  "salvare il regno": [
+    {
+      "id": "R-056",
+      "color": "verde"
+    }
+  ],
+  "sasso mordace": [
+    {
+      "id": "T-058",
+      "color": "giallo"
+    }
+  ],
+  "sbadiglio incontenibile": [
+    {
+      "id": "T-029",
+      "color": "blu"
+    }
+  ],
+  "sbarre avvolgenti": [
+    {
+      "id": "OR-129",
+      "color": "verde"
+    }
+  ],
+  "sbriciola la pietra": [
+    {
+      "id": "EO-101",
+      "color": "rosso"
+    }
+  ],
+  "scambio di diamagic": [
+    {
+      "id": "T-107",
+      "color": "verde"
+    }
+  ],
+  "scariche di fulmini": [
+    {
+      "id": "EO-102",
+      "color": "rosso"
+    },
+    {
+      "id": "OR-046",
+      "color": "blu"
+    }
+  ],
+  "scarpe da ginnastica": [
+    {
+      "id": "EO-055",
+      "color": "giallo"
+    }
+  ],
+  "scettro oscuro": [
+    {
+      "id": "EO-076",
+      "color": "nero"
+    }
+  ],
+  "schiacciare": [
+    {
+      "id": "R-015",
+      "color": "blu"
+    }
+  ],
+  "schiuma antifiamma": [
+    {
+      "id": "EO-034",
+      "color": "blu"
+    },
+    {
+      "id": "T-030",
+      "color": "blu"
+    }
+  ],
+  "scia carbonizzante": [
+    {
+      "id": "T-082",
+      "color": "rosso"
+    }
+  ],
+  "sciame di locuste": [
+    {
+      "id": "OR-130",
+      "color": "verde"
+    }
+  ],
+  "scintille appiccafuoco": [
+    {
+      "id": "T-083",
+      "color": "rosso"
+    }
+  ],
+  "scogli delle sirene": [
+    {
+      "id": "R-059",
+      "color": "blu"
+    }
+  ],
+  "sconforto": [
+    {
+      "id": "EO-077",
+      "color": "nero"
+    }
+  ],
+  "scudo anti drago": [
+    {
+      "id": "T-084",
+      "color": "rosso"
+    }
+  ],
+  "scudo di corteccia": [
+    {
+      "id": "OR-131",
+      "color": "verde"
+    }
+  ],
+  "scudo di onde": [
+    {
+      "id": "T-031",
+      "color": "blu"
+    }
+  ],
+  "scudo riflettente": [
+    {
+      "id": "EO-103",
+      "color": "rosso"
+    }
+  ],
+  "sdoppiamento": [
+    {
+      "id": "T-032",
+      "color": "blu"
+    }
+  ],
+  "semi della conoscenza": [
+    {
+      "id": "T-108",
+      "color": "verde"
+    }
+  ],
+  "semi energetici": [
+    {
+      "id": "OR-132",
+      "color": "verde"
+    }
+  ],
+  "semplicita": [
+    {
+      "id": "EO-056",
+      "color": "giallo"
+    }
+  ],
+  "sfera del caos": [
+    {
+      "id": "T-148",
+      "color": "nero"
+    }
+  ],
+  "sfera della conoscenza": [
+    {
+      "id": "EO-104",
+      "color": "rosso"
+    }
+  ],
+  "sfera della tranqullita": [
+    {
+      "id": "EO-123",
+      "color": "verde"
+    }
+  ],
+  "sfera di cristallo": [
+    {
+      "id": "EO-124",
+      "color": "verde"
+    }
+  ],
+  "sfera occultante": [
+    {
+      "id": "OR-133",
+      "color": "verde"
+    }
+  ],
+  "sforzo funesto": [
+    {
+      "id": "EO-078",
+      "color": "nero"
+    },
+    {
+      "id": "R-046",
+      "color": "rosso"
+    }
+  ],
+  "sgusciare": [
+    {
+      "id": "EO-125",
+      "color": "verde"
+    }
+  ],
+  "sifone mistico a balestra": [
+    {
+      "id": "T-085",
+      "color": "rosso"
+    }
+  ],
+  "sifone mistico tipo firetwister": [
+    {
+      "id": "OR-105",
+      "color": "rosso"
+    }
+  ],
+  "sifone mistico tipo gormex": [
+    {
+      "id": "T-059",
+      "color": "giallo"
+    }
+  ],
+  "sifone mistico tipo lampo": [
+    {
+      "id": "EO-057",
+      "color": "giallo"
+    }
+  ],
+  "sifone mistico tipo nightmare": [
+    {
+      "id": "EO-079",
+      "color": "nero"
+    }
+  ],
+  "sifone mistico tipo trappola": [
+    {
+      "id": "EO-035",
+      "color": "blu"
+    }
+  ],
+  "sifone mistico tipo typhon": [
+    {
+      "id": "OR-106",
+      "color": "rosso"
+    }
+  ],
+  "sifone mistico tipo vortex": [
+    {
+      "id": "OR-047",
+      "color": "blu"
+    }
+  ],
+  "simulatore di vista di drago": [
+    {
+      "id": "OR-048",
+      "color": "blu"
+    }
+  ],
+  "sintonia con la foresta": [
+    {
+      "id": "EO-126",
+      "color": "verde"
+    }
+  ],
+  "sintonia con la natura": [
+    {
+      "id": "EO-127",
+      "color": "verde"
+    }
+  ],
+  "smart flash mago fumineo": [
+    {
+      "id": "EO-001",
+      "color": "blu"
+    }
+  ],
+  "soffietto lanciafiamme": [
+    {
+      "id": "OR-107",
+      "color": "rosso"
+    }
+  ],
+  "soffio di ghiaccio": [
+    {
+      "id": "EO-036",
+      "color": "blu"
+    }
+  ],
+  "solitudine": [
+    {
+      "id": "PDA-016",
+      "color": "nero"
+    }
+  ],
+  "sostituzione astuta": [
+    {
+      "id": "TD03-011",
+      "color": "blu"
+    }
+  ],
+  "spada di arborea": [
+    {
+      "id": "OR-134",
+      "color": "verde"
+    }
+  ],
+  "spada incantata": [
+    {
+      "id": "OR-049",
+      "color": "blu"
+    }
+  ],
+  "spaventapasseri abominevole": [
+    {
+      "id": "EO-128",
+      "color": "verde"
+    }
+  ],
+  "spaventiamoli": [
+    {
+      "id": "R-075",
+      "color": "-"
+    }
+  ],
+  "specchio infranto": [
+    {
+      "id": "OR-135",
+      "color": "verde"
+    }
+  ],
+  "spreco di forze": [
+    {
+      "id": "EO-037",
+      "color": "blu"
+    }
+  ],
+  "sprint": [
+    {
+      "id": "R-027",
+      "color": "giallo"
+    }
+  ],
+  "stanza girevole": [
+    {
+      "id": "T-139",
+      "color": "nero"
+    }
+  ],
+  "supervelocita": [
+    {
+      "id": "EO-156",
+      "color": "blu"
+    },
+    {
+      "id": "OR-050",
+      "color": "blu"
+    },
+    {
+      "id": "R-076",
+      "color": "-"
+    }
+  ],
+  "supervelocita ipnotica": [
+    {
+      "id": "EO-058",
+      "color": "giallo"
+    }
+  ],
+  "supremo inganno": [
+    {
+      "id": "R-016",
+      "color": "blu"
+    }
+  ],
+  "svelare gli inganni": [
+    {
+      "id": "T-133",
+      "color": "blu"
+    }
+  ],
+  "taglia gigante": [
+    {
+      "id": "R-017",
+      "color": "blu"
+    }
+  ],
+  "tanfo orrendo": [
+    {
+      "id": "OR-136",
+      "color": "verde"
+    }
+  ],
+  "tarlo del dubbio": [
+    {
+      "id": "TD01-016",
+      "color": "nero"
+    }
+  ],
+  "tela animata": [
+    {
+      "id": "R-077",
+      "color": "-"
+    }
+  ],
+  "tela dell irrealta": [
+    {
+      "id": "T-109",
+      "color": "verde"
+    }
+  ],
+  "telecomando": [
+    {
+      "id": "TD03-018",
+      "color": "giallo"
+    }
+  ],
+  "telepatia": [
+    {
+      "id": "EO-038",
+      "color": "blu"
+    }
+  ],
+  "teletrasporto mistico": [
+    {
+      "id": "EO-129",
+      "color": "verde"
+    }
+  ],
+  "tempesta di fulmini": [
+    {
+      "id": "R-047",
+      "color": "rosso"
+    }
+  ],
+  "tempesta di fuoco": [
+    {
+      "id": "EO-105",
+      "color": "rosso"
+    }
+  ],
+  "tentacoli vegetali": [
+    {
+      "id": "T-110",
+      "color": "verde"
+    }
+  ],
+  "terrore raggelante": [
+    {
+      "id": "T-060",
+      "color": "giallo"
+    }
+  ],
+  "tifone antigravita": [
+    {
+      "id": "T-033",
+      "color": "blu"
+    }
+  ],
+  "tkubon stregone alchimista": [
+    {
+      "id": "R-009",
+      "color": "verde"
+    }
+  ],
+  "topolino apprendista stregone": [
+    {
+      "id": "OR-003",
+      "color": "blu"
+    }
+  ],
+  "topolino mago aggressivo": [
+    {
+      "id": "T-144",
+      "color": "nero"
+    }
+  ],
+  "topolino mago di primo livello": [
+    {
+      "id": "OR-004",
+      "color": "blu"
+    }
+  ],
+  "topolino mago di quarto livello": [
+    {
+      "id": "T-002",
+      "color": "blu"
+    }
+  ],
+  "topolino stregone nero": [
+    {
+      "id": "PDA-001",
+      "color": "nero"
+    },
+    {
+      "id": "PDA-002",
+      "color": "nero"
+    },
+    {
+      "id": "PDA-003",
+      "color": "nero"
+    }
+  ],
+  "topolino stregone supremo": [
+    {
+      "id": "EO-010",
+      "color": "nero"
+    }
+  ],
+  "tormenta di ghiaccio": [
+    {
+      "id": "OR-051",
+      "color": "blu"
+    }
+  ],
+  "tornado del drago": [
+    {
+      "id": "OR-108",
+      "color": "rosso"
+    }
+  ],
+  "tornado irrefrenabile": [
+    {
+      "id": "T-034",
+      "color": "blu"
+    }
+  ],
+  "tornado mistico": [
+    {
+      "id": "OR-052",
+      "color": "blu"
+    },
+    {
+      "id": "R-018",
+      "color": "blu"
+    }
+  ],
+  "torre dei dimenticati": [
+    {
+      "id": "TP-007",
+      "color": "rosso"
+    }
+  ],
+  "torre di dimeticati": [
+    {
+      "id": "EO-137",
+      "color": "rosso"
+    }
+  ],
+  "trappola di ghiaccio": [
+    {
+      "id": "T-035",
+      "color": "blu"
+    }
+  ],
+  "trasferire diamagic": [
+    {
+      "id": "TD02-012",
+      "color": "giallo"
+    }
+  ],
+  "trasmutazione": [
+    {
+      "id": "EO-080",
+      "color": "nero"
+    },
+    {
+      "id": "T-036",
+      "color": "blu"
+    }
+  ],
+  "tristezza": [
+    {
+      "id": "T-037",
+      "color": "blu"
+    }
+  ],
+  "turbante dell invisibilita": [
+    {
+      "id": "R-057",
+      "color": "verde"
+    },
+    {
+      "id": "TD01-017",
+      "color": "nero"
+    }
+  ],
+  "turbo il messaggero": [
+    {
+      "id": "R-081",
+      "color": "blu"
+    }
+  ],
+  "uchibiri mago ingombrante": [
+    {
+      "id": "T-008",
+      "color": "rosso"
+    }
+  ],
+  "una nuova speranza": [
+    {
+      "id": "EO-106",
+      "color": "rosso"
+    }
+  ],
+  "unione di intenti": [
+    {
+      "id": "T-061",
+      "color": "giallo"
+    }
+  ],
+  "urlo terrorizzante": [
+    {
+      "id": "EO-081",
+      "color": "nero"
+    }
+  ],
+  "urto sonico": [
+    {
+      "id": "OR-053",
+      "color": "blu"
+    }
+  ],
+  "valle delle ossa": [
+    {
+      "id": "PDA-023",
+      "color": "rosso"
+    }
+  ],
+  "vampa bruciante": [
+    {
+      "id": "OR-109",
+      "color": "rosso"
+    }
+  ],
+  "vedere nel buio": [
+    {
+      "id": "EO-082",
+      "color": "nero"
+    }
+  ],
+  "vento di sabbie": [
+    {
+      "id": "EO-059",
+      "color": "giallo"
+    }
+  ],
+  "vista mannara": [
+    {
+      "id": "T-086",
+      "color": "rosso"
+    }
+  ],
+  "viticci avvolgenti": [
+    {
+      "id": "OR-137",
+      "color": "verde"
+    }
+  ],
+  "viticci stritolanti": [
+    {
+      "id": "T-127",
+      "color": "verde"
+    }
+  ],
+  "viticcio carnivoro": [
+    {
+      "id": "OR-138",
+      "color": "verde"
+    },
+    {
+      "id": "R-058",
+      "color": "verde"
+    }
+  ],
+  "viticcio esploratore": [
+    {
+      "id": "EO-130",
+      "color": "verde"
+    },
+    {
+      "id": "T-111",
+      "color": "verde"
+    }
+  ],
+  "yomper mago goloso": [
+    {
+      "id": "OR-025",
+      "color": "verde"
+    }
+  ],
+  "yomper mago pasticcione": [
+    {
+      "id": "T-131",
+      "color": "rosso"
+    }
+  ],
+  "yuri cuoco esperto": [
+    {
+      "id": "EO-015",
+      "color": "verde"
+    }
+  ],
+  "yuri mastro cuoco": [
+    {
+      "id": "OR-005",
+      "color": "blu"
+    }
+  ],
+  "zaius drago impetuoso": [
+    {
+      "id": "EO-002",
+      "color": "blu"
+    }
+  ],
+  "zaius drago rosicchiaossa": [
+    {
+      "id": "OR-006",
+      "color": "blu"
+    }
+  ],
+  "zaius drago scavatore": [
+    {
+      "id": "T-003",
+      "color": "blu"
+    }
+  ],
+  "zaius guida saggia": [
+    {
+      "id": "R-078",
+      "color": "blu"
+    }
+  ],
+  "zampata di drago": [
+    {
+      "id": "T-062",
+      "color": "giallo"
+    }
+  ],
+  "zanne affilate": [
+    {
+      "id": "PDA-021",
+      "color": "nero"
+    }
+  ],
+  "zanne di drago": [
+    {
+      "id": "R-048",
+      "color": "rosso"
+    }
+  ],
+  "zanne tritura ossa": [
+    {
+      "id": "OR-081",
+      "color": "giallo"
+    }
+  ],
+  "zefren drago fiammeggiante": [
+    {
+      "id": "OR-019",
+      "color": "rosso"
+    }
+  ],
+  "zefren drago inferocito": [
+    {
+      "id": "T-009",
+      "color": "rosso"
+    }
+  ],
+  "zefren drago strategia": [
+    {
+      "id": "EO-012",
+      "color": "rosso"
+    }
+  ],
+  "zizzania": [
+    {
+      "id": "R-049",
+      "color": "rosso"
+    },
+    {
+      "id": "T-087",
+      "color": "rosso"
+    }
+  ],
+  "zoron drago pigro": [
+    {
+      "id": "OR-012",
+      "color": "giallo"
+    }
+  ],
+  "zoron drago sonnolento": [
+    {
+      "id": "EO-006",
+      "color": "giallo"
+    }
   ]
 }
