@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 // === CONFIG ===
-const CARDS_DIR = "./cards";
+const CARDS_DIR = "./cards/json";
 const OUTPUT = "./data/index.json";
 
 // =================
