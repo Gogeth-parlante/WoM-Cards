@@ -1,8 +1,8 @@
-import fs from "fs";
-import path from "path";
+const fs = require("fs");
+const path = require("path");
 
 // === CONFIG ===
-const CARDS_DIR = "./json/cards";
+const CARDS_DIR = "./cards";
 const OUTPUT = "./data/index.json";
 
 // =================
@@ -40,7 +40,7 @@ for (const file of files) {
   index[key].push({ id, color });
 }
 
-// Ordine alfabetico (facoltativo ma comodo)
+// Ordina alfabeticamente (comodo)
 const sortedIndex = Object.fromEntries(
   Object.entries(index).sort((a, b) => a[0].localeCompare(b[0]))
 );
